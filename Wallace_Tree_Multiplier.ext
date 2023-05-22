@@ -1,0 +1,1347 @@
+timestamp 1684763702
+version 8.3
+tech scmos
+style pharosc200-55nm
+scale 1 1 5.5
+resistclasses 6700 7320 4090 4090 1207000 1207000 7360 87 57 57 57 57 20
+node "ha21" 55284 1.0932 -37 -126 ndif 204 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "ha21" "ha21"
+node "a_n55_n132#" 26800 0 -55 -132 ndif 100 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n136_n131#" 17420 0 -136 -131 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res2" 53550 31.4037 2 -132 ndif 77 40 151 64 0 0 0 0 0 0 0 0 0 0 235 118 0 0 0 0 0 0 0 0 0 0
+equiv "res2" "res2"
+node "a_n28_n100#" 36600 0 -28 -100 pdif 0 0 125 60 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res2_inv" 280980 72.0679 -28 -126 ndif 112 44 164 66 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "res2_inv" "res2_inv"
+equiv "res2_inv" "res2_inv"
+node "a_n198_n131#" 17420 0 -198 -131 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n252_n124#" 16080 0 -252 -124 ndif 60 34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "fa_21_n3" 46289 10.0037 -273 -126 ndif 168 78 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_21_n3" "fa_21_n3"
+node "a_n356_n131#" 17420 0 -356 -131 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "c11" 58570 27.5276 -75 -125 ndif 84 42 166 70 0 0 0 0 0 0 0 0 0 0 246 122 0 0 0 0 0 0 0 0 0 0
+equiv "c11" "c11"
+equiv "c11" "c11"
+equiv "c11" "c11"
+node "c11_inv_2" 506635 119.643 -70 -109 p 112 54 224 72 0 0 0 0 0 0 0 0 300 276 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c11_inv_2" "c11_inv_2"
+equiv "c11_inv_2" "c11_inv_2"
+equiv "c11_inv_2" "c11_inv_2"
+equiv "c11_inv_2" "c11_inv_2"
+node "s12" 37986 26.7576 -199 -100 pdif 104 42 224 72 0 0 0 0 0 0 0 0 0 0 272 144 0 0 0 0 0 0 0 0 0 0
+equiv "s12" "s12"
+equiv "s12" "s12"
+equiv "s12" "s12"
+node "a_n251_n100#" 39528 0 -251 -100 pdif 0 0 135 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n418_n131#" 17420 0 -418 -131 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n472_n124#" 16080 0 -472 -124 ndif 60 34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "fa_22_n3" 46289 10.0037 -493 -126 ndif 168 78 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_22_n3" "fa_22_n3"
+node "c12" 36634 25.2956 -297 -118 ndif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 200 100 0 0 0 0 0 0 0 0 0 0
+equiv "c12" "c12"
+node "fa_21_n1" 77106 0.5466 -270 -92 pdif 0 0 377 138 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_21_n1" "fa_21_n1"
+node "c12_inv_2" 204913 68.3957 -290 -126 p 96 40 216 70 0 0 0 0 0 0 0 0 122 110 372 182 76 54 148 82 0 0 0 0 0 0
+equiv "c12_inv_2" "c12_inv_2"
+equiv "c12_inv_2" "c12_inv_2"
+node "a3b0_inv_2" 327909 82.4684 -148 -85 pdif 67 36 264 114 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a3b0_inv_2" "a3b0_inv_2"
+equiv "a3b0_inv_2" "a3b0_inv_2"
+node "s03_inv_2" 287064 75.5751 -141 -109 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "s03_inv_2" "s03_inv_2"
+equiv "s03_inv_2" "s03_inv_2"
+node "a_n181_n105#" 376133 106.883 -181 -105 p 104 42 224 72 0 0 0 0 0 0 0 0 216 204 0 0 0 0 0 0 0 0 0 0 0 0
+node "c02_inv_2" 335235 73.1907 -208 -85 pdif 67 36 264 114 0 0 0 0 0 0 0 0 164 152 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c02_inv_2" "c02_inv_2"
+node "a_n201_n109#" 287064 70.044 -201 -109 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+node "s13" 37986 26.7576 -419 -100 pdif 104 42 224 72 0 0 0 0 0 0 0 0 0 0 272 144 0 0 0 0 0 0 0 0 0 0
+equiv "s13" "s13"
+equiv "s13" "s13"
+equiv "s13" "s13"
+node "a_n471_n100#" 39528 0 -471 -100 pdif 0 0 135 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "c13" 36634 25.2956 -517 -118 ndif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 200 100 0 0 0 0 0 0 0 0 0 0
+equiv "c13" "c13"
+node "fa_22_n1" 77106 0.5466 -490 -92 pdif 0 0 377 138 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_22_n1" "fa_22_n1"
+node "c13_inv_2" 204913 68.3957 -510 -126 p 96 40 216 70 0 0 0 0 0 0 0 0 122 110 372 182 76 54 148 82 0 0 0 0 0 0
+equiv "c13_inv_2" "c13_inv_2"
+equiv "c13_inv_2" "c13_inv_2"
+node "c03_inv_2" 327909 82.4684 -368 -85 pdif 67 36 264 114 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c03_inv_2" "c03_inv_2"
+equiv "c03_inv_2" "c03_inv_2"
+node "s04_inv_2" 287064 75.5751 -361 -109 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "s04_inv_2" "s04_inv_2"
+equiv "s04_inv_2" "s04_inv_2"
+node "a_n401_n105#" 376133 106.883 -401 -105 p 104 42 224 72 0 0 0 0 0 0 0 0 216 204 0 0 0 0 0 0 0 0 0 0 0 0
+node "a3b1_inv_2" 335235 73.1907 -428 -85 pdif 67 36 264 114 0 0 0 0 0 0 0 0 164 152 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a3b1_inv_2" "a3b1_inv_2"
+node "a_n421_n109#" 287064 70.044 -421 -109 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_13_n57#" 36600 0 13 -57 pdif 0 0 125 60 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res1" 53550 31.4037 43 -60 pdif 77 40 151 64 0 0 0 0 0 0 0 0 0 0 235 118 0 0 0 0 0 0 0 0 0 0
+equiv "res1" "res1"
+node "ha11" 55284 1.0932 4 -20 ndif 204 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res1_inv" 280980 72.0679 13 -20 ndif 112 44 164 66 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "res1_inv" "res1_inv"
+equiv "res1_inv" "res1_inv"
+node "a_n14_n20#" 26800 0 -14 -20 ndif 100 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n217_n59#" 39528 0 -217 -59 pdif 0 0 135 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "fa_11_n1" 77106 0.5466 -236 -53 pdif 0 0 377 138 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_11_n1" "fa_11_n1"
+node "c01" 523744 132.399 -60 -109 p 84 42 166 70 0 0 0 0 0 0 0 0 306 282 461 230 408 148 0 0 0 0 0 0 0 0
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+equiv "c01" "c01"
+node "c01_inv" 506635 119.643 -29 -29 p 112 54 224 72 0 0 0 0 0 0 0 0 300 276 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+equiv "c01_inv" "c01_inv"
+node "a_n102_n14#" 17420 0 -102 -14 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a2b0_inv_1" 327909 82.4684 -114 -53 pdif 67 36 264 114 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a2b0_inv_1" "a2b0_inv_1"
+equiv "a2b0_inv_1" "a2b0_inv_1"
+node "a1b1_inv_1" 287064 75.5751 -107 -64 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n147_n64#" 376133 106.883 -147 -64 p 104 42 224 72 0 0 0 0 0 0 0 0 216 204 0 0 0 0 0 0 0 0 0 0 0 0
+node "s02" 449481 139.9 -165 -60 pdif 104 42 224 72 0 0 0 0 0 0 0 0 366 290 368 200 288 160 476 246 0 0 0 0 0 0
+equiv "s02" "s02"
+equiv "s02" "s02"
+equiv "s02" "s02"
+equiv "s02" "s02"
+node "a_n164_n14#" 17420 0 -164 -14 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n218_n20#" 16080 0 -218 -20 ndif 60 34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n435_n59#" 39528 0 -435 -59 pdif 0 0 135 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "fa_12_n1" 77106 0.5466 -454 -53 pdif 0 0 377 138 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_12_n1" "fa_12_n1"
+node "a0b2_inv_1" 335235 73.1907 -174 -53 pdif 67 36 264 114 0 0 0 0 0 0 0 0 164 152 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n167_n64#" 287064 70.044 -167 -64 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+node "c02" 712786 232.378 -263 -45 pdif 57 32 116 50 0 0 0 0 0 0 0 0 442 406 482 248 372 218 348 190 0 0 0 0 0 0
+equiv "c02" "c02"
+equiv "c02" "c02"
+equiv "c02" "c02"
+equiv "c02" "c02"
+node "fa_11_n3" 46289 10.0037 -239 -12 ndif 168 78 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_11_n3" "fa_11_n3"
+node "c02_inv" 204913 68.3957 -256 -55 p 96 40 216 70 0 0 0 0 0 0 0 0 122 110 372 182 76 54 148 82 0 0 0 0 0 0
+equiv "c02_inv" "c02_inv"
+equiv "c02_inv" "c02_inv"
+node "a_n320_n14#" 17420 0 -320 -14 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a0b3_inv_1" 327909 82.4684 -332 -53 pdif 67 36 264 114 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a0b3_inv_1" "a0b3_inv_1"
+equiv "a0b3_inv_1" "a0b3_inv_1"
+node "a1b2_inv_1" 287064 75.5751 -325 -64 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b2_inv_1" "a1b2_inv_1"
+equiv "a1b2_inv_1" "a1b2_inv_1"
+node "a_n365_n64#" 376133 106.883 -365 -64 p 104 42 224 72 0 0 0 0 0 0 0 0 216 204 0 0 0 0 0 0 0 0 0 0 0 0
+node "s03" 702278 217.662 -383 -60 pdif 104 42 224 72 0 0 0 0 0 0 0 0 478 418 496 248 419 202 1148 590 0 0 0 0 0 0
+equiv "s03" "s03"
+equiv "s03" "s03"
+equiv "s03" "s03"
+equiv "s03" "s03"
+equiv "s03" "s03"
+node "a_n382_n14#" 17420 0 -382 -14 ndif 65 36 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n436_n20#" 16080 0 -436 -20 ndif 60 34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n525_n57#" 36600 0 -525 -57 pdif 0 0 125 60 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a2b1_inv_1" 335235 73.1907 -392 -53 pdif 67 36 264 114 0 0 0 0 0 0 0 0 164 152 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a2b1_inv_1" "a2b1_inv_1"
+node "a_n385_n64#" 287064 70.044 -385 -64 p 114 52 224 72 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+node "c03" 1131388 305.96 -481 -45 pdif 57 32 116 50 0 0 0 0 0 0 0 0 657 628 484 240 268 158 644 330 0 0 0 0 0 0
+equiv "c03" "c03"
+equiv "c03" "c03"
+equiv "c03" "c03"
+node "fa_12_n3" 46289 10.0037 -457 -12 ndif 168 78 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "fa_12_n3" "fa_12_n3"
+node "c03_inv" 204913 66.948 -474 -55 p 96 40 216 70 0 0 0 0 0 0 0 0 122 110 372 182 76 54 148 82 0 0 0 0 0 0
+equiv "c03_inv" "c03_inv"
+equiv "c03_inv" "c03_inv"
+node "s04" 716155 233.788 -495 -60 pdif 77 40 151 64 0 0 0 0 0 0 0 0 478 418 459 222 351 186 700 358 0 0 0 0 0 0
+equiv "s04" "s04"
+equiv "s04" "s04"
+equiv "s04" "s04"
+node "ha12" 55284 1.0932 -534 -20 ndif 204 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "ha12" "ha12"
+node "s04_inv_1" 280980 72.0679 -525 -20 ndif 112 44 164 66 0 0 0 0 0 0 0 0 160 148 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "s04_inv_1" "s04_inv_1"
+equiv "s04_inv_1" "s04_inv_1"
+node "a_n552_n20#" 26800 0 -552 -20 ndif 100 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "c04" 58570 27.5276 -572 -45 pdif 84 42 166 70 0 0 0 0 0 0 0 0 0 0 246 122 0 0 0 0 0 0 0 0 0 0
+equiv "c04" "c04"
+equiv "c04" "c04"
+equiv "c04" "c04"
+node "c04_inv_1" 506635 119.643 -567 -29 p 112 54 224 72 0 0 0 0 0 0 0 0 300 276 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "c04_inv_1" "c04_inv_1"
+equiv "c04_inv_1" "c04_inv_1"
+equiv "c04_inv_1" "c04_inv_1"
+equiv "c04_inv_1" "c04_inv_1"
+node "a_72_18#" 14740 0 72 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_29_18#" 14740 0 29 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n11_18#" 14740 0 -11 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n54_18#" 14740 0 -54 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n95_18#" 14740 0 -95 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n137_18#" 14740 0 -137 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n181_18#" 14740 0 -181 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n250_18#" 14740 0 -250 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n294_18#" 14740 0 -294 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n336_18#" 14740 0 -336 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n440_18#" 14740 0 -440 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n483_18#" 14740 0 -483 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "a_n523_18#" 14740 0 -523 18 ndif 55 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+node "res0" 36630 28.059 50 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 0 0 217 104 0 0 0 0 0 0 0 0 0 0
+equiv "res0" "res0"
+node "res0_inv" 199229 56.4951 57 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "res0_inv" "res0_inv"
+node "a0b1" 501717 131.874 -19 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 306 282 432 212 245 108 0 0 0 0 0 0 0 0
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+equiv "a0b1" "a0b1"
+node "a0b1_inv_0" 199229 56.4951 14 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a0b1_inv_0" "a0b1_inv_0"
+node "a1b0" 446365 141.209 -33 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 366 290 313 160 228 114 112 64 0 0 0 0 0 0
+equiv "a1b0" "a1b0"
+equiv "a1b0" "a1b0"
+equiv "a1b0" "a1b0"
+node "a1b0_inv_0" 199229 56.4951 -26 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b0_inv_0" "a1b0_inv_0"
+node "a2b0" 1131601 325.471 -213 -26 p 57 32 116 50 0 0 0 0 0 0 0 0 657 628 501 244 335 184 640 336 0 0 0 0 0 0
+equiv "a2b0" "a2b0"
+equiv "a2b0" "a2b0"
+equiv "a2b0" "a2b0"
+node "a2b0_inv_0" 199229 56.4951 -69 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a2b0_inv_0" "a2b0_inv_0"
+node "a1b1" 699111 234.529 -232 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 478 418 441 208 375 198 640 328 0 0 0 0 0 0
+equiv "a1b1" "a1b1"
+equiv "a1b1" "a1b1"
+equiv "a1b1" "a1b1"
+node "a1b1_inv_0" 199229 56.4951 -110 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b1_inv_0" "a1b1_inv_0"
+node "a3b0" 1131969 318.068 -247 -135 p 57 32 116 50 0 0 0 0 0 0 0 0 657 628 501 244 516 282 564 290 0 0 0 0 0 0
+equiv "a3b0" "a3b0"
+equiv "a3b0" "a3b0"
+equiv "a3b0" "a3b0"
+node "b0" 823226 286.779 -132 13 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 352 208 152 108 1065 436 0 0 0 0 0 0
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+equiv "b0" "b0"
+node "a3b0_inv_0" 199229 56.4951 -152 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a3b0_inv_0" "a3b0_inv"
+equiv "a3b0_inv_0" "a3b0_inv"
+node "a0b2" 711894 235.843 -206 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 442 406 499 252 260 154 280 148 0 0 0 0 0 0
+equiv "a0b2" "a0b2"
+equiv "a0b2" "a0b2"
+equiv "a0b2" "a0b2"
+equiv "a0b2" "a0b2"
+equiv "a0b2" "a0b2"
+node "a0b2_inv_0" 199229 56.4951 -196 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a0b2_inv_0" "a0b2_inv_0"
+node "a0b3" 1131266 326.157 -431 -26 p 57 32 116 50 0 0 0 0 0 0 0 0 657 628 501 244 316 182 564 290 0 0 0 0 0 0
+equiv "a0b3" "a0b3"
+equiv "a0b3" "a0b3"
+equiv "a0b3" "a0b3"
+equiv "a0b3" "a0b3"
+node "a0" 825190 293.29 -255 34 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 404 216 144 100 1308 662 0 0 0 0 0 0
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+equiv "a0" "a0"
+node "a0b3_inv_0" 199229 56.4951 -265 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a0b3_inv_0" "a0b3_inv_0"
+equiv "a0b3_inv_0" "a0b3_inv_0"
+node "a1b2" 699139 228.265 -450 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 478 418 441 208 383 202 640 328 0 0 0 0 0 0
+equiv "a1b2" "a1b2"
+equiv "a1b2" "a1b2"
+equiv "a1b2" "a1b2"
+node "a1b2_inv_0" 199229 56.4951 -309 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b2_inv_0" "a1b2_inv_0"
+equiv "a1b2_inv_0" "a1b2_inv_0"
+node "a2b1" 711825 233.627 -424 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 442 406 499 252 240 144 280 148 0 0 0 0 0 0
+equiv "a2b1" "a2b1"
+equiv "a2b1" "a2b1"
+equiv "a2b1" "a2b1"
+equiv "a2b1" "a2b1"
+equiv "a2b1" "a2b1"
+node "a2b1_inv_0" 199229 56.4951 -351 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a2b1_inv_0" "a2b1_inv_0"
+node "a3b1" 713708 263.614 -462 20 ndif 57 32 116 50 0 0 0 0 0 0 0 0 442 406 499 252 656 352 364 198 0 0 0 0 0 0
+equiv "a3b1" "a3b1"
+equiv "a3b1" "a3b1"
+equiv "a3b1" "a3b1"
+equiv "a3b1" "a3b1"
+equiv "a3b1" "a3b1"
+node "b1" 827470 364.601 -435 13 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 352 208 128 96 1892 954 0 0 0 0 0 0
+equiv "b1" "b1"
+equiv "b1" "b1"
+equiv "b1" "b1"
+equiv "b1" "b1"
+equiv "b1" "b1"
+equiv "b1" "b1"
+equiv "b1" "b1"
+node "a3" 406532 138.077 -445 34 p 0 0 0 0 0 0 0 0 0 0 0 0 272 248 202 108 270 128 1540 626 0 0 0 0 0 0
+equiv "a3" "a3"
+equiv "a3" "a3"
+node "a3b1_inv_0" 199229 56.4951 -455 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+node "a1b3" 502269 133.334 -557 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 306 282 432 212 280 132 96 56 0 0 0 0 0 0
+equiv "a1b3" "a1b3"
+equiv "a1b3" "a1b3"
+equiv "a1b3" "a1b3"
+equiv "a1b3" "a1b3"
+equiv "a1b3" "a1b3"
+equiv "a1b3" "a1b3"
+node "b3" 406436 169.274 -478 13 p 0 0 0 0 0 0 0 0 0 0 0 0 272 248 176 104 160 96 948 482 0 0 0 0 0 0
+equiv "b3" "b3"
+equiv "b3" "b3"
+equiv "b3" "b3"
+node "a1" 827302 376.757 -488 34 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 404 216 160 104 1908 962 0 0 0 0 0 0
+equiv "a1" "a1"
+equiv "a1" "a1"
+equiv "a1" "a1"
+equiv "a1" "a1"
+equiv "a1" "a1"
+equiv "a1" "a1"
+equiv "a1" "a1"
+node "a1b3_inv_0" 199229 56.4951 -498 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a1b3_inv_0" "a1b3_inv_0"
+equiv "a1b3_inv_0" "a1b3_inv_0"
+node "a2b2" 445914 143.916 -547 -29 p 57 32 116 50 0 0 0 0 0 0 0 0 366 290 313 160 180 98 0 0 0 0 0 0 0 0
+equiv "a2b2" "a2b2"
+equiv "a2b2" "a2b2"
+equiv "a2b2" "a2b2"
+node "b2" 616692 252.003 -518 13 p 0 0 0 0 0 0 0 0 0 0 0 0 408 372 264 156 100 74 1384 700 0 0 0 0 0 0
+equiv "b2" "b2"
+equiv "b2" "b2"
+equiv "b2" "b2"
+equiv "b2" "b2"
+equiv "b2" "b2"
+node "a2" 618653 300.634 -528 34 p 0 0 0 0 0 0 0 0 0 0 0 0 408 372 303 162 285 144 1896 956 0 0 0 0 0 0
+equiv "a2" "a2"
+equiv "a2" "a2"
+equiv "a2" "a2"
+equiv "a2" "a2"
+equiv "a2" "a2"
+node "a2b2_inv_0" 199229 56.4951 -538 16 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
+equiv "a2b2_inv_0" "a2b2_inv_0"
+equiv "a2b2_inv_0" "a2b2_inv_0"
+node "vss" 18185360 675.508 -524 -143 pw 2093 800 0 0 0 0 288 144 0 0 19980 1154 0 0 4272 1084 0 0 0 0 0 0 0 0 0 0
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+node "vdd" 12192566 1108.23 -587 -71 nw 0 0 7623 2416 576 288 0 0 47880 1448 0 0 0 0 9376 1308 0 0 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+node "vss" 15047420 1271.41 -587 -26 pw 4787 1732 0 0 0 0 756 456 0 0 40994 1486 0 0 9613 1378 0 0 0 0 0 0 0 0 0 0
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+node "vdd" 18437986 1098.75 -552 37 nw 0 0 3029 1248 468 312 0 0 29025 1380 0 0 0 0 5112 1294 0 0 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
+node "ab_n582_n66#" 0 0 -582 -66 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cap "c01_inv" "ha11" 12.4304
+cap "vss" "a0" 18.689
+cap "s03" "fa_21_n1" 43.6741
+cap "a1b1" "a0b2_inv_1" 4.46644
+cap "a0b2" "s02" 8.5646
+cap "a3" "a1b2" 9.5156
+cap "a2" "a3b0" 11.0912
+cap "a1" "a0b2_inv_0" 5.62015
+cap "b1" "a1b2_inv_0" 3.60092
+cap "vss" "c13" 17.0918
+cap "vdd" "a_n471_n100#" 3.5775
+cap "c04_inv_1" "c04" 201.088
+cap "vss" "a2" 29.5581
+cap "vdd" "b2" 158.864
+cap "s04" "s13" 3.3506
+cap "a0b3" "s03" 263.262
+cap "c03" "fa_22_n1" 79.4562
+cap "vdd" "c01" 94.4254
+cap "a1b2" "a0b3_inv_1" 222.997
+cap "a2" "a1b3" 12.9433
+cap "b2" "b3" 708.769
+cap "vss" "a_n385_n64#" 19.855
+cap "a_n401_n105#" "a_n356_n131#" 9.278
+cap "s03_inv_2" "a3b0_inv_2" 330.548
+cap "a3b1" "s04" 12.7378
+cap "a3b0" "s12" 1.3816
+cap "a0b1_inv_0" "res0" 8.87886
+cap "c02_inv" "c02" 78.2027
+cap "a0" "a_72_18#" 6.955
+cap "a3b1" "fa_22_n3" 48.3662
+cap "c13_inv_2" "fa_22_n1" 88.6503
+cap "vdd" "res2" 52.9192
+cap "a2b1_inv_1" "s03" 112.537
+cap "b0" "a1b1" 37.1681
+cap "a1" "a_n95_18#" 4.9299
+cap "a0b2" "a2b0" 217.192
+cap "a0" "a0b1_inv_0" 153.888
+cap "c02" "fa_21_n1" 22.6762
+cap "vss" "a1b1_inv_0" 72.8183
+cap "a2b0" "s02" 326.551
+cap "a1b1" "a1b1_inv_1" 16.5761
+cap "vss" "a3b0_inv_2" 5.9188
+cap "vdd" "c12_inv_2" 13.1464
+cap "a0b2" "fa_11_n1" 5.568
+cap "s04_inv_1" "s04" 28.0145
+cap "a3b1" "a_n401_n105#" 134.498
+cap "a2b1" "a_n421_n109#" 2.4025
+cap "a1" "a2b0_inv_0" 5.62015
+cap "b1" "a3b0_inv_0" 3.60092
+cap "a2b1" "a0b3" 217.192
+cap "a3" "b0" 127.371
+cap "vss" "a_n102_n14#" 3.5775
+cap "vdd" "a3" 3.2076
+cap "s12" "a_n198_n131#" 9.278
+cap "vss" "a3b1_inv_0" 72.8183
+cap "a2" "a1b2_inv_0" 5.11224
+cap "b2" "a2b1" 3.2494
+cap "b3" "a3" 0.51084
+cap "a0b2" "c02_inv" 50.4985
+cap "a0b3" "c02" 68.3672
+cap "a1b3_inv_0" "a3b1" 8.87886
+cap "a1b2" "fa_12_n1" 21.5628
+cap "a1" "b1" 1212.87
+cap "vss" "a1b2_inv_1" 30.2136
+cap "s04" "a_n421_n109#" 10.8234
+cap "vdd" "a_n435_n59#" 3.5775
+cap "a1b2" "c03" 2.4025
+cap "a2b1" "a2b1_inv_1" 160.418
+cap "vss" "c04_inv_1" 50.4671
+cap "vss" "c03" 50.989
+cap "a3b0" "s03_inv_2" 5.65194
+cap "vdd" "a_n385_n64#" 13.2448
+cap "c03_inv" "a_n435_n59#" 6.762
+cap "a2b2" "ha12" 31.4647
+cap "b0" "res0_inv" 35.7597
+cap "a_n365_n64#" "a1b2_inv_1" 239.918
+cap "a1b3" "c04_inv_1" 369.337
+cap "vss" "a0b1" 91.7437
+cap "vdd" "res0_inv" 99.5424
+cap "a3b1" "s13" 8.5613
+cap "vdd" "s12" 7.4224
+cap "a1b0" "c01_inv" 90.9759
+cap "a2b0" "fa_11_n1" 64.7511
+cap "a0" "a3b0_inv_0" 9.59692
+cap "b1" "a1b0_inv_0" 3.60092
+cap "a2" "a_n336_18#" 7.7195
+cap "vss" "ha11" 83.9052
+cap "c11_inv_2" "ha21" 12.4304
+cap "c11" "a_n55_n132#" 3.8684
+cap "vss" "a1b2" 97.6882
+cap "vdd" "a0b3_inv_0" 99.5424
+cap "a3b0" "a0b2_inv_1" 17.8748
+cap "vss" "c13_inv_2" 47.3442
+cap "vdd" "fa_22_n1" 204.387
+cap "c01_inv" "a_n14_n20#" 12.486
+cap "a2b0" "c02_inv" 62.5901
+cap "s03" "a3b0_inv_2" 213.095
+cap "a3" "a2b1" 9.5156
+cap "a2" "a3b0_inv_0" 3.86622
+cap "a1" "a0" 1263.74
+cap "b2" "a0b2" 3.2494
+cap "vss" "a3b0" 50.989
+cap "b3" "a0b3_inv_0" 29.245
+cap "b1" "a2b1_inv_0" 32.8459
+cap "vss" "a0b2_inv_1" 79.6211
+cap "c12_inv_2" "fa_21_n3" 95.4651
+cap "c02_inv" "fa_11_n1" 88.6503
+cap "vdd" "a2b2_inv_0" 99.5424
+cap "c03" "c03_inv_2" 166.106
+cap "a1b2" "a_n365_n64#" 16.546
+cap "a2" "a1" 20.7808
+cap "b2" "a1b3_inv_0" 5.88056
+cap "vss" "fa_12_n3" 192.704
+cap "a_n181_n105#" "s03_inv_2" 239.918
+cap "a0" "a_n11_18#" 1.1044
+cap "vdd" "a1b2_inv_1" 13.2448
+cap "a0b1_inv_0" "a0b1" 165.611
+cap "s02" "c11_inv_2" 100.911
+cap "a_n421_n109#" "s13" 238.741
+cap "a0" "a1b0_inv_0" 10.7299
+cap "a0b2" "a1b1" 51.7226
+cap "vss" "a_n198_n131#" 3.5775
+cap "vdd" "res2_inv" 5.8224
+cap "a0b1" "res1_inv" 109.524
+cap "vdd" "c04_inv_1" 209.306
+cap "a3" "a_n440_18#" 7.6183
+cap "vss" "b0" 6.4152
+cap "s03" "a_n251_n100#" 0.6105
+cap "res1_inv" "ha11" 97.0409
+cap "a1b1" "s02" 3.6278
+cap "b1" "a0b2_inv_0" 3.60092
+cap "vss" "a_n181_n105#" 90.3531
+cap "a3b1" "a_n421_n109#" 13.5257
+cap "vdd" "s03_inv_2" 13.2448
+cap "vdd" "a0b1" 36.8206
+cap "a1b2_inv_0" "a1b2" 165.203
+cap "a3" "a0b2" 11.6512
+cap "a1" "a1b1_inv_0" 144.78
+cap "vss" "b3" 3.2076
+cap "vss" "a1b1_inv_1" 30.2136
+cap "a2b1" "fa_12_n1" 5.568
+cap "a_n147_n64#" "a_n102_n14#" 9.278
+cap "a3b0" "s03" 208.267
+cap "a1b1_inv_1" "a2b0_inv_1" 330.548
+cap "a1" "a3b1_inv_0" 5.62015
+cap "b2" "a3b1" 3.2494
+cap "vdd" "a1b2" 24.2853
+cap "a2" "a2b1_inv_0" 154.22
+cap "vss" "s03" 91.1818
+cap "a_n201_n109#" "s12" 238.741
+cap "c12_inv_2" "c12" 73.9668
+cap "c02_inv" "a_n218_n20#" 8.1898
+cap "a_n167_n64#" "a0b2_inv_1" 336.976
+cap "vdd" "a0b2_inv_1" 216.821
+cap "a1b2" "c03_inv" 94.0828
+cap "c01" "c11" 11.7832
+cap "a3b0" "c02_inv_2" 25.7405
+cap "b0" "a0b1_inv_0" 6.5147
+cap "a1b2_inv_0" "a_n294_18#" 9.278
+cap "a1b1" "a2b0" 208.267
+cap "c02" "a_n251_n100#" 1.4223
+cap "vss" "a1b0" 101.084
+cap "vdd" "a0b1_inv_0" 99.5424
+cap "a2" "a_n483_18#" 0.253
+cap "b1" "a2b0_inv_0" 3.60092
+cap "a1b1" "fa_11_n1" 21.5628
+cap "c03_inv" "fa_12_n3" 95.4651
+cap "s04" "c03" 292.529
+cap "a0" "a0b2_inv_0" 154.527
+cap "vss" "a_n14_n20#" 4.639
+cap "s03" "a_n181_n105#" 5.07856
+cap "c03" "fa_22_n3" 5.8106
+cap "vss" "a2b1" 156.142
+cap "vdd" "a1b2_inv_0" 99.5424
+cap "a2" "a0b2_inv_0" 5.11224
+cap "a1" "a1b2" 3.0976
+cap "vss" "s04_inv_2" 30.2136
+cap "vdd" "c03_inv_2" 153.696
+cap "a1b1" "c02_inv" 94.0828
+cap "a3b0" "c02" 273.654
+cap "b2" "a0b3" 30.6342
+cap "vss" "c02" 17.0918
+cap "c03" "a_n401_n105#" 1.76934
+cap "a0b3" "a2b1_inv_1" 23.3524
+cap "s04" "c13_inv_2" 94.0828
+cap "vdd" "a1b1_inv_1" 13.2448
+cap "a0b1_inv_0" "a_29_18#" 9.278
+cap "a0b2_inv_1" "a_n147_n64#" 91.4619
+cap "a2b1" "a_n365_n64#" 134.498
+cap "vss" "s04" 25.3563
+cap "c13_inv_2" "fa_22_n3" 95.4651
+cap "c02_inv_2" "a_n181_n105#" 91.4619
+cap "a0" "a_n95_18#" 1.1044
+cap "a1b0_inv_0" "a0b1" 15.538
+cap "vdd" "s03" 183.271
+cap "a0b2_inv_0" "a_n181_18#" 9.278
+cap "c02" "a_n198_n131#" 0.506
+cap "vss" "fa_21_n3" 192.704
+cap "s04_inv_2" "c03_inv_2" 330.548
+cap "a2" "a_n95_18#" 0.253
+cap "a0" "a2b0_inv_0" 9.59692
+cap "a0b2" "a3b0" 11.3966
+cap "b1" "res0" 28.8563
+cap "a3b0_inv_0" "b0" 29.245
+cap "a1" "a_n294_18#" 4.9299
+cap "vss" "a0b2" 147.12
+cap "vdd" "a3b0_inv_0" 99.5424
+cap "c02" "a_n181_n105#" 134.498
+cap "a3b0" "s02" 15.6758
+cap "c04_inv_1" "ha12" 12.4304
+cap "vss" "a_n201_n109#" 19.855
+cap "vdd" "c02_inv_2" 216.821
+cap "a3" "a0b3" 9.5156
+cap "a2b1_inv_0" "a1b2" 10.3587
+cap "vdd" "a1b0" 10.4646
+cap "b1" "a0" 129.552
+cap "a1" "b0" 128.384
+cap "a2" "a2b0_inv_0" 152.289
+cap "vss" "s02" 91.1818
+cap "s02" "a2b0_inv_1" 0.8877
+cap "c03" "s13" 1.3816
+cap "vdd" "a1" 6.4152
+cap "vss" "a1b3_inv_0" 72.8183
+cap "a_n147_n64#" "a1b1_inv_1" 239.918
+cap "a3b1" "fa_12_n1" 0.6105
+cap "b2" "a3" 0.99656
+cap "vdd" "a2b1" 25.3326
+cap "a1b3_inv_0" "a1b3" 165.203
+cap "a0b3" "a0b3_inv_1" 166.106
+cap "a2" "b1" 130.628
+cap "a1" "b3" 126.681
+cap "a2b1" "c03_inv" 50.4985
+cap "vdd" "c02" 99.4947
+cap "a1b1_inv_0" "a_n95_18#" 9.278
+cap "a3b1" "c03" 349.568
+cap "fa_22_n1" "a_n471_n100#" 21.4496
+cap "a3b0" "a2b0" 8.636
+cap "a0" "res0" 6.4339
+cap "vss" "a_n55_n132#" 4.639
+cap "vdd" "s04" 135.174
+cap "a_n382_n14#" "s03" 9.278
+cap "a2b2" "c04_inv_1" 84.5401
+cap "b0" "a1b0_inv_0" 35.7597
+cap "a3" "a_n137_18#" 7.6183
+cap "vss" "a2b0" 144.186
+cap "vdd" "a1b0_inv_0" 99.5424
+cap "vss" "c12" 17.0918
+cap "a3b1" "c13_inv_2" 50.4985
+cap "s03" "fa_21_n3" 11.3786
+cap "c04_inv_1" "a_n525_n57#" 12.14
+cap "a2b0" "a2b0_inv_1" 168.195
+cap "a1" "a1b0" 3.0976
+cap "b1" "a1b1_inv_0" 32.8459
+cap "a0b3_inv_0" "a0b3" 165.203
+cap "a2b2_inv_0" "a_n523_18#" 9.278
+cap "s03" "a_n201_n109#" 10.8234
+cap "c11_inv_2" "a_n28_n100#" 12.14
+cap "fa_21_n3" "a_n252_n124#" 5.7005
+cap "vss" "a3b1" 79.8386
+cap "vdd" "a2b1_inv_0" 99.5424
+cap "vss" "a3b1_inv_2" 79.6211
+cap "vdd" "a_n401_n105#" 13.2448
+cap "a0b2" "a_n167_n64#" 12.6193
+cap "a0b3" "fa_12_n1" 64.7511
+cap "a2" "a0" 1035.57
+cap "a1" "a2b1" 3.0976
+cap "b2" "a0b3_inv_0" 5.88056
+cap "vdd" "a0b2" 25.3326
+cap "a3b1_inv_0" "b1" 29.245
+cap "vss" "c02_inv" 47.3442
+cap "c03" "a_n421_n109#" 1.76934
+cap "s04" "s04_inv_2" 16.5761
+cap "fa_21_n1" "a_n251_n100#" 21.4496
+cap "fa_22_n3" "a_n472_n124#" 5.7005
+cap "a_n167_n64#" "s02" 241.766
+cap "a2b1" "a_n382_n14#" 0.506
+cap "vdd" "s02" 130.886
+cap "a2b2_inv_0" "b2" 29.245
+cap "c01" "res2_inv" 96.2063
+cap "vss" "s04_inv_1" 13.5914
+cap "a_n201_n109#" "c02_inv_2" 336.976
+cap "a3b0" "fa_21_n1" 64.7511
+cap "a1b3" "s04_inv_1" 109.315
+cap "a1b0_inv_0" "a1b0" 166.187
+cap "a0" "a_n181_18#" 7.77505
+cap "c02" "fa_21_n3" 48.3662
+cap "a_n401_n105#" "s04_inv_2" 239.918
+cap "a2" "a_n181_18#" 0.253
+cap "a0" "a1b1_inv_0" 10.7299
+cap "b1" "a0b1" 4.1129
+cap "vss" "c11" 93.8501
+cap "a0b1" "c01" 11.7832
+cap "c03_inv" "a_n436_n20#" 8.1898
+cap "res2_inv" "res2" 26.2853
+cap "vss" "a0b3" 128.669
+cap "vdd" "a0b2_inv_0" 99.5424
+cap "a2b0" "a_n167_n64#" 0.6908
+cap "c01_inv" "res1" 29.5222
+cap "c02" "a_n201_n109#" 13.5257
+cap "vdd" "s13" 7.4224
+cap "c04_inv_1" "a_n552_n20#" 12.486
+cap "a0b2" "a_n147_n64#" 134.498
+cap "a2" "a1b1_inv_0" 5.11224
+cap "a1" "a0b2" 3.0976
+cap "b2" "a3b0" 25.2493
+cap "b1" "a1b2" 37.7786
+cap "vdd" "a2b0" 99.8985
+cap "a2b1_inv_0" "a2b1" 166.298
+cap "vss" "b2" 4.8114
+cap "a_n181_n105#" "a_n136_n131#" 9.278
+cap "s02" "a_n147_n64#" 1.254
+cap "a0b3" "a_n365_n64#" 1.76934
+cap "a1b2" "a_n320_n14#" 2.5916
+cap "vss" "c01" 8.1858
+cap "vdd" "fa_11_n1" 204.387
+cap "a2" "a3b1_inv_0" 3.97924
+cap "b2" "a1b3" 53.7479
+cap "vdd" "a3b1" 112.661
+cap "a1b3_inv_0" "a1" 139.16
+cap "vss" "a2b1_inv_1" 79.6211
+cap "a3b1" "c03_inv" 34.7964
+cap "vdd" "c02_inv" 13.1464
+cap "c13_inv_2" "c13" 73.9668
+cap "vss" "res2" 25.3563
+cap "a0b1" "a_13_n57#" 6.762
+cap "a0b2" "a_n201_n109#" 2.4025
+cap "a2b1_inv_1" "a_n365_n64#" 91.4619
+cap "a3b0" "a1b1" 8.636
+cap "a0" "a0b1" 6.4339
+cap "vdd" "s04_inv_1" 5.8224
+cap "b0" "a2b0_inv_0" 35.7597
+cap "vss" "a1b1" 97.6882
+cap "vdd" "a2b0_inv_0" 99.5424
+cap "a2b0" "a_n147_n64#" 1.76934
+cap "a3" "a3b0" 9.5156
+cap "a1" "a2b0" 3.0976
+cap "b1" "b0" 408.361
+cap "a1b2_inv_0" "a0b3" 7.769
+cap "vss" "c12_inv_2" 47.3442
+cap "vdd" "fa_21_n1" 204.387
+cap "a1b1" "a2b0_inv_1" 213.095
+cap "vss" "a3" 294.563
+cap "vss" "c01_inv" 50.4671
+cap "vdd" "b1" 131.779
+cap "a1b2" "a_n435_n59#" 0.6105
+cap "a2" "a1b2" 11.0912
+cap "a1" "a3b1" 3.0976
+cap "b3" "b1" 7.67008
+cap "vdd" "a_n421_n109#" 13.2448
+cap "a0b2" "fa_11_n3" 63.9282
+cap "vdd" "a0b3" 99.8985
+cap "b2" "a1b2_inv_0" 35.1255
+cap "vss" "a0b3_inv_1" 5.9188
+cap "s04" "a3b1_inv_2" 4.46644
+cap "a1b2" "a_n385_n64#" 10.8234
+cap "a0b3" "c03_inv" 62.5901
+cap "vss" "c04" 93.8501
+cap "a_n365_n64#" "a0b3_inv_1" 98.2588
+cap "a3b0" "a3b0_inv_2" 169.675
+cap "b0" "res0" 3.5024
+cap "a2b0_inv_0" "a1b0" 8.87886
+cap "vdd" "a2b1_inv_1" 216.821
+cap "a1b3" "c04" 11.7832
+cap "a0b3_inv_0" "a_n250_18#" 9.278
+cap "vss" "res0_inv" 72.8183
+cap "a1b0" "c01" 12.9916
+cap "vss" "s12" 91.1818
+cap "vdd" "c11_inv_2" 209.306
+cap "a3b1_inv_2" "a_n401_n105#" 91.4619
+cap "a2" "a_n294_18#" 0.253
+cap "b1" "a1b0" 4.1129
+cap "a0b2_inv_0" "a0b2" 165.806
+cap "a1b3_inv_0" "a_n483_18#" 9.278
+cap "a0" "b0" 128.701
+cap "vss" "res1" 25.3563
+cap "vdd" "a0" 6.4152
+cap "s03" "c12_inv_2" 91.8916
+cap "c01" "a_n14_n20#" 3.8684
+cap "fa_11_n1" "a_n217_n59#" 21.4496
+cap "vss" "a0b3_inv_0" 72.8183
+cap "c01_inv" "res1_inv" 185.886
+cap "a1b1" "a_n167_n64#" 8.94458
+cap "a0b2" "a_n164_n14#" 0.506
+cap "vdd" "c13" 15.0391
+cap "a2b0" "fa_11_n3" 5.8106
+cap "b1" "a2b1" 4.1129
+cap "vdd" "a1b1" 24.2853
+cap "a1" "a0b3" 6.88556
+cap "a2" "b0" 128.958
+cap "b3" "a0" 126.666
+cap "c12_inv_2" "a_n252_n124#" 8.1898
+cap "s04" "a_n471_n100#" 0.6105
+cap "vdd" "a2" 4.8114
+cap "c03" "c13_inv_2" 64.3765
+cap "c02_inv" "a_n217_n59#" 6.762
+cap "a_n164_n14#" "s02" 9.278
+cap "vss" "a2b2_inv_0" 72.8183
+cap "a2" "b3" 1.97964
+cap "a1b2" "a1b2_inv_1" 32.8031
+cap "a2b2_inv_0" "a1b3" 15.538
+cap "vdd" "c01_inv" 209.306
+cap "res0_inv" "a_72_18#" 9.278
+cap "b2" "a1" 128.163
+cap "vss" "c03" 17.0918
+cap "c01" "ha21" 5.568
+cap "a_n181_n105#" "a3b0_inv_2" 98.2588
+cap "c02_inv" "fa_11_n3" 95.4651
+cap "vdd" "a0b3_inv_1" 153.696
+cap "a0" "a_29_18#" 6.955
+cap "a3b0_inv_0" "a_n137_18#" 9.278
+cap "a3b1_inv_2" "s13" 98.2588
+cap "a0" "a1b0" 9.1974
+cap "b0" "a1b1_inv_0" 6.5147
+cap "a3b0_inv_0" "a1b1" 10.3587
+cap "vss" "res2_inv" 13.5914
+cap "vdd" "c04" 4.639
+cap "a0b1" "ha11" 15.0836
+cap "a_n385_n64#" "s03" 242.891
+cap "vss" "a3b0" 80.4992
+cap "vdd" "a1b1_inv_0" 99.5424
+cap "s03" "s12" 3.3506
+cap "a1b1" "a_n147_n64#" 33.0923
+cap "c02" "c12_inv_2" 78.922
+cap "vss" "s03_inv_2" 30.2136
+cap "vdd" "a3b0_inv_2" 153.696
+cap "res1_inv" "res1" 26.2853
+cap "s04_inv_1" "ha12" 97.0409
+cap "a3b1" "a3b1_inv_2" 151.046
+cap "a1" "a1b1" 3.0976
+cap "b1" "a0b2" 4.1129
+cap "a3" "a3b0_inv_0" 150.354
+cap "vss" "a2b0_inv_1" 5.9188
+cap "vss" "a1b3" 102.401
+cap "vdd" "a3b1_inv_0" 99.5424
+cap "s02" "c01" 323.612
+cap "vdd" "res1" 52.9192
+cap "a2" "a2b1" 11.0912
+cap "a1" "a3" 17.8796
+cap "b2" "a2b1_inv_0" 5.88056
+cap "vss" "a_n365_n64#" 90.3531
+cap "c02_inv_2" "s12" 98.2588
+cap "fa_11_n3" "a_n218_n20#" 5.7005
+cap "a2b1" "a_n385_n64#" 13.5257
+cap "vdd" "fa_12_n1" 204.387
+cap "a1b2" "fa_12_n3" 11.3786
+cap "a2b0_inv_0" "a_n54_18#" 9.278
+cap "a3b0" "a_n181_n105#" 1.76934
+cap "c03_inv" "fa_12_n1" 88.6503
+cap "b0" "a0b1" 54.0009
+cap "vdd" "c03" 162.733
+cap "a2b0_inv_0" "a2b0" 165.611
+cap "c02" "s12" 8.5613
+cap "vss" "a0b1_inv_0" 72.8183
+cap "a_n421_n109#" "a3b1_inv_2" 336.976
+cap "a1b1" "a_n217_n59#" 0.6105
+cap "a2" "a_n440_18#" 0.1012
+cap "a0" "a0b2" 8.6447
+cap "b1" "a2b0" 44.5117
+cap "vss" "a_n418_n131#" 3.5775
+cap "vdd" "a_n251_n100#" 3.5775
+cap "c03_inv" "c03" 78.2027
+cap "a0b3" "a3b1_inv_2" 2.4025
+cap "c11_inv_2" "a_n55_n132#" 12.486
+cap "vss" "res1_inv" 13.5914
+cap "vss" "a1b2_inv_0" 72.8183
+cap "a3b0" "a_n167_n64#" 33.0731
+cap "s03" "s03_inv_2" 16.5761
+cap "vss" "c03_inv_2" 5.9188
+cap "vdd" "c13_inv_2" 13.1464
+cap "a1b1" "fa_11_n3" 11.3786
+cap "a2" "a0b2" 11.0912
+cap "a1" "a0b3_inv_0" 5.62015
+cap "vdd" "a3b0" 134.443
+cap "b2" "a0b2_inv_0" 35.1255
+cap "vss" "a_n167_n64#" 19.855
+cap "c03" "s04_inv_2" 5.65194
+cap "s04" "fa_22_n1" 21.7234
+cap "a1b2" "s03" 3.3506
+cap "vdd" "a2b0_inv_1" 153.696
+cap "a2" "a1b3_inv_0" 5.11224
+cap "vdd" "a1b3" 36.8206
+cap "vss" "c03_inv" 47.3442
+cap "c13_inv_2" "a_n472_n124#" 8.1898
+cap "a0" "a_n54_18#" 0.649
+cap "vss" "s03" 20.0078
+cap "vdd" "a_n365_n64#" 13.2448
+cap "a1b0" "a0b1" 309.804
+cap "a1b0" "ha11" 31.4647
+cap "a0" "a2b0" 8.4994
+cap "a2" "a_n54_18#" 7.7195
+cap "a3b0_inv_0" "a3b0" 166.01
+cap "a3b1_inv_0" "a_n440_18#" 9.278
+cap "res2_inv" "ha21" 97.0409
+cap "vss" "a3b0_inv_0" 72.8183
+cap "vdd" "b0" 202.448
+cap "a2b1" "a1b2" 4.10176
+cap "a2" "a2b0" 12.9433
+cap "a1" "a3b0" 3.0976
+cap "b1" "a0b3" 4.1129
+cap "a3b0" "a_n147_n64#" 7.546
+cap "c04_inv_1" "s04" 29.5222
+cap "vss" "c02_inv_2" 79.6211
+cap "vdd" "a_n181_n105#" 13.2448
+cap "vss" "a1" 6.4152
+cap "c11_inv_2" "c11" 201.088
+cap "vss" "a_n147_n64#" 90.3531
+cap "vdd" "b3" 221.066
+cap "vdd" "res1_inv" 5.8224
+cap "a_n147_n64#" "a2b0_inv_1" 98.2588
+cap "a1" "a2b0_inv_1" 2.13556
+cap "a2" "a3b1" 11.0912
+cap "b2" "b1" 611.775
+cap "c12_inv_2" "fa_21_n1" 88.6503
+cap "vss" "a_n382_n14#" 3.5775
+cap "a3b0" "fa_21_n3" 5.8106
+cap "vss" "c02" 69.44
+cap "vdd" "a_n167_n64#" 13.2448
+cap "a2b1" "fa_12_n3" 48.3662
+cap "a3b0" "a_n201_n109#" 1.76934
+cap "vss" "ha21" 83.9052
+cap "c01" "c11_inv_2" 379.862
+cap "a1b1_inv_0" "a2b0" 12.4304
+cap "b0" "a1b0" 32.3587
+cap "vss" "s04" 20.0078
+cap "vdd" "c03_inv" 13.1464
+cap "vss" "a1b0_inv_0" 72.8183
+cap "vss" "fa_22_n3" 192.704
+cap "a3b1" "fa_22_n1" 5.568
+cap "b1" "a1b1" 4.1129
+cap "a2" "a_n523_18#" 7.7404
+cap "s03" "c02_inv_2" 4.46644
+cap "c11_inv_2" "res2" 29.5222
+cap "c03" "c12" 48.8337
+cap "c01_inv" "c01" 201.088
+cap "vss" "a2b1_inv_0" 72.8183
+cap "a2" "a0b3" 11.0912
+cap "vss" "a_n401_n105#" 90.3531
+cap "vdd" "s04_inv_2" 13.2448
+cap "a3b1_inv_0" "a3b1" 165.203
+cap "a0b2" "a0b2_inv_1" 151.046
+cap "b2" "a0" 128.149
+cap "a1" "a1b2_inv_0" 144.78
+cap "a3" "b1" 128.392
+cap "vss" "fa_11_n3" 192.704
+cap "c03" "a3b1_inv_2" 25.7405
+cap "a0b2_inv_1" "s02" 110.547
+cap "s04" "c03_inv_2" 213.095
+cap "a0b3" "a_n385_n64#" 1.57547
+cap "a2b1" "s03" 8.5613
+cap "vss" "s02" 8.1858
+cap "vdd" "a_n147_n64#" 13.2448
+cap "a2b2_inv_0" "a2b2" 166.187
+cap "a2" "b2" 130.919
+cap "vss" "ha12" 83.9052
+cap "c01" "a_n28_n100#" 6.762
+cap "a0" "a_n137_18#" 0.649
+cap "s03" "c02" 98.4232
+cap "a1b3" "ha12" 21.0131
+cap "a1b0" "a_n14_n20#" 1.7061
+cap "vss" "a_n356_n131#" 3.5775
+cap "a_n401_n105#" "c03_inv_2" 98.2588
+cap "fa_12_n3" "a_n436_n20#" 5.7005
+cap "a_n385_n64#" "a2b1_inv_1" 336.976
+cap "a2" "a_n137_18#" 0.1012
+cap "a0" "a1b1" 6.4339
+cap "a0b2_inv_0" "a3b0" 7.769
+cap "a0b2" "b0" 2.13556
+cap "vss" "a0b2_inv_0" 72.8183
+cap "a2b0" "a0b2_inv_1" 22.0005
+cap "vss" "s13" 91.1818
+cap "vdd" "a_n201_n109#" 13.2448
+cap "c01_inv" "a_13_n57#" 12.14
+cap "c04" "a_n552_n20#" 3.8684
+cap "c02" "c02_inv_2" 151.046
+cap "c04_inv_1" "s04_inv_1" 185.886
+cap "a2" "a1b1" 11.0912
+cap "a3" "a0" 11.5144
+cap "a1" "a3b0_inv_0" 5.62015
+cap "b1" "a0b3_inv_0" 3.60092
+cap "a3b1" "a1b2" 46.0824
+cap "vss" "a_n164_n14#" 3.5775
+cap "s02" "a1b1_inv_1" 1.254
+cap "c03" "a_n471_n100#" 2.2638
+cap "vss" "a2b2" 85.8662
+cap "vdd" "a1b3_inv_0" 99.5424
+cap "vdd" "a_n217_n59#" 3.5775
+cap "a0b3" "a1b2_inv_1" 5.65194
+cap "a2" "a3" 1067.69
+cap "b2" "a3b1_inv_0" 5.88056
+cap "vss" "a3b1" 69.44
+cap "a1b3_inv_0" "b3" 29.245
+cap "a2b2" "a1b3" 309.25
+cap "s13" "a_n418_n131#" 9.278
+cap "a3b0" "c11" 42.7295
+cap "a3b1" "fa_12_n3" 3.0384
+cap "a1b3" "a_n525_n57#" 6.762
+cap "res0_inv" "res0" 165.203
+cap "c13_inv_2" "a_n471_n100#" 6.762
+cap "a3b1" "a_n418_n131#" 0.506
+cap "b0" "a2b0" 3.5024
+cap "vss" "a_n136_n131#" 3.5775
+cap "a1" "a_n11_18#" 4.9299
+cap "a1b1_inv_0" "a1b1" 165.203
+cap "a2b1_inv_0" "a_n336_18#" 9.278
+cap "a0" "res0_inv" 151.066
+cap "vss" "a2b0_inv_0" 72.8183
+cap "b1" "a3b0" 4.1129
+cap "vdd" "c12" 15.0391
+cap "a2b0" "a1b1_inv_1" 5.65194
+cap "a1b2" "a0b3" 208.267
+cap "a1" "a1b0_inv_0" 144.78
+cap "a0b3_inv_0" "a0" 148.24
+cap "vss" "b1" 6.4152
+cap "vss" "c01" 93.8501
+cap "c11_inv_2" "res2_inv" 185.886
+cap "vss" "a_n421_n109#" 19.855
+cap "s04" "fa_22_n3" 11.3786
+cap "vdd" "a3b1_inv_2" 216.821
+cap "a2" "a0b3_inv_0" 5.11224
+cap "a1" "a2b1_inv_0" 5.62015
+cap "b2" "a1b2" 3.2494
+cap "b3" "a3b1" 28.8563
+cap "a3b1_inv_0" "a3" 150.354
+cap "vss" "a_n320_n14#" 3.5775
+cap "s04" "a_n401_n105#" 5.07856
+cap "c12_inv_2" "a_n251_n100#" 6.762
+cap "fa_12_n1" "a_n435_n59#" 21.4496
+cap "a1b2" "a2b1_inv_1" 4.46644
+cap "a0b3" "fa_12_n3" 5.8106
+cap "a1b0_inv_0" "a_n11_18#" 9.278
+cap "vdd" "a2b2" 10.4646
+cap "a2b2_inv_0" "a2" 152.295
+cap "vss" "a_n552_n20#" 4.639
+cap "s02" "ha21" 31.4647
+cap "a3b0" "c12_inv_2" 62.5901
+cap "a_n365_n64#" "a_n320_n14#" 9.278
+cap "a2b0" "c02_inv_2" 2.4025
+cap "a1b2_inv_1" "a0b3_inv_1" 330.548
+cap "a0" "a_n250_18#" 7.61445
+cap "vss" "res0" 45.2954
+cap "vss" "c11_inv_2" 50.4671
+cap "vdd" "c11" 4.639
+cap "a0b1" "c01_inv" 365.149
+cap "a2" "a_n250_18#" 0.253
+cap "a0" "a3b0" 8.0863
+cap "b1" "a0b1_inv_0" 32.8459
+cap "a1" "a_n483_18#" 4.9299
+device mosfet nmos 0 -132 1 -131 2 13 "vss" "res2_inv" 4 0 "vss" 13 0 "res2" 13 0
+device mosfet nmos -10 -129 -9 -128 2 10 "vss" "c11_inv_2" 4 0 "ha21" 10 0 "vss" 10 0
+device mosfet nmos -20 -126 -19 -125 2 14 "vss" "c01" 4 0 "res2_inv" 14 0 "ha21" 14 0
+device mosfet nmos -30 -126 -29 -125 2 14 "vss" "s02" 4 0 "ha21" 14 0 "res2_inv" 14 0
+device mosfet nmos -50 -132 -49 -131 2 20 "vss" "s02" 4 0 "a_n55_n132#" 20 0 "c11_inv_2" 20 0
+device mosfet nmos -57 -132 -56 -131 2 20 "vss" "c01" 4 0 "vss" 20 0 "a_n55_n132#" 20 0
+device mosfet nmos -68 -132 -67 -131 2 14 "vss" "c11_inv_2" 4 0 "c11" 14 0 "vss" 14 0
+device mosfet nmos -100 -123 -99 -122 2 11 "vss" "a3b0" 4 0 "vss" 11 0 "a3b0_inv_2" 11 0
+device mosfet nmos -111 -126 -110 -125 2 13 "vss" "s03" 4 0 "s03_inv_2" 13 0 "vss" 13 0
+device mosfet nmos -121 -131 -120 -130 2 13 "vss" "a3b0" 4 0 "a_n181_n105#" 13 0 "s03_inv_2" 13 0
+device mosfet nmos -131 -131 -130 -130 2 13 "vss" "a3b0_inv_2" 4 0 "a_n136_n131#" 13 0 "a_n181_n105#" 13 0
+device mosfet nmos -138 -131 -137 -130 2 13 "vss" "s03_inv_2" 4 0 "vss" 13 0 "a_n136_n131#" 13 0
+device mosfet nmos -161 -129 -160 -128 2 11 "vss" "c02" 4 0 "vss" 11 0 "c02_inv_2" 11 0
+device mosfet pmos 0 -97 1 -96 2 25 "vdd" "res2_inv" 4 0 "vdd" 25 0 "res2" 25 0
+device mosfet pmos -13 -97 -12 -96 2 13 "vdd" "c11_inv_2" 4 0 "res2_inv" 13 0 "vdd" 13 0
+device mosfet pmos -23 -100 -22 -99 2 25 "vdd" "c01" 4 0 "a_n28_n100#" 25 0 "res2_inv" 25 0
+device mosfet pmos -30 -100 -29 -99 2 25 "vdd" "s02" 4 0 "vdd" 25 0 "a_n28_n100#" 25 0
+device mosfet pmos -48 -100 -47 -99 2 28 "vdd" "s02" 4 0 "c11_inv_2" 28 0 "vdd" 28 0
+device mosfet pmos -58 -100 -57 -99 2 28 "vdd" "c01" 4 0 "vdd" 28 0 "c11_inv_2" 28 0
+device mosfet pmos -68 -100 -67 -99 2 28 "vdd" "c11_inv_2" 4 0 "c11" 28 0 "vdd" 28 0
+device mosfet nmos -173 -126 -172 -125 2 13 "vss" "a_n181_n105#" 4 0 "a_n201_n109#" 13 0 "vss" 13 0
+device mosfet nmos -183 -131 -182 -130 2 13 "vss" "c02" 4 0 "s12" 13 0 "a_n201_n109#" 13 0
+device mosfet nmos -193 -131 -192 -130 2 13 "vss" "c02_inv_2" 4 0 "a_n198_n131#" 13 0 "s12" 13 0
+device mosfet nmos -200 -131 -199 -130 2 13 "vss" "a_n201_n109#" 4 0 "vss" 13 0 "a_n198_n131#" 13 0
+device mosfet nmos -227 -124 -226 -123 2 12 "vss" "a3b0" 4 0 "fa_21_n3" 12 0 "vss" 12 0
+device mosfet nmos -237 -124 -236 -123 2 12 "vss" "c02" 4 0 "c12_inv_2" 12 0 "fa_21_n3" 12 0
+device mosfet nmos -247 -124 -246 -123 2 12 "vss" "a3b0" 4 0 "a_n252_n124#" 12 0 "c12_inv_2" 12 0
+device mosfet nmos -254 -124 -253 -123 2 12 "vss" "s03" 4 0 "vss" 12 0 "a_n252_n124#" 12 0
+device mosfet nmos -266 -126 -265 -125 2 12 "vss" "s03" 4 0 "fa_21_n3" 12 0 "vss" 12 0
+device mosfet nmos -290 -121 -289 -120 2 9 "vss" "c12_inv_2" 4 0 "c12" 9 0 "vss" 9 0
+device mosfet nmos -320 -123 -319 -122 2 11 "vss" "c03" 4 0 "vss" 11 0 "c03_inv_2" 11 0
+device mosfet nmos -331 -126 -330 -125 2 13 "vss" "s04" 4 0 "s04_inv_2" 13 0 "vss" 13 0
+device mosfet nmos -341 -131 -340 -130 2 13 "vss" "c03" 4 0 "a_n401_n105#" 13 0 "s04_inv_2" 13 0
+device mosfet nmos -351 -131 -350 -130 2 13 "vss" "c03_inv_2" 4 0 "a_n356_n131#" 13 0 "a_n401_n105#" 13 0
+device mosfet nmos -358 -131 -357 -130 2 13 "vss" "s04_inv_2" 4 0 "vss" 13 0 "a_n356_n131#" 13 0
+device mosfet nmos -381 -129 -380 -128 2 11 "vss" "a3b1" 4 0 "vss" 11 0 "a3b1_inv_2" 11 0
+device mosfet pmos -100 -93 -99 -92 2 14 "vdd" "a3b0" 4 0 "a3b0_inv_2" 14 0 "vdd" 14 0
+device mosfet pmos -110 -93 -109 -92 2 14 "vdd" "a3b0" 4 0 "vdd" 14 0 "a3b0_inv_2" 14 0
+device mosfet pmos -121 -100 -120 -99 2 28 "vdd" "s03" 4 0 "s03_inv_2" 28 0 "vdd" 28 0
+device mosfet pmos -131 -100 -130 -99 2 28 "vdd" "a3b0_inv_2" 4 0 "a_n181_n105#" 28 0 "s03_inv_2" 28 0
+device mosfet pmos -141 -100 -140 -99 2 28 "vdd" "s03_inv_2" 4 0 "a3b0_inv_2" 28 0 "a_n181_n105#" 28 0
+device mosfet pmos -161 -86 -160 -85 2 14 "vdd" "c02" 4 0 "c02_inv_2" 14 0 "vdd" 14 0
+device mosfet pmos -171 -86 -170 -85 2 14 "vdd" "c02" 4 0 "vdd" 14 0 "c02_inv_2" 14 0
+device mosfet pmos -181 -100 -180 -99 2 28 "vdd" "a_n181_n105#" 4 0 "a_n201_n109#" 28 0 "vdd" 28 0
+device mosfet pmos -191 -100 -190 -99 2 28 "vdd" "c02_inv_2" 4 0 "s12" 28 0 "a_n201_n109#" 28 0
+device mosfet pmos -201 -100 -200 -99 2 28 "vdd" "a_n201_n109#" 4 0 "c02_inv_2" 28 0 "s12" 28 0
+device mosfet pmos -226 -100 -225 -99 2 27 "vdd" "a3b0" 4 0 "fa_21_n1" 27 0 "vdd" 27 0
+device mosfet pmos -236 -100 -235 -99 2 27 "vdd" "c02" 4 0 "c12_inv_2" 27 0 "fa_21_n1" 27 0
+device mosfet pmos -246 -100 -245 -99 2 27 "vdd" "a3b0" 4 0 "a_n251_n100#" 27 0 "c12_inv_2" 27 0
+device mosfet pmos -253 -100 -252 -99 2 27 "vdd" "s03" 4 0 "vdd" 27 0 "a_n251_n100#" 27 0
+device mosfet pmos -263 -100 -262 -99 2 27 "vdd" "s03" 4 0 "fa_21_n1" 27 0 "vdd" 27 0
+device mosfet pmos -290 -100 -289 -99 2 18 "vdd" "c12_inv_2" 4 0 "c12" 18 0 "vdd" 18 0
+device mosfet nmos -393 -126 -392 -125 2 13 "vss" "a_n401_n105#" 4 0 "a_n421_n109#" 13 0 "vss" 13 0
+device mosfet nmos -403 -131 -402 -130 2 13 "vss" "a3b1" 4 0 "s13" 13 0 "a_n421_n109#" 13 0
+device mosfet nmos -413 -131 -412 -130 2 13 "vss" "a3b1_inv_2" 4 0 "a_n418_n131#" 13 0 "s13" 13 0
+device mosfet nmos -420 -131 -419 -130 2 13 "vss" "a_n421_n109#" 4 0 "vss" 13 0 "a_n418_n131#" 13 0
+device mosfet nmos -447 -124 -446 -123 2 12 "vss" "c03" 4 0 "fa_22_n3" 12 0 "vss" 12 0
+device mosfet nmos -457 -124 -456 -123 2 12 "vss" "a3b1" 4 0 "c13_inv_2" 12 0 "fa_22_n3" 12 0
+device mosfet nmos -467 -124 -466 -123 2 12 "vss" "c03" 4 0 "a_n472_n124#" 12 0 "c13_inv_2" 12 0
+device mosfet nmos -474 -124 -473 -123 2 12 "vss" "s04" 4 0 "vss" 12 0 "a_n472_n124#" 12 0
+device mosfet nmos -486 -126 -485 -125 2 12 "vss" "s04" 4 0 "fa_22_n3" 12 0 "vss" 12 0
+device mosfet nmos -510 -121 -509 -120 2 9 "vss" "c13_inv_2" 4 0 "c13" 9 0 "vss" 9 0
+device mosfet pmos -320 -93 -319 -92 2 14 "vdd" "c03" 4 0 "c03_inv_2" 14 0 "vdd" 14 0
+device mosfet pmos -330 -93 -329 -92 2 14 "vdd" "c03" 4 0 "vdd" 14 0 "c03_inv_2" 14 0
+device mosfet pmos -341 -100 -340 -99 2 28 "vdd" "s04" 4 0 "s04_inv_2" 28 0 "vdd" 28 0
+device mosfet pmos -351 -100 -350 -99 2 28 "vdd" "c03_inv_2" 4 0 "a_n401_n105#" 28 0 "s04_inv_2" 28 0
+device mosfet pmos -361 -100 -360 -99 2 28 "vdd" "s04_inv_2" 4 0 "c03_inv_2" 28 0 "a_n401_n105#" 28 0
+device mosfet pmos -381 -86 -380 -85 2 14 "vdd" "a3b1" 4 0 "a3b1_inv_2" 14 0 "vdd" 14 0
+device mosfet pmos -391 -86 -390 -85 2 14 "vdd" "a3b1" 4 0 "vdd" 14 0 "a3b1_inv_2" 14 0
+device mosfet pmos -401 -100 -400 -99 2 28 "vdd" "a_n401_n105#" 4 0 "a_n421_n109#" 28 0 "vdd" 28 0
+device mosfet pmos -411 -100 -410 -99 2 28 "vdd" "a3b1_inv_2" 4 0 "s13" 28 0 "a_n421_n109#" 28 0
+device mosfet pmos -421 -100 -420 -99 2 28 "vdd" "a_n421_n109#" 4 0 "a3b1_inv_2" 28 0 "s13" 28 0
+device mosfet pmos -446 -100 -445 -99 2 27 "vdd" "c03" 4 0 "fa_22_n1" 27 0 "vdd" 27 0
+device mosfet pmos -456 -100 -455 -99 2 27 "vdd" "a3b1" 4 0 "c13_inv_2" 27 0 "fa_22_n1" 27 0
+device mosfet pmos -466 -100 -465 -99 2 27 "vdd" "c03" 4 0 "a_n471_n100#" 27 0 "c13_inv_2" 27 0
+device mosfet pmos -473 -100 -472 -99 2 27 "vdd" "s04" 4 0 "vdd" 27 0 "a_n471_n100#" 27 0
+device mosfet pmos -483 -100 -482 -99 2 27 "vdd" "s04" 4 0 "fa_22_n1" 27 0 "vdd" 27 0
+device mosfet pmos -510 -100 -509 -99 2 18 "vdd" "c13_inv_2" 4 0 "c13" 18 0 "vdd" 18 0
+device mosfet pmos 41 -60 42 -59 2 25 "vdd" "res1_inv" 4 0 "vdd" 25 0 "res1" 25 0
+device mosfet pmos 28 -48 29 -47 2 13 "vdd" "c01_inv" 4 0 "res1_inv" 13 0 "vdd" 13 0
+device mosfet pmos 18 -57 19 -56 2 25 "vdd" "a0b1" 4 0 "a_13_n57#" 25 0 "res1_inv" 25 0
+device mosfet pmos 11 -57 12 -56 2 25 "vdd" "a1b0" 4 0 "vdd" 25 0 "a_13_n57#" 25 0
+device mosfet pmos -7 -60 -6 -59 2 28 "vdd" "a1b0" 4 0 "c01_inv" 28 0 "vdd" 28 0
+device mosfet pmos -17 -60 -16 -59 2 28 "vdd" "a0b1" 4 0 "vdd" 28 0 "c01_inv" 28 0
+device mosfet pmos -27 -60 -26 -59 2 28 "vdd" "c01_inv" 4 0 "c01" 28 0 "vdd" 28 0
+device mosfet pmos -66 -53 -65 -52 2 14 "vdd" "a2b0" 4 0 "a2b0_inv_1" 14 0 "vdd" 14 0
+device mosfet pmos -76 -53 -75 -52 2 14 "vdd" "a2b0" 4 0 "vdd" 14 0 "a2b0_inv_1" 14 0
+device mosfet nmos 41 -13 42 -12 2 13 "vss" "res1_inv" 4 0 "vss" 13 0 "res1" 13 0
+device mosfet nmos 31 -13 32 -12 2 10 "vss" "c01_inv" 4 0 "ha11" 10 0 "vss" 10 0
+device mosfet nmos 21 -20 22 -19 2 14 "vss" "a0b1" 4 0 "res1_inv" 14 0 "ha11" 14 0
+device mosfet nmos 11 -20 12 -19 2 14 "vss" "a1b0" 4 0 "ha11" 14 0 "res1_inv" 14 0
+device mosfet nmos -9 -20 -8 -19 2 20 "vss" "a1b0" 4 0 "a_n14_n20#" 20 0 "c01_inv" 20 0
+device mosfet nmos -16 -20 -15 -19 2 20 "vss" "a0b1" 4 0 "vss" 20 0 "a_n14_n20#" 20 0
+device mosfet pmos -87 -60 -86 -59 2 28 "vdd" "a1b1" 4 0 "a1b1_inv_1" 28 0 "vdd" 28 0
+device mosfet pmos -97 -60 -96 -59 2 28 "vdd" "a2b0_inv_1" 4 0 "a_n147_n64#" 28 0 "a1b1_inv_1" 28 0
+device mosfet pmos -107 -60 -106 -59 2 28 "vdd" "a1b1_inv_1" 4 0 "a2b0_inv_1" 28 0 "a_n147_n64#" 28 0
+device mosfet pmos -127 -60 -126 -59 2 14 "vdd" "a0b2" 4 0 "a0b2_inv_1" 14 0 "vdd" 14 0
+device mosfet pmos -137 -60 -136 -59 2 14 "vdd" "a0b2" 4 0 "vdd" 14 0 "a0b2_inv_1" 14 0
+device mosfet pmos -147 -60 -146 -59 2 28 "vdd" "a_n147_n64#" 4 0 "a_n167_n64#" 28 0 "vdd" 28 0
+device mosfet pmos -157 -60 -156 -59 2 28 "vdd" "a0b2_inv_1" 4 0 "s02" 28 0 "a_n167_n64#" 28 0
+device mosfet pmos -167 -60 -166 -59 2 28 "vdd" "a_n167_n64#" 4 0 "a0b2_inv_1" 28 0 "s02" 28 0
+device mosfet pmos -192 -59 -191 -58 2 27 "vdd" "a2b0" 4 0 "fa_11_n1" 27 0 "vdd" 27 0
+device mosfet pmos -202 -59 -201 -58 2 27 "vdd" "a0b2" 4 0 "c02_inv" 27 0 "fa_11_n1" 27 0
+device mosfet pmos -212 -59 -211 -58 2 27 "vdd" "a2b0" 4 0 "a_n217_n59#" 27 0 "c02_inv" 27 0
+device mosfet pmos -219 -59 -218 -58 2 27 "vdd" "a1b1" 4 0 "vdd" 27 0 "a_n217_n59#" 27 0
+device mosfet pmos -229 -59 -228 -58 2 27 "vdd" "a1b1" 4 0 "fa_11_n1" 27 0 "vdd" 27 0
+device mosfet pmos -256 -50 -255 -49 2 18 "vdd" "c02_inv" 4 0 "c02" 18 0 "vdd" 18 0
+device mosfet pmos -284 -53 -283 -52 2 14 "vdd" "a0b3" 4 0 "a0b3_inv_1" 14 0 "vdd" 14 0
+device mosfet pmos -294 -53 -293 -52 2 14 "vdd" "a0b3" 4 0 "vdd" 14 0 "a0b3_inv_1" 14 0
+device mosfet nmos -27 -14 -26 -13 2 14 "vss" "c01_inv" 4 0 "c01" 14 0 "vss" 14 0
+device mosfet nmos -66 -20 -65 -19 2 11 "vss" "a2b0" 4 0 "vss" 11 0 "a2b0_inv_1" 11 0
+device mosfet nmos -77 -19 -76 -18 2 13 "vss" "a1b1" 4 0 "a1b1_inv_1" 13 0 "vss" 13 0
+device mosfet nmos -87 -14 -86 -13 2 13 "vss" "a2b0" 4 0 "a_n147_n64#" 13 0 "a1b1_inv_1" 13 0
+device mosfet nmos -97 -14 -96 -13 2 13 "vss" "a2b0_inv_1" 4 0 "a_n102_n14#" 13 0 "a_n147_n64#" 13 0
+device mosfet nmos -104 -14 -103 -13 2 13 "vss" "a1b1_inv_1" 4 0 "vss" 13 0 "a_n102_n14#" 13 0
+device mosfet nmos -127 -14 -126 -13 2 11 "vss" "a0b2" 4 0 "vss" 11 0 "a0b2_inv_1" 11 0
+device mosfet nmos -139 -19 -138 -18 2 13 "vss" "a_n147_n64#" 4 0 "a_n167_n64#" 13 0 "vss" 13 0
+device mosfet nmos -149 -14 -148 -13 2 13 "vss" "a0b2" 4 0 "s02" 13 0 "a_n167_n64#" 13 0
+device mosfet nmos -159 -14 -158 -13 2 13 "vss" "a0b2_inv_1" 4 0 "a_n164_n14#" 13 0 "s02" 13 0
+device mosfet nmos -166 -14 -165 -13 2 13 "vss" "a_n167_n64#" 4 0 "vss" 13 0 "a_n164_n14#" 13 0
+device mosfet nmos -193 -20 -192 -19 2 12 "vss" "a2b0" 4 0 "fa_11_n3" 12 0 "vss" 12 0
+device mosfet nmos -203 -20 -202 -19 2 12 "vss" "a0b2" 4 0 "c02_inv" 12 0 "fa_11_n3" 12 0
+device mosfet nmos -213 -20 -212 -19 2 12 "vss" "a2b0" 4 0 "a_n218_n20#" 12 0 "c02_inv" 12 0
+device mosfet nmos -220 -20 -219 -19 2 12 "vss" "a1b1" 4 0 "vss" 12 0 "a_n218_n20#" 12 0
+device mosfet pmos -305 -60 -304 -59 2 28 "vdd" "a1b2" 4 0 "a1b2_inv_1" 28 0 "vdd" 28 0
+device mosfet pmos -315 -60 -314 -59 2 28 "vdd" "a0b3_inv_1" 4 0 "a_n365_n64#" 28 0 "a1b2_inv_1" 28 0
+device mosfet pmos -325 -60 -324 -59 2 28 "vdd" "a1b2_inv_1" 4 0 "a0b3_inv_1" 28 0 "a_n365_n64#" 28 0
+device mosfet pmos -345 -60 -344 -59 2 14 "vdd" "a2b1" 4 0 "a2b1_inv_1" 14 0 "vdd" 14 0
+device mosfet pmos -355 -60 -354 -59 2 14 "vdd" "a2b1" 4 0 "vdd" 14 0 "a2b1_inv_1" 14 0
+device mosfet pmos -365 -60 -364 -59 2 28 "vdd" "a_n365_n64#" 4 0 "a_n385_n64#" 28 0 "vdd" 28 0
+device mosfet pmos -375 -60 -374 -59 2 28 "vdd" "a2b1_inv_1" 4 0 "s03" 28 0 "a_n385_n64#" 28 0
+device mosfet pmos -385 -60 -384 -59 2 28 "vdd" "a_n385_n64#" 4 0 "a2b1_inv_1" 28 0 "s03" 28 0
+device mosfet pmos -410 -59 -409 -58 2 27 "vdd" "a0b3" 4 0 "fa_12_n1" 27 0 "vdd" 27 0
+device mosfet pmos -420 -59 -419 -58 2 27 "vdd" "a2b1" 4 0 "c03_inv" 27 0 "fa_12_n1" 27 0
+device mosfet pmos -430 -59 -429 -58 2 27 "vdd" "a0b3" 4 0 "a_n435_n59#" 27 0 "c03_inv" 27 0
+device mosfet pmos -437 -59 -436 -58 2 27 "vdd" "a1b2" 4 0 "vdd" 27 0 "a_n435_n59#" 27 0
+device mosfet pmos -447 -59 -446 -58 2 27 "vdd" "a1b2" 4 0 "fa_12_n1" 27 0 "vdd" 27 0
+device mosfet pmos -474 -50 -473 -49 2 18 "vdd" "c03_inv" 4 0 "c03" 18 0 "vdd" 18 0
+device mosfet pmos -497 -60 -496 -59 2 25 "vdd" "s04_inv_1" 4 0 "vdd" 25 0 "s04" 25 0
+device mosfet pmos -510 -48 -509 -47 2 13 "vdd" "c04_inv_1" 4 0 "s04_inv_1" 13 0 "vdd" 13 0
+device mosfet nmos -232 -18 -231 -17 2 12 "vss" "a1b1" 4 0 "fa_11_n3" 12 0 "vss" 12 0
+device mosfet nmos -256 -20 -255 -19 2 9 "vss" "c02_inv" 4 0 "c02" 9 0 "vss" 9 0
+device mosfet nmos -284 -20 -283 -19 2 11 "vss" "a0b3" 4 0 "vss" 11 0 "a0b3_inv_1" 11 0
+device mosfet nmos -295 -19 -294 -18 2 13 "vss" "a1b2" 4 0 "a1b2_inv_1" 13 0 "vss" 13 0
+device mosfet nmos -305 -14 -304 -13 2 13 "vss" "a0b3" 4 0 "a_n365_n64#" 13 0 "a1b2_inv_1" 13 0
+device mosfet nmos -315 -14 -314 -13 2 13 "vss" "a0b3_inv_1" 4 0 "a_n320_n14#" 13 0 "a_n365_n64#" 13 0
+device mosfet nmos -322 -14 -321 -13 2 13 "vss" "a1b2_inv_1" 4 0 "vss" 13 0 "a_n320_n14#" 13 0
+device mosfet nmos -345 -14 -344 -13 2 11 "vss" "a2b1" 4 0 "vss" 11 0 "a2b1_inv_1" 11 0
+device mosfet nmos -357 -19 -356 -18 2 13 "vss" "a_n365_n64#" 4 0 "a_n385_n64#" 13 0 "vss" 13 0
+device mosfet nmos -367 -14 -366 -13 2 13 "vss" "a2b1" 4 0 "s03" 13 0 "a_n385_n64#" 13 0
+device mosfet nmos -377 -14 -376 -13 2 13 "vss" "a2b1_inv_1" 4 0 "a_n382_n14#" 13 0 "s03" 13 0
+device mosfet nmos -384 -14 -383 -13 2 13 "vss" "a_n385_n64#" 4 0 "vss" 13 0 "a_n382_n14#" 13 0
+device mosfet nmos -411 -20 -410 -19 2 12 "vss" "a0b3" 4 0 "fa_12_n3" 12 0 "vss" 12 0
+device mosfet nmos -421 -20 -420 -19 2 12 "vss" "a2b1" 4 0 "c03_inv" 12 0 "fa_12_n3" 12 0
+device mosfet nmos -431 -20 -430 -19 2 12 "vss" "a0b3" 4 0 "a_n436_n20#" 12 0 "c03_inv" 12 0
+device mosfet nmos -438 -20 -437 -19 2 12 "vss" "a1b2" 4 0 "vss" 12 0 "a_n436_n20#" 12 0
+device mosfet pmos -520 -57 -519 -56 2 25 "vdd" "a1b3" 4 0 "a_n525_n57#" 25 0 "s04_inv_1" 25 0
+device mosfet pmos -527 -57 -526 -56 2 25 "vdd" "a2b2" 4 0 "vdd" 25 0 "a_n525_n57#" 25 0
+device mosfet pmos -545 -60 -544 -59 2 28 "vdd" "a2b2" 4 0 "c04_inv_1" 28 0 "vdd" 28 0
+device mosfet pmos -555 -60 -554 -59 2 28 "vdd" "a1b3" 4 0 "vdd" 28 0 "c04_inv_1" 28 0
+device mosfet pmos -565 -60 -564 -59 2 28 "vdd" "c04_inv_1" 4 0 "c04" 28 0 "vdd" 28 0
+device mosfet nmos -450 -18 -449 -17 2 12 "vss" "a1b2" 4 0 "fa_12_n3" 12 0 "vss" 12 0
+device mosfet nmos -474 -20 -473 -19 2 9 "vss" "c03_inv" 4 0 "c03" 9 0 "vss" 9 0
+device mosfet nmos -497 -13 -496 -12 2 13 "vss" "s04_inv_1" 4 0 "vss" 13 0 "s04" 13 0
+device mosfet nmos -507 -13 -506 -12 2 10 "vss" "c04_inv_1" 4 0 "ha12" 10 0 "vss" 10 0
+device mosfet nmos -517 -20 -516 -19 2 14 "vss" "a1b3" 4 0 "s04_inv_1" 14 0 "ha12" 14 0
+device mosfet nmos -527 -20 -526 -19 2 14 "vss" "a2b2" 4 0 "ha12" 14 0 "s04_inv_1" 14 0
+device mosfet nmos -547 -20 -546 -19 2 20 "vss" "a2b2" 4 0 "a_n552_n20#" 20 0 "c04_inv_1" 20 0
+device mosfet nmos -554 -20 -553 -19 2 20 "vss" "a1b3" 4 0 "vss" 20 0 "a_n552_n20#" 20 0
+device mosfet nmos -565 -14 -564 -13 2 14 "vss" "c04_inv_1" 4 0 "c04" 14 0 "vss" 14 0
+device mosfet nmos 77 18 78 19 2 11 "vss" "b0" 4 0 "a_72_18#" 11 0 "res0_inv" 11 0
+device mosfet nmos 70 18 71 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_72_18#" 11 0
+device mosfet nmos 57 20 58 21 2 9 "vss" "res0_inv" 4 0 "res0" 9 0 "vss" 9 0
+device mosfet nmos 34 18 35 19 2 11 "vss" "b1" 4 0 "a_29_18#" 11 0 "a0b1_inv_0" 11 0
+device mosfet nmos 27 18 28 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_29_18#" 11 0
+device mosfet nmos 14 20 15 21 2 9 "vss" "a0b1_inv_0" 4 0 "a0b1" 9 0 "vss" 9 0
+device mosfet nmos -6 18 -5 19 2 11 "vss" "b0" 4 0 "a_n11_18#" 11 0 "a1b0_inv_0" 11 0
+device mosfet nmos -13 18 -12 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_n11_18#" 11 0
+device mosfet nmos -26 20 -25 21 2 9 "vss" "a1b0_inv_0" 4 0 "a1b0" 9 0 "vss" 9 0
+device mosfet nmos -49 18 -48 19 2 11 "vss" "b0" 4 0 "a_n54_18#" 11 0 "a2b0_inv_0" 11 0
+device mosfet nmos -56 18 -55 19 2 11 "vss" "a2" 4 0 "vss" 11 0 "a_n54_18#" 11 0
+device mosfet nmos -69 20 -68 21 2 9 "vss" "a2b0_inv_0" 4 0 "a2b0" 9 0 "vss" 9 0
+device mosfet nmos -90 18 -89 19 2 11 "vss" "b1" 4 0 "a_n95_18#" 11 0 "a1b1_inv_0" 11 0
+device mosfet nmos -97 18 -96 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_n95_18#" 11 0
+device mosfet nmos -110 20 -109 21 2 9 "vss" "a1b1_inv_0" 4 0 "a1b1" 9 0 "vss" 9 0
+device mosfet nmos -132 18 -131 19 2 11 "vss" "b0" 4 0 "a_n137_18#" 11 0 "a3b0_inv_0" 11 0
+device mosfet nmos -139 18 -138 19 2 11 "vss" "a3" 4 0 "vss" 11 0 "a_n137_18#" 11 0
+device mosfet nmos -152 20 -151 21 2 9 "vss" "a3b0_inv_0" 4 0 "a3b0" 9 0 "vss" 9 0
+device mosfet nmos -176 18 -175 19 2 11 "vss" "b2" 4 0 "a_n181_18#" 11 0 "a0b2_inv_0" 11 0
+device mosfet nmos -183 18 -182 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_n181_18#" 11 0
+device mosfet nmos -196 20 -195 21 2 9 "vss" "a0b2_inv_0" 4 0 "a0b2" 9 0 "vss" 9 0
+device mosfet nmos -245 18 -244 19 2 11 "vss" "b3" 4 0 "a_n250_18#" 11 0 "a0b3_inv_0" 11 0
+device mosfet nmos -252 18 -251 19 2 11 "vss" "a0" 4 0 "vss" 11 0 "a_n250_18#" 11 0
+device mosfet nmos -265 20 -264 21 2 9 "vss" "a0b3_inv_0" 4 0 "a0b3" 9 0 "vss" 9 0
+device mosfet nmos -289 18 -288 19 2 11 "vss" "b2" 4 0 "a_n294_18#" 11 0 "a1b2_inv_0" 11 0
+device mosfet nmos -296 18 -295 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_n294_18#" 11 0
+device mosfet nmos -309 20 -308 21 2 9 "vss" "a1b2_inv_0" 4 0 "a1b2" 9 0 "vss" 9 0
+device mosfet nmos -331 18 -330 19 2 11 "vss" "b1" 4 0 "a_n336_18#" 11 0 "a2b1_inv_0" 11 0
+device mosfet nmos -338 18 -337 19 2 11 "vss" "a2" 4 0 "vss" 11 0 "a_n336_18#" 11 0
+device mosfet nmos -351 20 -350 21 2 9 "vss" "a2b1_inv_0" 4 0 "a2b1" 9 0 "vss" 9 0
+device mosfet nmos -435 18 -434 19 2 11 "vss" "b1" 4 0 "a_n440_18#" 11 0 "a3b1_inv_0" 11 0
+device mosfet nmos -442 18 -441 19 2 11 "vss" "a3" 4 0 "vss" 11 0 "a_n440_18#" 11 0
+device mosfet nmos -455 20 -454 21 2 9 "vss" "a3b1_inv_0" 4 0 "a3b1" 9 0 "vss" 9 0
+device mosfet nmos -478 18 -477 19 2 11 "vss" "b3" 4 0 "a_n483_18#" 11 0 "a1b3_inv_0" 11 0
+device mosfet nmos -485 18 -484 19 2 11 "vss" "a1" 4 0 "vss" 11 0 "a_n483_18#" 11 0
+device mosfet nmos -498 20 -497 21 2 9 "vss" "a1b3_inv_0" 4 0 "a1b3" 9 0 "vss" 9 0
+device mosfet nmos -518 18 -517 19 2 11 "vss" "b2" 4 0 "a_n523_18#" 11 0 "a2b2_inv_0" 11 0
+device mosfet nmos -525 18 -524 19 2 11 "vss" "a2" 4 0 "vss" 11 0 "a_n523_18#" 11 0
+device mosfet nmos -538 20 -537 21 2 9 "vss" "a2b2_inv_0" 4 0 "a2b2" 9 0 "vss" 9 0
+device mosfet pmos 77 51 78 52 2 13 "vdd" "b0" 4 0 "res0_inv" 13 0 "vdd" 13 0
+device mosfet pmos 67 51 68 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "res0_inv" 13 0
+device mosfet pmos 57 44 58 45 2 18 "vdd" "res0_inv" 4 0 "res0" 18 0 "vdd" 18 0
+device mosfet pmos 34 51 35 52 2 13 "vdd" "b1" 4 0 "a0b1_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos 24 51 25 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "a0b1_inv_0" 13 0
+device mosfet pmos 14 44 15 45 2 18 "vdd" "a0b1_inv_0" 4 0 "a0b1" 18 0 "vdd" 18 0
+device mosfet pmos -6 51 -5 52 2 13 "vdd" "b0" 4 0 "a1b0_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -16 51 -15 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "a1b0_inv_0" 13 0
+device mosfet pmos -26 44 -25 45 2 18 "vdd" "a1b0_inv_0" 4 0 "a1b0" 18 0 "vdd" 18 0
+device mosfet pmos -49 51 -48 52 2 13 "vdd" "b0" 4 0 "a2b0_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -59 51 -58 52 2 13 "vdd" "a2" 4 0 "vdd" 13 0 "a2b0_inv_0" 13 0
+device mosfet pmos -69 44 -68 45 2 18 "vdd" "a2b0_inv_0" 4 0 "a2b0" 18 0 "vdd" 18 0
+device mosfet pmos -90 51 -89 52 2 13 "vdd" "b1" 4 0 "a1b1_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -100 51 -99 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "a1b1_inv_0" 13 0
+device mosfet pmos -110 44 -109 45 2 18 "vdd" "a1b1_inv_0" 4 0 "a1b1" 18 0 "vdd" 18 0
+device mosfet pmos -132 51 -131 52 2 13 "vdd" "b0" 4 0 "a3b0_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -142 51 -141 52 2 13 "vdd" "a3" 4 0 "vdd" 13 0 "a3b0_inv_0" 13 0
+device mosfet pmos -152 44 -151 45 2 18 "vdd" "a3b0_inv_0" 4 0 "a3b0" 18 0 "vdd" 18 0
+device mosfet pmos -176 51 -175 52 2 13 "vdd" "b2" 4 0 "a0b2_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -186 51 -185 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "a0b2_inv_0" 13 0
+device mosfet pmos -196 44 -195 45 2 18 "vdd" "a0b2_inv_0" 4 0 "a0b2" 18 0 "vdd" 18 0
+device mosfet pmos -245 51 -244 52 2 13 "vdd" "b3" 4 0 "a0b3_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -255 51 -254 52 2 13 "vdd" "a0" 4 0 "vdd" 13 0 "a0b3_inv_0" 13 0
+device mosfet pmos -265 44 -264 45 2 18 "vdd" "a0b3_inv_0" 4 0 "a0b3" 18 0 "vdd" 18 0
+device mosfet pmos -289 51 -288 52 2 13 "vdd" "b2" 4 0 "a1b2_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -299 51 -298 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "a1b2_inv_0" 13 0
+device mosfet pmos -309 44 -308 45 2 18 "vdd" "a1b2_inv_0" 4 0 "a1b2" 18 0 "vdd" 18 0
+device mosfet pmos -331 51 -330 52 2 13 "vdd" "b1" 4 0 "a2b1_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -341 51 -340 52 2 13 "vdd" "a2" 4 0 "vdd" 13 0 "a2b1_inv_0" 13 0
+device mosfet pmos -351 44 -350 45 2 18 "vdd" "a2b1_inv_0" 4 0 "a2b1" 18 0 "vdd" 18 0
+device mosfet pmos -435 51 -434 52 2 13 "vdd" "b1" 4 0 "a3b1_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -445 51 -444 52 2 13 "vdd" "a3" 4 0 "vdd" 13 0 "a3b1_inv_0" 13 0
+device mosfet pmos -455 44 -454 45 2 18 "vdd" "a3b1_inv_0" 4 0 "a3b1" 18 0 "vdd" 18 0
+device mosfet pmos -478 51 -477 52 2 13 "vdd" "b3" 4 0 "a1b3_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -488 51 -487 52 2 13 "vdd" "a1" 4 0 "vdd" 13 0 "a1b3_inv_0" 13 0
+device mosfet pmos -498 44 -497 45 2 18 "vdd" "a1b3_inv_0" 4 0 "a1b3" 18 0 "vdd" 18 0
+device mosfet pmos -518 51 -517 52 2 13 "vdd" "b2" 4 0 "a2b2_inv_0" 13 0 "vdd" 13 0
+device mosfet pmos -528 51 -527 52 2 13 "vdd" "a2" 4 0 "vdd" 13 0 "a2b2_inv_0" 13 0
+device mosfet pmos -538 44 -537 45 2 18 "vdd" "a2b2_inv_0" 4 0 "a2b2" 18 0 "vdd" 18 0
+subcap "fa_22_n3" -7.8173
+subcap "c13_inv_2" -10.3215
+subcap "s04" -233.788
+subcap "a_n401_n105#" -89.1241
+subcap "a3b1_inv_2" -7.9686
+subcap "c03_inv" -59.3012
+subcap "c12_inv_2" -27.9109
+subcap "c03_inv_2" -2.4656
+subcap "s04_inv_2" -2.4656
+subcap "a1b2_inv_1" -71.6267
+subcap "a_n365_n64#" -102.935
+subcap "a_n385_n64#" -66.0956
+subcap "c02_inv_2" -71.0043
+subcap "a_n201_n109#" -12.6342
+subcap "c02_inv" -60.7489
+subcap "a3b0_inv_2" -4.4395
+subcap "s03_inv_2" -2.4656
+subcap "a1b1_inv_1" -71.6267
+subcap "a_n147_n64#" -102.935
+subcap "a_n167_n64#" -66.0956
+subcap "res2" -7.2968
+subcap "res2_inv" -2.4656
+subcap "c11_inv_2" -2.4656
+subcap "c01" -31.8848
+subcap "s04_inv_1" -6.414
+subcap "c04_inv_1" -57.1986
+subcap "a1b3" -13.2409
+subcap "a1" -359.235
+subcap "a1b3_inv_0" -7.8803
+subcap "a2b2" -13.2409
+subcap "b2" -191.758
+subcap "a2" -232.108
+subcap "a2b2_inv_0" -6.414
+subcap "vdd" -1098.75
+subcap "a0b3" -222.809
+subcap "a1b2" -129.296
+subcap "a2b1" -183.277
+subcap "a3b1" -213.41
+subcap "b1" -289.807
+subcap "a3" -76.2067
+subcap "a3b1_inv_0" -6.414
+subcap "b3" -108.859
+subcap "a1b2_inv_0" -6.414
+subcap "a2b1_inv_0" -6.414
+subcap "a2b0" -228.477
+subcap "a1b1" -139.105
+subcap "a0b2" -154.951
+subcap "a0b2_inv_0" -12.8995
+subcap "a0" -221.787
+subcap "a0b3_inv_0" -6.414
+subcap "a1b1_inv_0" -6.414
+subcap "b0" -226.364
+subcap "a3b0_inv_0" -6.414
+subcap "c01_inv" -58.0185
+subcap "a0b1" -90.3129
+subcap "a1b0" -38.2401
+subcap "a1b0_inv_0" -2.8611
+subcap "a2b0_inv_0" -2.8611
+subcap "res0" -0.2733
+subcap "res0_inv" -2.8611
