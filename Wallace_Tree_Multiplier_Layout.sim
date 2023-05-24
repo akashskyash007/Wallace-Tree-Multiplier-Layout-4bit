@@ -1,319 +1,461 @@
 | units: 100 tech: scmos format: MIT
-p a1b0 c01_inv vdd 2 28 580 83
+p a3b3 a3b3_inv_3 vdd 2 28 -33 -60
 n c04 s14 a_n52_34# 2 13 -33 12
-n s04_inv_1 vss s04 2 13 90 130
+p a1b0 c01_inv vdd 2 28 580 83
+n c13_inv_3 a_109_n15# res5 2 13 114 -14
 n c02 c12_inv_2 fa_21_n3 2 12 350 19
-n c01 res2_inv ha21 2 14 567 17
+n s04_inv_1 vss s04 2 13 90 130
 p a_166_34# a3b1_inv_2 s13 2 28 166 43
-n a0 vss a_616_161# 2 11 614 161
+n c01 res2_inv ha21 2 14 567 17
 n a2 vss a_n53_125# 2 11 -54 125
-p a2 vdd a2b3_inv_1 2 13 -57 90
 n a1b2_inv_1 vss a_267_129# 2 13 265 129
+p a2 vdd a2b3_inv_1 2 13 -57 90
+n a0 vss a_616_161# 2 11 614 161
+p c21 vdd c21_inv_3_in 2 14 414 -53
 n a2b3 a_n103_19# c14_inv_2 2 12 -97 19
-n a3b0_inv a3b0 vss 2 9 435 163
+p b3 a3b3_inv_2 vdd 2 13 -164 51
 n c03_inv_2 a_231_12# a_186_38# 2 13 236 12
 p a3b0 a_336_43# c12_inv_2 2 27 341 43
-n a1 vss a_104_161# 2 11 102 161
-p a2b1_inv_1 s03 a_202_79# 2 28 212 83
+p s13_inv_3 c21_inv_3_in a_343_n65# 2 28 383 -60
+n a3b0_inv a3b0 vss 2 9 435 163
+p c22 c22_inv_3_in vdd 2 14 207 -53
 p a2b0_inv_1 a_440_79# a1b1_inv_1 2 28 490 83
 p a1b1 a1b1_inv_1 vdd 2 28 500 83
-n b0 a_450_161# a3b0_inv 2 11 455 161
-p a3b2 a3b2_inv_2 vdd 2 28 28 43
-p c11 c21_inv_3 vdd 2 28 482 -60
+p a2b1_inv_1 s03 a_202_79# 2 28 212 83
+n a1 vss a_104_161# 2 11 102 161
 n s03 vss a_335_19# 2 12 333 19
-n a0 vss a_659_161# 2 11 657 161
-p c04 c04_inv_2 vdd 2 14 -11 57
-n c21_inv_3 ha_31 vss 2 10 520 -13
+p c11 c21_inv_3 vdd 2 28 482 -60
+p a3b2 a3b2_inv_2 vdd 2 28 28 43
+n c13 c23_inv_3 fa_32_n3 2 12 70 -20
+n b0 a_450_161# a3b0_inv 2 11 455 161
+p c22_inv_3_in a_126_n65# s14_inv_3 2 28 176 -60
 n a_406_38# a_386_34# vss 2 13 414 17
-p a1 vdd a1b0_inv_0 2 13 571 194
-p a0b2 vdd a0b2_inv_1 2 14 450 83
+n a0 vss a_659_161# 2 11 657 161
+n c23_inv_3 c23 vss 2 9 17 -20
+n c21_inv_3 ha_31 vss 2 10 520 -13
+p c04 c04_inv_2 vdd 2 14 -11 57
+p a3b3 vdd a_n164_n60# 2 27 -165 -59
+n a3b3_inv_2 a3b3 vss 2 9 -184 20
 n a1b0 a_573_123# c01_inv 2 20 578 123
+p a0b2 vdd a0b2_inv_1 2 14 450 83
+p a1 vdd a1b0_inv_0 2 13 571 194
 p a3b2 vdd a_n102_43# 2 27 -103 43
+n c22_inv_3 c22 vss 2 9 234 -20
 n c02 vss c02_inv_2 2 11 426 14
-n a3 vss a_147_161# 2 11 145 161
-p a_n32_38# a_n52_34# vdd 2 28 -31 43
-p s12 a_502_n58# res3_inv 2 25 507 -57
 p s03 fa_21_n1 vdd 2 27 324 43
+n a3 vss a_147_161# 2 11 145 161
+p s12 a_502_n58# res3_inv 2 25 507 -57
+p a_n32_38# a_n52_34# vdd 2 28 -31 43
 p b3 a1b3_inv_0 vdd 2 13 109 194
+n a_n94_n65# a_n114_n65# vss 2 13 -85 -19
+p c22 a_56_n60# c23_inv_3 2 27 61 -59
 n b2 a_n11_125# a3b2_inv_1 2 11 -5 125
 p a2b1_inv_0 a2b1 vdd 2 18 236 187
 p b2 a0b2_inv_0 vdd 2 13 411 194
 n a1b1 vss a_369_123# 2 12 367 123
-p b1 a2b1_inv_0 vdd 2 13 256 194
 n c03_inv c03 vss 2 9 113 123
-p s02 c11_inv_2 vdd 2 28 539 43
+n c21 a_272_n21# c22_inv_3 2 12 277 -20
 p s03 s03_inv_2 vdd 2 28 466 43
 n a3b1 c13_inv_2 fa_22_n3 2 12 130 19
+p b1 a2b1_inv_0 vdd 2 13 256 194
+p s02 c11_inv_2 vdd 2 28 539 43
 n c11 a_475_n21# c21_inv_3 2 20 480 -20
 p c12_inv_2 c12 vdd 2 18 297 43
-n a1 vss a_492_161# 2 11 490 161
 n c04_inv_1 c04 vss 2 14 22 129
-n a0b3 a_151_123# c03_inv 2 12 156 123
+n a1 vss a_492_161# 2 11 490 161
 p c03 a_116_43# c13_inv_2 2 27 121 43
-n a1b3_inv_0 a1b3 vss 2 9 89 163
+p res7_inv res7 vdd 2 18 -202 -50
+n a0b3 a_151_123# c03_inv 2 12 156 123
 p a2b3_inv_1 a2b3 vdd 2 18 -67 92
-p a1b1_inv_0 a1b1 vdd 2 18 477 187
+p a_106_n65# c13_inv_3 res5 2 28 106 -60
+n a1b3_inv_0 a1b3 vss 2 9 89 163
 n a2 vss a_64_161# 2 11 62 161
 n s04 vss a_115_19# 2 12 113 19
-p b1 a1b1_inv_0 vdd 2 13 497 194
+p a1b1_inv_0 a1b1 vdd 2 18 477 187
 p b2 a3b2_inv_1 vdd 2 13 -5 90
-p a2b2_inv_0 a2b2 vdd 2 18 49 187
-p a0b3_inv_0 a0b3 vdd 2 18 322 187
-p a3 vdd a3b0_inv 2 13 445 194
+p b1 a1b1_inv_0 vdd 2 13 497 194
 p a0b2 c02_inv fa_11_n1 2 27 385 84
+p a0b3_inv_0 a0b3 vdd 2 18 322 187
+p a2b2_inv_0 a2b2 vdd 2 18 49 187
+p a3 vdd a3b0_inv 2 13 445 194
 n a3b1 vss a3b1_inv_2 2 11 206 14
-n a0b3 a_222_79# a1b2_inv_1 2 13 282 129
+p s13 s13_inv_3 vdd 2 28 403 -60
 p s04 fa_22_n1 vdd 2 27 104 43
-p b2 a2b2_inv_0 vdd 2 13 69 194
+n a0b3 a_222_79# a1b2_inv_1 2 13 282 129
+p c23 fa_33_n1 vdd 2 27 -138 -59
 p b3 a0b3_inv_0 vdd 2 13 342 194
+p b2 a2b2_inv_0 vdd 2 13 69 194
+p a_n94_n65# a_n114_n65# vdd 2 28 -93 -60
+n c22 vss c22_inv_3_in 2 11 207 -20
 p c03_inv c03 vdd 2 18 113 93
+n a_323_n65# vss a_326_n15# 2 13 324 -14
+n s14_inv_3 vss a_171_n15# 2 13 169 -14
 p s04 s04_inv_2 vdd 2 28 246 43
 p a1b1 vdd a_370_84# 2 27 368 84
 n c01_inv ha11 vss 2 10 618 130
+p c23 c23_inv_3_in vdd 2 14 -12 -53
+p a_343_n65# a_323_n65# vdd 2 28 343 -60
 p a2b2 c04_inv_1 vdd 2 28 42 83
-p a1b0 vdd a_600_86# 2 25 598 86
 p s02 vdd a_559_43# 2 25 557 43
-n b3 a_104_161# a1b3_inv_0 2 11 109 161
-p a1b2 a1b2_inv_1 vdd 2 28 282 83
+p a1b0 vdd a_600_86# 2 25 598 86
+p c21 fa_31_n1 vdd 2 27 298 -59
+p c13 vdd c13_inv_3 2 14 136 -60
 p a0b1 vdd c01_inv 2 28 570 83
+p a1b2 a1b2_inv_1 vdd 2 28 282 83
+n b3 a_104_161# a1b3_inv_0 2 11 109 161
 n a3b0 a_335_19# c12_inv_2 2 12 340 19
-n a2b1_inv_0 a2b1 vss 2 9 236 163
-n b2 a_406_161# a0b2_inv_0 2 11 411 161
 n c11 ha_31 res3_inv 2 14 500 -20
 n s02 ha21 res2_inv 2 14 557 17
-p b3 a2b3_inv_1 vdd 2 13 -47 90
-p a2b1 a2b1_inv_1 vdd 2 14 242 83
+n a2b1_inv_0 a2b1 vss 2 9 236 163
+n c12 vss c12_inv_3 2 11 363 -14
+n b2 a_406_161# a0b2_inv_0 2 11 411 161
 n a0b2 c02_inv fa_11_n3 2 12 384 123
-n c04 c14_inv_2 fa_23_n3 2 12 -87 19
+p a2b1 a2b1_inv_1 vdd 2 14 242 83
+p b3 a2b3_inv_1 vdd 2 13 -47 90
 p c11_inv_2 res2_inv vdd 2 13 574 46
+n c04 c14_inv_2 fa_23_n3 2 12 -87 19
 n b1 a_251_161# a2b1_inv_0 2 11 256 161
 n c21_inv_3 c21 vss 2 14 462 -14
 n a2b2 ha12 s04_inv_1 2 14 60 123
-p a1 vdd a1b3_inv_0 2 13 99 194
-n c04_inv_1 ha12 vss 2 10 80 130
-n a1b1 fa_11_n3 vss 2 12 355 125
-p a_202_79# a2b1_inv_1 s03 2 28 202 83
 p a1b1_inv_1 a2b0_inv_1 a_440_79# 2 28 480 83
-p a0b1_inv_0 a0b1 vdd 2 18 601 187
+p a_202_79# a2b1_inv_1 s03 2 28 202 83
+p a1 vdd a1b3_inv_0 2 13 99 194
+n a1b1 fa_11_n3 vss 2 12 355 125
+n c04_inv_1 ha12 vss 2 10 80 130
 p a2b3_inv_2 a_n32_38# a3b2_inv_2 2 28 18 43
-p b1 a0b1_inv_0 vdd 2 13 621 194
-n a_202_79# vss a_205_129# 2 13 203 129
+p a0b1_inv_0 a0b1 vdd 2 18 601 187
+n s13 fa_31_n3 vss 2 12 258 -18
+n c14 res6 a_n114_n65# 2 13 -95 -14
 p a_440_79# a_420_79# vdd 2 28 440 83
+p b1 a0b1_inv_0 vdd 2 13 621 194
 p a2b0 a2b0_inv_1 vdd 2 14 521 90
+n a_202_79# vss a_205_129# 2 13 203 129
+n c23_inv_3_in a_n49_n15# a_n94_n65# 2 13 -43 -14
 n a1b1_inv_0 a1b1 vss 2 9 477 163
 p a2b3 a2b3_inv_2 vdd 2 14 49 50
+n res2_inv vss res2 2 13 587 11
 p a0b2_inv_0 a0b2 vdd 2 18 391 187
 p res0_inv res0 vdd 2 18 644 187
-n res2_inv vss res2 2 13 587 11
-n a2b2_inv_0 a2b2 vss 2 9 49 163
-n a0b3_inv_0 a0b3 vss 2 9 322 163
 n b1 a_492_161# a1b1_inv_0 2 11 497 161
+n a0b3_inv_0 a0b3 vss 2 9 322 163
+n c23 a_n165_n21# res7_inv 2 12 -159 -20
 p s12 vdd c21_inv_3 2 28 472 -60
-p b0 res0_inv vdd 2 13 664 194
+n a2b2_inv_0 a2b2 vss 2 9 49 163
+n c22 a_55_n21# c23_inv_3 2 12 60 -20
 n a2b0 vss a2b0_inv_1 2 11 521 123
-n b2 a_64_161# a2b2_inv_0 2 11 69 161
-n a1 vss a_293_161# 2 11 291 161
+p s14_inv_3 c22_inv_3_in a_126_n65# 2 28 166 -60
+p b0 res0_inv vdd 2 13 664 194
 n b3 a_337_161# a0b3_inv_0 2 11 342 161
 n a2b0 a_440_79# a1b1_inv_1 2 13 500 129
+n a1 vss a_293_161# 2 11 291 161
+n b2 a_64_161# a2b2_inv_0 2 11 69 161
 p a3b1_inv_0 a3b1 vdd 2 18 132 187
-n a3b2 fa_23_n3 vss 2 12 -116 17
-n c01 vss a_532_11# 2 20 530 11
-p c01 vdd c11_inv_2 2 28 529 43
 n c12_inv_2 c12 vss 2 9 297 22
 p a3b0_inv_2 a_406_38# s03_inv_2 2 28 456 43
 n c03 a_115_19# c13_inv_2 2 12 120 19
+n c01 vss a_532_11# 2 20 530 11
+p c01 vdd c11_inv_2 2 28 529 43
+n a3b2 fa_23_n3 vss 2 12 -116 17
+n c21_inv_3_in a_388_n15# a_343_n65# 2 13 393 -14
 p b1 a3b1_inv_0 vdd 2 13 152 194
+n c12 res4 a_323_n65# 2 13 341 -14
 n a2b1 vss a2b1_inv_1 2 11 242 129
-p a1b2_inv_0 a1b2 vdd 2 18 278 187
-p a0b3 fa_12_n1 vdd 2 27 177 84
 p a3b0 a3b0_inv_2 vdd 2 14 487 50
+p a0b3 fa_12_n1 vdd 2 27 177 84
+p a1b2_inv_0 a1b2 vdd 2 18 278 187
+n a3b3 a3b3_inv_3 vss 2 13 -23 -19
+p a3b3_inv_3 c23_inv_3_in a_n94_n65# 2 28 -53 -60
+n c22 a_126_n65# s14_inv_3 2 13 186 -14
+n res7_inv res7 vss 2 9 -202 -20
+n c23 vss c23_inv_3_in 2 11 -12 -20
 p a0 vdd a0b2_inv_0 2 13 401 194
 p b2 a1b2_inv_0 vdd 2 13 298 194
 p a2 vdd a2b1_inv_0 2 13 246 194
+n a_n114_n65# vss a_n111_n15# 2 13 -112 -14
 n a1b3 vss a_35_123# 2 20 33 123
 n a1b2 a1b2_inv_1 vss 2 13 292 124
+n c14 vss c14_inv_3 2 11 -73 -14
+n b3 a_n170_18# a3b3_inv_2 2 11 -164 18
 n a2 vss a_533_161# 2 11 531 161
 p a2b0 a_370_84# c02_inv 2 27 375 84
 p c04_inv_1 s04_inv_1 vdd 2 13 77 95
 p a2b3 a_n102_43# c14_inv_2 2 27 -96 43
-p a2b2 vdd a_62_86# 2 25 60 86
 n a1b1_inv_1 vss a_485_129# 2 13 483 129
-p a2b0_inv_0 a2b0 vdd 2 18 518 187
-p c01_inv res1_inv vdd 2 13 615 95
+p a2b2 vdd a_62_86# 2 25 60 86
 p c01 a_559_43# res2_inv 2 25 564 43
-n a1 vss a_576_161# 2 11 574 161
+p c01_inv res1_inv vdd 2 13 615 95
+p a2b0_inv_0 a2b0 vdd 2 18 518 187
 n a1b0 ha11 res1_inv 2 14 598 123
-p b0 a2b0_inv_0 vdd 2 13 538 194
+n a1 vss a_576_161# 2 11 574 161
 n a0b1_inv_0 a0b1 vss 2 9 601 163
+p b0 a2b0_inv_0 vdd 2 13 538 194
 p a1 vdd a1b1_inv_0 2 13 487 194
-p a1b1 fa_11_n1 vdd 2 27 358 84
 p c03_inv_2 a_186_38# s04_inv_2 2 28 236 43
-n b1 a_616_161# a0b1_inv_0 2 11 621 161
-p a1b3 vdd c04_inv_1 2 28 32 83
+p a1b1 fa_11_n1 vdd 2 27 358 84
 n a0b3_inv_1 a_267_129# a_222_79# 2 13 272 129
+n b1 a_616_161# a0b1_inv_0 2 11 621 161
+p c22 fa_32_n1 vdd 2 27 81 -59
 n c11_inv_2 c11 vss 2 14 519 11
-p a2 vdd a2b2_inv_0 2 13 59 194
+p a1b3 vdd c04_inv_1 2 28 32 83
 p a0 vdd a0b3_inv_0 2 13 332 194
 n a2b1 s03 a_202_79# 2 13 220 129
+p c14 vdd c14_inv_3 2 14 -83 -60
+p a2 vdd a2b2_inv_0 2 13 59 194
 p a_186_38# a_166_34# vdd 2 28 186 43
 p c03 c03_inv_2 vdd 2 14 267 50
-n a0b2_inv_0 a0b2 vss 2 9 391 163
-n res0_inv res0 vss 2 9 644 163
-p a0b3_inv_1 a_222_79# a1b2_inv_1 2 28 272 83
 p c01_inv c01 vdd 2 28 560 83
+p a0b3_inv_1 a_222_79# a1b2_inv_1 2 28 272 83
+n res0_inv res0 vss 2 9 644 163
+n a0b2_inv_0 a0b2 vss 2 9 391 163
+n c21 fa_31_n3 vss 2 12 297 -20
 p c14_inv_2 c14 vdd 2 18 -140 43
 p a3b0 fa_21_n1 vdd 2 27 361 43
 n b0 a_659_161# res0_inv 2 11 664 161
-n a3b1_inv_0 a3b1 vss 2 9 132 163
-n c02_inv c02 vss 2 9 331 123
+p a_n114_n65# c14_inv_3 res6 2 28 -113 -60
+n a_106_n65# vss a_109_n15# 2 13 107 -14
 p a2b1 vdd a2b1_inv_1 2 14 232 83
-n a2b3 fa_23_n3 vss 2 12 -77 19
+p c12_inv_3 res4 a_323_n65# 2 28 333 -60
 n c04 vss c04_inv_2 2 11 -11 14
-n b1 a_147_161# a3b1_inv_0 2 11 152 161
-n b3 a_n53_125# a2b3_inv_1 2 11 -47 125
+n a3b1_inv_0 a3b1 vss 2 9 132 163
+n a2b3 fa_23_n3 vss 2 12 -77 19
+n c02_inv c02 vss 2 9 331 123
+n s14 fa_32_n3 vss 2 12 41 -18
 n a0b3 fa_12_n3 vss 2 12 176 123
-n a1b2_inv_0 a1b2 vss 2 9 278 163
+n b3 a_n53_125# a2b3_inv_1 2 11 -47 125
+n a_343_n65# a_323_n65# vss 2 13 351 -19
+p c12 c22_inv_3 fa_31_n1 2 27 288 -59
+n b1 a_147_161# a3b1_inv_0 2 11 152 161
+p a_126_n65# a_106_n65# vdd 2 28 126 -60
+n s14 s14_inv_3 vss 2 13 196 -19
 p res2_inv vdd res2 2 25 587 46
-n c01_inv c01 vss 2 14 560 129
+n a1b2_inv_0 a1b2 vss 2 9 278 163
 n s03 fa_21_n3 vss 2 12 321 17
-n b2 a_293_161# a1b2_inv_0 2 11 298 161
-n a2b0 a_369_123# c02_inv 2 12 374 123
-p a0b2_inv_1 s02 a_420_79# 2 28 430 83
+n c01_inv c01 vss 2 14 560 129
 p a_n52_34# c04_inv_2 s14 2 28 -51 43
+n a2b0 a_369_123# c02_inv 2 12 374 123
+n b2 a_293_161# a1b2_inv_0 2 11 298 161
 n a2b3 vss a2b3_inv_2 2 11 49 20
-n a3 vss a_450_161# 2 11 448 161
+p a0b2_inv_1 s02 a_420_79# 2 28 430 83
 p a2b0 vdd a2b0_inv_1 2 14 511 90
+n a3 vss a_450_161# 2 11 448 161
 p a2b3 vdd a2b3_inv_2 2 14 39 50
-p s04_inv_1 vdd s04 2 25 90 83
-n a1b1 a1b1_inv_1 vss 2 13 510 124
+n c13 vss c13_inv_3 2 11 146 -14
+p c22 vdd c22_inv_3_in 2 14 197 -53
 p c13_inv_2 c13 vdd 2 18 77 43
+p c23 a_n164_n60# res7_inv 2 27 -158 -59
+p s04_inv_1 vdd s04 2 25 90 83
 p c02 c02_inv_2 vdd 2 14 426 57
+n a1b1 a1b1_inv_1 vss 2 13 510 124
 n a2b3 a_n32_38# a3b2_inv_2 2 13 28 12
 n a3b2_inv_2 vss a_13_12# 2 13 11 12
-p a0 vdd a0b1_inv_0 2 13 611 194
+p s14 vdd a_56_n60# 2 27 54 -59
 n s02 a_532_11# c11_inv_2 2 20 537 11
-n a2b0_inv_0 a2b0 vss 2 9 518 163
-p c11_inv_2 c11 vdd 2 28 519 43
-n a_386_34# vss a_389_12# 2 13 387 12
+p a0 vdd a0b1_inv_0 2 13 611 194
 p s03_inv_2 a3b0_inv_2 a_406_38# 2 28 446 43
+n a2b0_inv_0 a2b0 vss 2 9 518 163
+n c23 a_n94_n65# a3b3_inv_3 2 13 -33 -14
+p c11_inv_2 c11 vdd 2 28 519 43
 p c03 fa_22_n1 vdd 2 27 141 43
+n a_386_34# vss a_389_12# 2 13 387 12
+p c12 c12_inv_3 vdd 2 14 363 -60
 n a3b0 vss a3b0_inv_2 2 11 487 20
+p s13 vdd a_273_n60# 2 27 271 -59
+n a3 vss a_n170_18# 2 11 -171 18
 n b0 a_533_161# a2b0_inv_0 2 11 538 161
-p a2b1 c03_inv fa_12_n1 2 27 167 84
+p c02_inv_2 s12 a_386_34# 2 28 396 43
+n c14 res7_inv fa_33_n3 2 12 -149 -20
 p a3b0 vdd a3b0_inv_2 2 14 477 50
 p a_406_38# a_386_34# vdd 2 28 406 43
-p c02_inv_2 s12 a_386_34# 2 28 396 43
-p a0 vdd res0_inv 2 13 654 194
-p a1b2 vdd a_152_84# 2 27 150 84
-p c21_inv_3 c21 vdd 2 28 462 -60
+p a2b1 c03_inv fa_12_n1 2 27 167 84
 n s12 vss a_475_n21# 2 20 473 -20
-n a3b2_inv_1 a3b2 vss 2 9 -25 125
-n a0b2 s02 a_420_79# 2 13 438 129
-p res1_inv vdd res1 2 25 628 83
+p c21_inv_3 c21 vdd 2 28 462 -60
+p a1b2 vdd a_152_84# 2 27 150 84
+p a0 vdd res0_inv 2 13 654 194
 n a3b2 vss a_n103_19# 2 12 -104 19
+n a3b2_inv_1 a3b2 vss 2 9 -25 125
+p res1_inv vdd res1 2 25 628 83
+n a0b2 s02 a_420_79# 2 13 438 129
 n a3b0 a_406_38# s03_inv_2 2 13 466 12
-n a1b2 vss a_151_123# 2 12 149 123
-n c11_inv_2 ha21 vss 2 10 577 14
 n s04 fa_22_n3 vss 2 12 101 17
+n c11_inv_2 ha21 vss 2 10 577 14
+n a1b2 vss a_151_123# 2 12 149 123
 p a3 vdd a3b1_inv_0 2 13 142 194
+n c12_inv_3 a_326_n15# res4 2 13 331 -14
 p a3 vdd a3b2_inv_1 2 13 -15 90
-p a1b3 a_62_86# s04_inv_1 2 25 67 86
-p c04 c14_inv_2 fa_23_n1 2 27 -86 43
+p c23_inv_3_in a_n94_n65# a3b3_inv_3 2 28 -43 -60
+n c22_inv_3_in a_171_n15# a_126_n65# 2 13 176 -14
 n a3b1 s13 a_166_34# 2 13 184 12
+p c04 c14_inv_2 fa_23_n1 2 27 -86 43
+p a1b3 a_62_86# s04_inv_1 2 25 67 86
+n c13 res5 a_106_n65# 2 13 124 -14
 p a1 vdd a1b2_inv_0 2 13 288 194
-p a3b1 a3b1_inv_2 vdd 2 14 206 57
 p a3b1 vdd a3b1_inv_2 2 14 196 57
-p a0b1 a_600_86# res1_inv 2 25 605 86
-n a_n32_38# a_n52_34# vss 2 13 -23 17
+p a3b1 a3b1_inv_2 vdd 2 14 206 57
 n s03_inv_2 vss a_451_12# 2 13 449 12
+n a_n32_38# a_n52_34# vss 2 13 -23 17
+p a0b1 a_600_86# res1_inv 2 25 605 86
+p c21 c21_inv_3_in vdd 2 14 424 -53
 n a3 vss a_n11_125# 2 11 -12 125
 n a_222_79# a_202_79# vss 2 13 230 124
-n c04_inv_2 a_n49_12# s14 2 13 -43 12
 p s04_inv_2 c03_inv_2 a_186_38# 2 28 226 43
-p c04_inv_1 c04 vdd 2 28 22 83
+n c04_inv_2 a_n49_12# s14 2 13 -43 12
+p c21_inv_3_in a_343_n65# s13_inv_3 2 28 393 -60
+n a_166_34# vss a_169_12# 2 13 167 12
 p c02_inv c02 vdd 2 18 331 93
 n a3b0 fa_21_n3 vss 2 12 360 19
+p c04_inv_1 c04 vdd 2 28 22 83
 n c03 vss c03_inv_2 2 11 267 20
-n a_166_34# vss a_169_12# 2 13 167 12
-p a1b0_inv_0 a1b0 vdd 2 18 561 187
+n c22 fa_32_n3 vss 2 12 80 -20
 n a_420_79# vss a_423_129# 2 13 421 129
 p a3b1_inv_2 s13 a_166_34# 2 28 176 43
-p a1b2_inv_1 a0b3_inv_1 a_222_79# 2 28 262 83
-n c14_inv_2 c14 vss 2 9 -140 22
+p a1b0_inv_0 a1b0 vdd 2 18 561 187
+p s14 s14_inv_3 vdd 2 28 186 -60
 n res3_inv vss res3 2 13 530 -13
 p c03 vdd c03_inv_2 2 14 257 50
-p a2 vdd a2b0_inv_0 2 13 528 194
+n c14_inv_2 c14 vss 2 9 -140 22
+p a1b2_inv_1 a0b3_inv_1 a_222_79# 2 28 262 83
+p a3b3 fa_33_n1 vdd 2 27 -175 -59
+p a3 vdd a3b3_inv_2 2 13 -174 51
 p b0 a1b0_inv_0 vdd 2 13 581 194
+p a2 vdd a2b0_inv_0 2 13 528 194
 n c03 a_186_38# s04_inv_2 2 13 246 12
 p c02 c12_inv_2 fa_21_n1 2 27 351 43
-p a_222_79# a_202_79# vdd 2 28 222 83
-p a0b3 vdd a0b3_inv_1 2 14 293 90
 p c21_inv_3 res3_inv vdd 2 13 517 -48
-n a2b1_inv_1 a_205_129# s03 2 13 210 129
+p a0b3 vdd a0b3_inv_1 2 14 293 90
+p a_222_79# a_202_79# vdd 2 28 222 83
+p c13 c23_inv_3 fa_32_n1 2 27 71 -59
 p a0b3 a0b3_inv_1 vdd 2 14 303 90
+n a2b1_inv_1 a_205_129# s03 2 13 210 129
+p c14 c14_inv_3 vdd 2 14 -73 -60
+n a3b3_inv_3 vss a_n49_n15# 2 13 -50 -14
 p c04 vdd c04_inv_2 2 14 -21 57
 n a0 vss a_406_161# 2 11 404 161
 p a0b2 a0b2_inv_1 vdd 2 14 460 83
-n a2 vss a_251_161# 2 11 249 161
-p a3b2_inv_1 a3b2 vdd 2 18 -25 92
+p c23_inv_3 c23 vdd 2 18 17 -50
+n c12 c22_inv_3 fa_31_n3 2 12 287 -20
 n a0b2 vss a0b2_inv_1 2 11 460 129
-p a3b2 fa_23_n1 vdd 2 27 -113 43
 p res3_inv vdd res3 2 25 530 -60
 n a3b2 a3b2_inv_2 vss 2 13 38 17
-p c04_inv_2 s14 a_n52_34# 2 28 -41 43
+n a2 vss a_251_161# 2 11 249 161
+n a3b3 vss a_n165_n21# 2 12 -166 -20
+p a3b2_inv_1 a3b2 vdd 2 18 -25 92
+p a3b2 fa_23_n1 vdd 2 27 -113 43
 n s04_inv_2 vss a_231_12# 2 13 229 12
 p s03 vdd a_336_43# 2 27 334 43
+p c14_inv_3 res6 a_n114_n65# 2 28 -103 -60
+n c21 a_343_n65# s13_inv_3 2 13 403 -14
+p c04_inv_2 s14 a_n52_34# 2 28 -41 43
+p c22_inv_3 c22 vdd 2 18 234 -50
+p a_323_n65# c12_inv_3 res4 2 28 323 -60
 p a_420_79# a0b2_inv_1 s02 2 28 420 83
-n c02_inv_2 a_389_12# s12 2 13 394 12
 n c13_inv_2 c13 vss 2 9 77 22
-n a2b1 c03_inv fa_12_n3 2 12 166 123
-p a3b2_inv_2 a2b3_inv_2 a_n32_38# 2 28 8 43
+n c02_inv_2 a_389_12# s12 2 13 394 12
 n c02 s12 a_386_34# 2 13 404 12
-n a0b1 vss a_573_123# 2 20 571 123
+p a3b2_inv_2 a2b3_inv_2 a_n32_38# 2 28 8 43
+n a2b1 c03_inv fa_12_n3 2 12 166 123
+p c21 a_273_n60# c22_inv_3 2 27 278 -59
+p c13_inv_3 res5 a_106_n65# 2 28 116 -60
 p c02 vdd c02_inv_2 2 14 416 57
+n a0b1 vss a_573_123# 2 20 571 123
 n c03 fa_22_n3 vss 2 12 140 19
+n a3b3 fa_33_n3 vss 2 12 -178 -18
 n a2b3_inv_2 a_13_12# a_n32_38# 2 13 18 12
+n a_126_n65# a_106_n65# vss 2 13 134 -19
 p a3b0_inv a3b0 vdd 2 18 435 187
 p c11 vdd a_502_n58# 2 25 500 -57
-n a1b2 fa_12_n3 vss 2 12 137 125
 n s03 s03_inv_2 vss 2 13 476 17
+n a1b2 fa_12_n3 vss 2 12 137 125
+n s14 vss a_55_n21# 2 12 53 -20
 p b0 a3b0_inv vdd 2 13 455 194
-n a2b2 a_35_123# c04_inv_1 2 20 40 123
 p a3b1 c13_inv_2 fa_22_n1 2 27 131 43
+n a2b2 a_35_123# c04_inv_1 2 20 40 123
+n c21 vss c21_inv_3_in 2 11 424 -20
+p c14 res7_inv fa_33_n1 2 27 -148 -59
 n a0 vss a_337_161# 2 11 335 161
-p a0b3 a_152_84# c03_inv 2 27 157 84
 n a_440_79# a_420_79# vss 2 13 448 124
 p a_386_34# c02_inv_2 s12 2 28 386 43
+p a3b3_inv_2 a3b3 vdd 2 18 -184 44
+n s13 vss a_272_n21# 2 12 270 -20
+p a0b3 a_152_84# c03_inv 2 27 157 84
 n a_186_38# a_166_34# vss 2 13 194 17
+n s13_inv_3 vss a_388_n15# 2 13 386 -14
 p a1b2 fa_12_n1 vdd 2 27 140 84
-n a1b0_inv_0 a1b0 vss 2 9 561 163
 n a2b0_inv_1 a_485_129# a_440_79# 2 13 490 129
 n a0b1 res1_inv ha11 2 14 608 123
-n a0b3 vss a0b3_inv_1 2 11 303 123
-p a2b0 fa_11_n1 vdd 2 27 395 84
+p s14 fa_32_n1 vdd 2 27 44 -59
+n a1b0_inv_0 a1b0 vss 2 9 561 163
 n a3b0_inv_2 a_451_12# a_406_38# 2 13 456 12
-n b0 a_576_161# a1b0_inv_0 2 11 581 161
+p a2b0 fa_11_n1 vdd 2 27 395 84
+n a0b3 vss a0b3_inv_1 2 11 303 123
 n res1_inv vss res1 2 13 628 130
 p s04 vdd a_116_43# 2 27 114 43
-n a2b3_inv_1 a2b3 vss 2 9 -67 125
-p a2b3 fa_23_n1 vdd 2 27 -76 43
+p c23 vdd c23_inv_3_in 2 14 -22 -53
+p c12 vdd c12_inv_3 2 14 353 -60
+n b0 a_576_161# a1b0_inv_0 2 11 581 161
+p s13 fa_31_n1 vdd 2 27 261 -59
 n a_n52_34# vss a_n49_12# 2 13 -50 12
+n c23 fa_33_n3 vss 2 12 -139 -20
+n c14_inv_3 a_n111_n15# res6 2 13 -105 -14
+n a2b3_inv_1 a2b3 vss 2 9 -67 125
 n a3b1_inv_2 a_169_12# s13 2 13 174 12
+p a2b3 fa_23_n1 vdd 2 27 -76 43
+p c13 c13_inv_3 vdd 2 14 146 -60
 n a0b2_inv_1 a_423_129# s02 2 13 428 129
-n a2b0 fa_11_n3 vss 2 12 394 123
 n s12 res3_inv ha_31 2 14 510 -20
+n a2b0 fa_11_n3 vss 2 12 394 123
+n s04 s04_inv_2 vss 2 13 256 17
 p a1b3_inv_0 a1b3 vdd 2 18 89 187
 n a1b3 s04_inv_1 ha12 2 14 70 123
-n s04 s04_inv_2 vss 2 13 256 17
+n s13 s13_inv_3 vss 2 13 413 -19
 R a_502_n58# 37
-C vdd GND 2.59
-R vdd 34170
 R res3 54
 R ha_31 55
 R res3_inv 281
 R a_475_n21# 27
-R c21 59
+R a_273_n60# 40
+R fa_31_n1 77
 R c21_inv_3 507
+R a_388_n15# 17
+R c21_inv_3_in 328
+R s13_inv_3 287
+R a_343_n65# 376
+R res4 38
+R a_326_n15# 17
+R a_272_n21# 16
+R a_56_n60# 40
+R fa_32_n1 77
+R c12_inv_3 335
+R a_323_n65# 287
+R fa_31_n3 46
+R c22_inv_3 205
+R c21 1153
+R a_171_n15# 17
+R c22_inv_3_in 328
+R s14_inv_3 287
+R a_126_n65# 376
+R res5 38
+R a_109_n15# 17
+R a_55_n21# 16
+R a_n164_n60# 40
+R fa_33_n1 77
+R c13_inv_3 335
+R a_106_n65# 287
+R fa_32_n3 46
+R c23_inv_3 205
+R c22 1131
+R a_n49_n15# 17
+R c23_inv_3_in 328
+R a3b3_inv_3 287
+R a_n94_n65# 376
+R res6 38
+R a_n111_n15# 17
+R a_n165_n21# 16
+R c14_inv_3 335
+R a_n114_n65# 287
+R res7 37
+R fa_33_n3 46
+R res7_inv 205
+R c23 1131
 R ha21 55
 R a_532_11# 27
 R a_451_12# 17
@@ -332,7 +474,7 @@ R a_169_12# 17
 R a_115_19# 16
 R fa_22_n3 46
 R a_13_12# 17
-R c12 37
+R c12 712
 R fa_21_n1 77
 R c12_inv_2 205
 R a3b0_inv_2 328
@@ -340,12 +482,13 @@ R s03_inv_2 287
 R a_406_38# 376
 R c02_inv_2 335
 R a_386_34# 287
-R s13 38
+R s13 702
 R a_116_43# 40
 R a_n49_12# 17
 R a_n103_19# 16
 R fa_23_n3 46
-R c13 37
+R a_n170_18# 15
+R c13 712
 R fa_22_n1 77
 R c13_inv_2 205
 R c03_inv_2 328
@@ -353,11 +496,13 @@ R s04_inv_2 287
 R a_186_38# 376
 R a3b1_inv_2 335
 R a_166_34# 287
-R s14 38
+R s14 702
 R a_n102_43# 40
-R c14 37
+R c14 712
 R fa_23_n1 77
 R c14_inv_2 205
+R a3b3 699
+R a3b3_inv_2 199
 R a2b3_inv_2 328
 R a3b2_inv_2 287
 R a_n32_38# 376
@@ -448,16 +593,16 @@ R a2b1 712
 R a2b1_inv_0 199
 R a3b1 714
 R b1 827
-R a3 618
+R a3 830
 R a3b1_inv_0 199
 R a1b3 502
-R b3 619
+R b3 832
 R a1 827
 R a1b3_inv_0 199
 R a2b2 446
 R b2 828
 R a2 830
 R a2b2_inv_0 199
-R w_440_n72# 2843
-C vss GND 2.40
-R vss 43575
+C vdd GND 2.47
+R vdd 58296
+R vss 38019
