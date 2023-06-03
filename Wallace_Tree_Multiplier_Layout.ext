@@ -1,4 +1,4 @@
-timestamp 1684940948
+timestamp 1684995969
 version 8.3
 tech scmos
 style pharosc200-55nm
@@ -484,7 +484,7 @@ equiv "b1" "b1"
 equiv "b1" "b1"
 equiv "b1" "b1"
 equiv "b1" "b1"
-node "a3" 830057 388.033 -175 34 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 404 216 886 452 3170 1278 0 0 0 0 0 0
+node "a3" 830057 387.139 -175 34 p 0 0 0 0 0 0 0 0 0 0 0 0 544 496 404 216 886 452 3170 1278 0 0 0 0 0 0
 equiv "a3" "a3"
 equiv "a3" "a3"
 equiv "a3" "a3"
@@ -541,7 +541,51 @@ equiv "a2" "a2"
 node "a2b2_inv_0" 199229 56.4951 49 159 p 67 36 104 42 0 0 0 0 0 0 0 0 124 112 0 0 0 0 0 0 0 0 0 0 0 0
 equiv "a2b2_inv_0" "a2b2_inv_0"
 equiv "a2b2_inv_0" "a2b2_inv_0"
-node "vdd" 21488376 909.774 -217 -72 nw 0 0 4571 1522 432 216 0 0 34335 1616 0 0 0 0 6056 1530 0 0 0 0 0 0 0 0 0 0
+node "vss" 38054892 3799.69 -217 -27 pw 11364 4224 0 0 0 0 1728 960 0 0 94483 3418 0 0 22693 3202 2472 1260 7879 3896 0 0 0 0 0 0
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+equiv "vss" "vss"
+node "vdd" 58333248 4586.49 -217 -72 nw 0 0 17140 5904 1728 960 0 0 125270 4842 0 0 0 0 23296 4530 2636 1358 7556 3802 0 0 0 0 0 0
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
@@ -551,28 +595,6 @@ equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
-node "vss" 17918510 1565.75 -217 -27 pw 6203 2364 0 0 0 0 900 456 0 0 50455 1768 0 0 12424 1660 0 0 0 0 0 0 0 0 0 0
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-node "vdd" 16188539 1511.57 -199 37 nw 0 0 9540 3134 828 432 0 0 61910 1846 0 0 0 0 12128 1706 0 0 0 0 0 0 0 0 0 0
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
@@ -593,30 +615,8 @@ equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
-node "vss" 17574404 1380.13 -82 117 pw 5161 1860 0 0 0 0 828 504 0 0 44028 1650 0 0 10269 1542 0 0 0 0 0 0 0 0 0 0
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-equiv "vss" "vss"
-node "vdd" 18437986 1098.75 35 180 nw 0 0 3029 1248 468 312 0 0 29025 1380 0 0 0 0 5112 1294 0 0 0 0 0 0 0 0 0 0
+equiv "vdd" "vdd"
+equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
@@ -630,1023 +630,1000 @@ equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 equiv "vdd" "vdd"
 node "ab_n212_n67#" 0 0 -212 -67 ab 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-cap "a2b1_inv_1" "a_222_79#" 91.4619
+cap "a1b0" "a_573_123#" 1.7061
+cap "s04" "c03" 292.529
+cap "a3b1" "a3b1_inv_2" 151.046
+cap "c03_inv" "fa_12_n3" 95.4651
+cap "a3b0" "a1b1" 8.636
+cap "a0" "a0b1" 6.4339
+cap "a2" "a2b3_inv_1" 158.191
+cap "b0" "a2b0_inv_0" 35.7597
+cap "vdd" "c03_inv" 13.1464
+cap "c02_inv_2" "a_406_38#" 91.4619
+cap "vss" "a3b0" 131.488
+cap "c03" "fa_22_n1" 79.4562
+cap "a2b0" "a0b2_inv_1" 22.0005
+cap "c04_inv_1" "a_35_123#" 12.486
+cap "a3" "a3b0" 9.5156
+cap "a1" "a2b0" 3.0976
+cap "b1" "b0" 408.361
+cap "a1b2_inv_0" "a0b3" 7.769
+cap "vdd" "s13_inv_3" 13.2448
+cap "s13_inv_3" "c21_inv_3_in" 330.548
+cap "vss" "fa_33_n3" 192.704
+cap "a_343_n65#" "a_388_n15#" 9.278
+cap "vdd" "c13" 40.3717
+cap "vss" "a1b3" 102.401
+cap "c01" "a_559_43#" 6.762
+cap "a3b2" "a_n102_43#" 0.6105
+cap "c04" "s14" 10.2137
+cap "a0b2_inv_1" "a_440_79#" 91.4619
+cap "a0b3" "a1b2_inv_1" 5.65194
+cap "a1b3" "a3" 11.8945
+cap "a2" "a1b2" 11.0912
+cap "a1" "a3b1" 3.0976
+cap "b3" "b1" 7.67008
+cap "b2" "a1b2_inv_0" 35.1255
+cap "vdd" "res5" 7.4224
+cap "a_323_n65#" "c12_inv_3" 336.976
+cap "c13" "a_126_n65#" 134.498
+cap "vdd" "a3b2_inv_2" 13.2448
+cap "res2_inv" "res2" 26.2853
+cap "vss" "a_202_79#" 19.855
+cap "vdd" "a2b0" 99.8985
+cap "a3b1" "fa_12_n3" 3.0384
+cap "a1b3" "a_62_86#" 6.762
+cap "vss" "c21_inv_3" 50.4671
+cap "c22" "fa_32_n1" 64.7511
+cap "vdd" "a_440_79#" 13.2448
+cap "s14" "fa_32_n3" 22.8126
+cap "vdd" "a3b1" 112.661
+cap "a3b2_inv_2" "a2b3_inv_2" 330.548
+cap "c02" "a_406_38#" 134.498
+cap "a0b3" "a3b1_inv_2" 2.4025
+cap "b0" "res0" 3.5024
+cap "a1b3" "c04_inv_1" 369.337
+cap "a0b3_inv_0" "a_337_161#" 9.278
+cap "a2b0_inv_0" "a1b0" 8.87886
+cap "vss" "c22_inv_3_in" 5.9188
+cap "c22" "a_106_n65#" 1.76934
+cap "c11_inv_2" "c21_inv_3" 1.60167
+cap "vss" "a3b3" 114.47
+cap "c23_inv_3" "fa_32_n3" 93.9306
+cap "a3b3" "a_n114_n65#" 10.8234
+cap "c14" "res7_inv" 50.4985
+cap "a_n52_34#" "a3b3_inv_3" 4.805
+cap "s13" "a_169_12#" 13.6956
+cap "vss" "a0b1_inv_0" 72.8183
+cap "c04" "a_13_12#" 2.1967
+cap "c03" "s13" 3.51716
+cap "a2b0" "a1b1_inv_1" 5.65194
+cap "b3" "c14" 25.2493
+cap "a2" "a_293_161#" 0.253
+cap "b1" "a1b0" 4.1129
+cap "a0" "b0" 128.701
+cap "a1b3_inv_0" "a_104_161#" 9.278
+cap "a0b2_inv_0" "a0b2" 165.806
+cap "vdd" "res3_inv" 5.8224
+cap "vss" "a_n94_n65#" 90.3531
+cap "vdd" "a_386_34#" 13.2448
+cap "vss" "a_485_129#" 3.5775
+cap "c14_inv_3" "res6" 98.2588
+cap "vss" "a1b2_inv_0" 72.8183
+cap "s02" "a2b0_inv_1" 0.8877
+cap "s04" "a_166_34#" 10.8234
+cap "a_440_79#" "a1b1_inv_1" 239.918
+cap "a2b3" "fa_23_n3" 5.8106
+cap "b1" "a2b1" 4.1129
+cap "b3" "a0" 126.666
+cap "a2" "b0" 128.958
+cap "a1" "a0b3" 6.88556
+cap "c12_inv_3" "a_343_n65#" 91.4619
+cap "c21" "c21_inv_3" 201.088
+cap "vss" "a_389_12#" 3.5775
+cap "vdd" "a_n102_43#" 3.5775
+cap "vss" "a1b2_inv_1" 30.2136
+cap "s14" "c13" 4.10176
+cap "a_186_38#" "c03_inv_2" 98.2588
+cap "a3b2" "c04_inv_2" 27.8275
+cap "a2b0" "c02_inv_2" 2.4025
+cap "c04" "a_n32_38#" 151.52
+cap "a3b0" "c12_inv_2" 62.5901
+cap "a1b2" "a2b1_inv_1" 4.46644
+cap "res0_inv" "a_659_161#" 9.278
+cap "a0b3" "fa_12_n3" 5.8106
+cap "b2" "a1" 128.163
+cap "a2" "b3" 136.694
+cap "a2b2_inv_0" "a1b3" 15.538
+cap "vdd" "c22" 115.223
+cap "vss" "s03_inv_2" 30.2136
+cap "vdd" "a_370_84#" 3.5775
+cap "s14" "res5" 3.3506
+cap "c13" "c23_inv_3" 52.1859
+cap "vss" "a3b2" 65.3032
+cap "vdd" "a0b3" 99.8985
+cap "a3b3_inv_2" "c14" 7.769
+cap "a_205_129#" "s03" 9.278
+cap "a3b0_inv_0" "a_450_161#" 9.278
+cap "a0" "a_616_161#" 6.955
+cap "c22" "a_126_n65#" 1.76934
+cap "vss" "a3b1_inv_2" 79.6211
+cap "c14" "res6" 8.5613
+cap "a3b3" "c23_inv_3_in" 213.095
+cap "c12_inv_2" "a_336_43#" 6.762
+cap "s03" "a_386_34#" 10.8234
+cap "vdd" "b2" 195.71
+cap "s04" "fa_22_n3" 11.3786
+cap "a0b1" "c01_inv" 365.149
+cap "a3b1" "s14" 1.922
+cap "a0" "a1b0" 9.1974
+cap "b0" "a1b1_inv_0" 6.5147
+cap "a3b0_inv_0" "a1b1" 10.3587
+cap "vss" "a_106_n65#" 19.855
+cap "res3_inv" "ha_31" 97.0409
+cap "vdd" "c12" 40.3717
+cap "a_n94_n65#" "c23_inv_3_in" 98.2588
+cap "res7_inv" "a_n164_n60#" 6.762
+cap "vss" "ha11" 83.9052
+cap "a_386_34#" "c02_inv_2" 336.976
+cap "vss" "a3b0_inv_0" 72.8183
+cap "c13_inv_2" "a_115_19#" 8.1898
+cap "c03" "c03_inv_2" 166.106
+cap "a1b1" "a0b2_inv_1" 4.46644
+cap "a0b2" "s02" 8.5646
+cap "a2b3" "c04" 227.987
+cap "a1" "a1b1" 3.0976
+cap "b1" "a0b2" 4.1129
+cap "a3" "a3b0_inv_0" 150.354
+cap "vdd" "res4" 7.4224
+cap "a_343_n65#" "s13_inv_3" 239.918
+cap "vss" "c23" 68.0808
+cap "c23" "a_n114_n65#" 1.76934
+cap "s13" "c12_inv_3" 4.46644
+cap "vdd" "c13_inv_2" 13.1464
+cap "res7_inv" "res7" 73.9668
+cap "vss" "a0b2_inv_1" 79.6211
+cap "a_166_34#" "s13" 240.47
+cap "s02" "ha21" 31.4647
+cap "vss" "a1" 6.4152
+cap "a_420_79#" "s02" 241.766
+cap "a3b2" "fa_23_n1" 21.5628
+cap "a0b3" "s03" 263.262
+cap "a1b2" "a0b3_inv_1" 222.997
+cap "a2" "a2b1" 11.0912
+cap "a1" "a3" 17.8796
+cap "b2" "a2b1_inv_0" 5.88056
 cap "c13" "a_109_n15#" 0.506
+cap "vdd" "c04_inv_2" 216.821
+cap "vss" "fa_12_n3" 192.704
+cap "vdd" "a1b1" 24.2853
+cap "a3b1" "s04" 12.7378
+cap "a2b0_inv_0" "a_533_161#" 9.278
+cap "vdd" "vss" 12480.8
+cap "vss" "c21_inv_3_in" 5.9188
+cap "a_109_n15#" "res5" 9.278
+cap "vdd" "a_n114_n65#" 13.2448
+cap "s14" "c22" 208.267
+cap "a3b3" "fa_33_n1" 21.7234
+cap "a_n32_38#" "a3b2_inv_2" 239.918
+cap "c02" "a_386_34#" 13.5257
+cap "vdd" "a3" 37.2546
+cap "c03_inv" "a_151_123#" 8.1898
+cap "a3" "a_n170_18#" 4.9299
+cap "a3b1" "fa_22_n1" 5.568
+cap "a2b0_inv_0" "a2b0" 165.611
+cap "b3" "a2b3_inv_1" 38.5155
+cap "b2" "a3b2_inv_1" 38.5155
+cap "b0" "a0b1" 54.0009
+cap "vss" "a_126_n65#" 90.3531
+cap "vdd" "c11_inv_2" 209.306
+cap "c22" "c23_inv_3" 62.5901
+cap "vss" "a2b3_inv_2" 5.9188
+cap "a3b3" "fa_33_n3" 11.3786
+cap "vss" "a1b0_inv_0" 72.8183
+cap "c01_inv" "res1" 29.5222
+cap "a2b0" "s02" 326.551
+cap "a0b2" "fa_11_n1" 5.568
+cap "a1b1" "a1b1_inv_1" 16.5761
+cap "a2" "a_147_161#" 0.1012
+cap "a0" "a0b2" 8.6447
+cap "b1" "a2b0" 44.5117
+cap "vdd" "a_273_n60#" 3.5775
+cap "vss" "a_n111_n15#" 3.5775
+cap "s13" "s13_inv_3" 16.5761
+cap "c23" "c23_inv_3_in" 166.106
+cap "vdd" "a_116_43#" 3.5775
+cap "c12" "a_323_n65#" 13.5257
+cap "vss" "a1b1_inv_1" 30.2136
+cap "vdd" "c04_inv_1" 209.306
+cap "vss" "a2b1_inv_0" 72.8183
+cap "s02" "a_440_79#" 1.254
+cap "a2b3" "c13" 68.3672
+cap "a1b2" "fa_12_n1" 21.5628
+cap "a0b3" "c02" 68.3672
+cap "a0b2" "c02_inv" 50.4985
+cap "a2" "a0b2" 11.0912
+cap "a1" "a0b3_inv_0" 5.62015
+cap "b2" "a0b2_inv_0" 35.1255
+cap "c21" "c21_inv_3_in" 166.106
+cap "a_323_n65#" "res4" 238.741
+cap "vdd" "c21" 104.822
+cap "vss" "fa_21_n3" 192.704
+cap "vdd" "fa_23_n1" 204.387
+cap "vss" "s03" 111.19
+cap "vdd" "res0_inv" 99.5424
+cap "c14_inv_2" "fa_23_n3" 95.4651
+cap "c04" "a_n52_34#" 13.5257
+cap "a2b3" "a3b2_inv_2" 5.65194
+cap "a3b0" "s03_inv_2" 5.65194
+cap "a2b1" "a2b1_inv_1" 160.418
+cap "a1b2" "c03" 2.4025
+cap "a2" "a1b3_inv_0" 5.11224
+cap "b2" "a2b2" 3.2494
+cap "vss" "ha_31" 83.9052
+cap "vdd" "c23_inv_3_in" 153.696
+cap "vss" "c02_inv_2" 79.6211
+cap "vdd" "c01" 94.4254
+cap "vss" "a3b2_inv_1" 72.8183
+cap "vdd" "a0b3_inv_0" 99.5424
+cap "c04_inv_2" "s14" 99.988
+cap "a3b1" "s13" 10.2137
+cap "a2b1_inv_1" "a_222_79#" 91.4619
 cap "a0" "a_533_161#" 0.649
 cap "a3" "a3b2_inv_1" 158.191
 cap "a1b0" "a0b1" 309.804
-cap "c22" "a3b1" 52.855
 cap "a2b2" "ha12" 31.4647
-cap "vdd" "a2b1_inv_1" 216.821
-cap "fa_22_n1" "s04" 21.7234
-cap "s04_inv_2" "c03" 5.65194
-cap "a_171_n15#" "vss" 3.5775
-cap "c22_inv_3_in" "vdd" 153.696
-cap "fa_23_n1" "vdd" 204.387
-cap "c14_inv_2" "vss" 47.3442
-cap "a3b3" "vdd" 25.7329
-cap "a_109_n15#" "res5" 9.278
+cap "vss" "a_323_n65#" 19.855
+cap "c23_inv_3" "a_55_n21#" 8.1898
+cap "vss" "s14" 238.544
+cap "a3b3" "a_n94_n65#" 5.07856
+cap "vdd" "a2b2_inv_0" 99.5424
+cap "a2b0" "fa_11_n1" 64.7511
+cap "a1b0" "c01_inv" 90.9759
 cap "a0" "a2b0" 8.4994
-cap "s14" "a2b3" 3.51716
-cap "s14" "c22" 208.267
 cap "a3b1_inv_0" "a_147_161#" 9.278
 cap "a3b0_inv_0" "a3b0" 166.01
 cap "a2" "a_533_161#" 7.7195
-cap "vdd" "a2b3_inv_1" 99.5424
-cap "fa_23_n1" "c04" 5.568
-cap "c14_inv_2" "a3b2" 94.0828
-cap "a3b3_inv_3" "vss" 30.2136
-cap "a3b3" "fa_33_n1" 21.7234
-cap "a_n94_n65#" "vdd" 13.2448
-cap "a_n32_38#" "a3b2_inv_2" 239.918
-cap "c01" "vdd" 94.4254
-cap "vss" "b0" 6.4152
+cap "c21_inv_3" "a_502_n58#" 12.14
+cap "vss" "c23_inv_3" 46.5225
+cap "c12" "a_343_n65#" 134.498
+cap "vdd" "c12_inv_2" 13.1464
+cap "c23" "fa_33_n1" 64.7511
+cap "vss" "a_573_123#" 4.639
+cap "vss" "a0b2_inv_0" 72.8183
+cap "c04" "a_n49_12#" 0.506
+cap "c03" "a_186_38#" 1.76934
+cap "s04" "c13_inv_2" 94.0828
 cap "a3b0" "a0b2_inv_1" 17.8748
 cap "a2b0" "c02_inv" 62.5901
-cap "c22" "c23_inv_3" 62.5901
 cap "a2b1" "a1b2" 4.10176
 cap "a2" "a2b0" 12.9433
 cap "a1" "a3b0" 3.0976
 cap "b1" "a0b3" 4.1129
-cap "vdd" "a0b1" 36.8206
-cap "res2_inv" "vss" 13.5914
-cap "a3b3" "fa_33_n3" 11.3786
-cap "c01_inv" "res1" 29.5222
-cap "vss" "b3" 22.0834
+cap "vss" "a_532_11#" 4.639
+cap "vdd" "s04_inv_2" 13.2448
+cap "c23" "fa_33_n3" 5.8106
+cap "s13" "fa_31_n3" 22.8126
+cap "vss" "c02" 86.5318
+cap "c13_inv_2" "fa_22_n1" 88.6503
+cap "vss" "a2b2" 85.8662
+cap "c04" "c14_inv_2" 50.4985
 cap "a1b2" "a_222_79#" 16.546
-cap "s13" "s13_inv_3" 16.5761
-cap "s13" "c02" 1.922
-cap "c23" "c23_inv_3_in" 166.106
-cap "fa_21_n1" "s03" 43.6741
-cap "c12" "a_323_n65#" 13.5257
 cap "a2b2" "a3" 9.5156
 cap "a2" "a3b1" 11.0912
 cap "b2" "b1" 611.775
-cap "c13_inv_2" "a3b1" 50.4985
-cap "ha11" "a0b1" 15.0836
-cap "vdd" "a1b2" 24.2853
-cap "c12_inv_2" "vdd" 13.1464
-cap "a3b0_inv_2" "vss" 5.9188
-cap "vss" "c03" 17.0918
-cap "c21" "c21_inv_3_in" 166.106
+cap "c21" "a_323_n65#" 1.76934
+cap "vdd" "fa_33_n1" 204.387
+cap "c22_inv_3" "fa_31_n3" 93.9306
+cap "vss" "a_13_12#" 3.5775
+cap "c11_inv_2" "a_532_11#" 12.486
+cap "vss" "s04" 45.3641
+cap "vdd" "a3b0" 134.443
 cap "a_222_79#" "a0b3_inv_1" 98.2588
-cap "a_323_n65#" "res4" 238.741
-cap "s13" "s04" 3.3506
-cap "vdd" "a0b3_inv_1" 153.696
-cap "fa_32_n1" "vdd" 204.387
-cap "s04_inv_2" "vdd" 13.2448
-cap "c14_inv_2" "fa_23_n3" 95.4651
-cap "a_186_38#" "vss" 90.3531
-cap "a_485_129#" "vss" 3.5775
+cap "vss" "a_343_n65#" 90.3531
+cap "c22" "c22_inv_3" 73.9668
+cap "vdd" "a_152_84#" 3.5775
+cap "c12_inv_2" "fa_21_n3" 95.4651
+cap "c04_inv_2" "a_n32_38#" 91.4619
+cap "vdd" "a1b3" 36.8206
+cap "s03" "c12_inv_2" 91.8916
+cap "a0b1" "res1_inv" 109.524
 cap "a2b2" "c04_inv_1" 84.5401
 cap "a2" "a_n53_125#" 4.9299
-cap "vss" "a3b2" 20.0078
-cap "c13_inv_3" "vss" 79.6211
-cap "a_106_n65#" "vdd" 13.2448
 cap "b0" "a1b0" 32.3587
 cap "a1b1_inv_0" "a2b0" 12.4304
-cap "c04_inv_2" "s14" 99.988
-cap "vdd" "a0b1_inv_0" 99.5424
-cap "vss" "a1b0" 101.084
+cap "vss" "a_109_n15#" 3.5775
+cap "vdd" "a_336_43#" 3.5775
+cap "vss" "a_n32_38#" 90.3531
+cap "s13" "c12" 4.10176
+cap "c02" "c21" 52.855
+cap "a3b3" "c23" 208.267
+cap "vdd" "a_202_79#" 13.2448
+cap "a_406_38#" "a3b0_inv_2" 98.2588
+cap "vss" "a2b0_inv_0" 72.8183
+cap "s04" "a_116_43#" 0.6105
+cap "c01_inv" "res1_inv" 185.886
+cap "fa_11_n1" "a_370_84#" 21.4496
+cap "c01" "a_573_123#" 3.8684
 cap "a1b1" "s02" 3.6278
+cap "b3" "a3b3_inv_2" 29.245
 cap "c04_inv_1" "s04" 29.5222
-cap "c23_inv_3" "a_55_n21#" 8.1898
-cap "a3b3" "a_n94_n65#" 5.07856
-cap "a_406_38#" "a3b0" 1.76934
-cap "a_n32_38#" "a2b3" 0.6908
 cap "b1" "a1b1" 4.1129
 cap "a2" "a_64_161#" 7.7195
-cap "res7_inv" "vss" 46.2959
-cap "c23" "vdd" 115.223
-cap "vdd" "a1b2_inv_0" 99.5424
-cap "vss" "a2b1" 156.142
+cap "vdd" "c21_inv_3" 209.306
+cap "vss" "c14_inv_3" 79.6211
+cap "c23" "a_n94_n65#" 1.76934
+cap "s13" "res4" 3.3506
+cap "c12" "c22_inv_3" 50.4985
+cap "a_n114_n65#" "c14_inv_3" 336.976
+cap "vss" "s02" 99.3676
+cap "fa_22_n1" "a_116_43#" 21.4496
+cap "vss" "b1" 6.4152
 cap "a_423_129#" "s02" 9.278
-cap "c21_inv_3" "a_502_n58#" 12.14
-cap "s12" "s03" 3.3506
+cap "c02_inv" "a_370_84#" 6.762
+cap "a3b0" "fa_21_n3" 5.8106
 cap "a3b0" "s03" 208.267
-cap "c12" "a_343_n65#" 134.498
 cap "a2b1" "fa_12_n1" 5.568
-cap "fa_21_n1" "c02" 22.6762
-cap "c23" "fa_33_n1" 64.7511
 cap "a2" "a0b3" 11.0912
 cap "a3" "b1" 128.392
 cap "a1" "a1b2_inv_0" 144.78
 cap "b2" "a0" 128.149
 cap "a3b1_inv_0" "a3b1" 165.203
-cap "a_336_43#" "vdd" 3.5775
-cap "a_169_12#" "vss" 3.5775
-cap "vss" "a_222_79#" 90.3531
+cap "c21" "a_343_n65#" 1.76934
+cap "vdd" "c22_inv_3_in" 153.696
+cap "vss" "c11" 169.447
+cap "res2_inv" "ha21" 97.0409
+cap "vdd" "a3b3" 25.7329
+cap "vdd" "a0b1_inv_0" 99.5424
+cap "s02" "c11_inv_2" 100.911
+cap "a3b0" "c02_inv_2" 25.7405
+cap "a2b3" "c04_inv_2" 23.0961
 cap "c02_inv" "fa_11_n3" 95.4651
 cap "a1b2" "c03_inv" 94.0828
-cap "vdd" "fa_12_n1" 204.387
-cap "a_388_n15#" "vss" 3.5775
-cap "c23" "fa_33_n3" 5.8106
-cap "s13" "fa_31_n3" 22.8126
-cap "c21_inv_3_in" "vdd" 153.696
-cap "a_370_84#" "a1b1" 0.6105
 cap "a2" "b2" 140.551
 cap "a2b2_inv_0" "a2b2" 166.187
-cap "vdd" "b3" 97.3453
-cap "fa_23_n3" "vss" 192.704
-cap "c13_inv_2" "fa_22_n1" 88.6503
-cap "vss" "c04" 93.8501
-cap "ha11" "vss" 83.9052
-cap "c21" "a_323_n65#" 1.76934
+cap "vss" "a_475_n21#" 4.639
+cap "a_126_n65#" "c22_inv_3_in" 98.2588
+cap "vdd" "a_n94_n65#" 13.2448
+cap "vss" "s13" 238.544
+cap "c11_inv_2" "c11" 201.088
+cap "vss" "a2b3" 96.2844
+cap "s03" "a_336_43#" 0.6105
+cap "vdd" "a1b2_inv_0" 99.5424
+cap "c02" "c12_inv_2" 78.922
 cap "a_202_79#" "s03" 242.891
-cap "c22_inv_3" "fa_31_n3" 93.9306
-cap "a3b1_inv_2" "c03" 25.7405
 cap "a0" "a_450_161#" 0.649
-cap "c03_inv_2" "s04" 213.095
-cap "vdd" "c03" 162.733
-cap "fa_23_n3" "a3b2" 11.3786
-cap "c11_inv_2" "a_532_11#" 12.486
-cap "s14_inv_3" "vss" 30.2136
-cap "a_126_n65#" "vdd" 13.2448
-cap "a3b3_inv_2" "vss" 72.8183
+cap "vss" "c22_inv_3" 46.5225
+cap "s12" "res3_inv" 96.2063
+cap "vss" "c14" 120.912
+cap "vdd" "a1b2_inv_1" 13.2448
+cap "a_386_34#" "s12" 238.741
+cap "c14" "a_n114_n65#" 13.5257
+cap "vss" "res0" 45.2954
+cap "res1_inv" "res1" 26.2853
 cap "s04_inv_1" "ha12" 97.0409
-cap "c22" "c22_inv_3" 73.9668
+cap "a1b1" "fa_11_n1" 21.5628
 cap "a2" "a_450_161#" 0.1012
 cap "a0" "a1b1" 6.4339
 cap "a0b2" "b0" 2.13556
-cap "c14" "a2b3" 38.44
-cap "a3b3" "c04" 1.922
-cap "c12_inv_2" "fa_21_n3" 95.4651
-cap "res6" "vss" 91.1818
 cap "a0b2_inv_0" "a3b0" 7.769
-cap "c04_inv_2" "a_n32_38#" 91.4619
-cap "vdd" "a3b0_inv_0" 99.5424
-cap "vss" "a0b2" 147.12
-cap "s12" "c02" 10.2137
+cap "c21_inv_3" "ha_31" 12.4304
+cap "vss" "a_n49_n15#" 3.5775
+cap "vdd" "s03_inv_2" 13.2448
+cap "s13" "a_273_n60#" 0.6105
+cap "c12" "a_326_n15#" 0.506
+cap "vdd" "a3b2" 67.4252
+cap "vss" "a0" 18.689
+cap "c03" "a_166_34#" 1.76934
+cap "s02" "c01" 323.612
+cap "c04" "fa_23_n3" 48.3662
+cap "s04" "s04_inv_2" 16.5761
 cap "a3b0" "c02" 273.654
 cap "a2b3_inv_1" "a_n53_125#" 9.278
 cap "a1b1" "c02_inv" 94.0828
-cap "s13" "c12" 4.10176
 cap "a2" "a1b1" 11.0912
 cap "a3" "a0" 11.5144
 cap "a1" "a3b0_inv_0" 5.62015
 cap "b1" "a0b3_inv_0" 3.60092
 cap "a3b1" "a1b2" 46.0824
-cap "a3b3" "c23" 208.267
-cap "vdd" "a1b0" 10.4646
-cap "a_406_38#" "a3b0_inv_2" 98.2588
-cap "c01_inv" "res1_inv" 185.886
-cap "fa_11_n1" "a_370_84#" 21.4496
-cap "c01" "a_573_123#" 3.8684
-cap "vss" "a_420_79#" 19.855
-cap "vss" "a1b3_inv_0" 72.8183
-cap "vdd" "a1" 6.4152
+cap "vdd" "fa_32_n1" 204.387
+cap "a_326_n15#" "res4" 9.278
+cap "c22_inv_3" "a_273_n60#" 6.762
+cap "c21" "a_475_n21#" 3.8684
+cap "vss" "res2" 25.3563
+cap "vdd" "a3b1_inv_2" 216.821
+cap "s13" "c21" 208.267
+cap "vss" "c02_inv" 47.3442
+cap "c01" "c11" 11.7832
+cap "vss" "a2" 57.1134
+cap "a3b2" "a2b3_inv_2" 212.814
 cap "fa_11_n3" "a_369_123#" 5.7005
-cap "c23" "a_n94_n65#" 1.76934
-cap "s13" "res4" 3.3506
+cap "a2b3" "fa_23_n1" 64.7511
 cap "a0b3" "a2b1_inv_1" 23.3524
-cap "c12" "c22_inv_3" 50.4985
 cap "a2b1" "a_222_79#" 134.498
-cap "a3b0_inv_2" "s03" 213.095
-cap "a_n114_n65#" "c14_inv_3" 336.976
-cap "res3" "vss" 25.3563
 cap "a2" "a3" 1786.07
 cap "b2" "a3b1_inv_0" 5.88056
 cap "a2b2" "a1b3" 309.25
 cap "a1b3_inv_0" "b3" 29.245
-cap "ha11" "a1b0" 31.4647
-cap "vdd" "a2b1" 25.3326
-cap "s03_inv_2" "vdd" 13.2448
-cap "fa_22_n1" "a_116_43#" 21.4496
-cap "a_406_38#" "vss" 90.3531
-cap "vss" "c03_inv" 47.3442
-cap "c21" "a_343_n65#" 1.76934
+cap "c21" "c22_inv_3" 62.5901
+cap "vdd" "a_106_n65#" 13.2448
+cap "c11_inv_2" "res2" 29.5222
+cap "c13" "c13_inv_3" 151.046
+cap "s14" "c22_inv_3_in" 213.095
+cap "vss" "s04_inv_1" 13.5914
+cap "c02" "a_336_43#" 1.4223
+cap "vdd" "a3b0_inv_0" 99.5424
+cap "c14_inv_2" "a_n102_43#" 6.762
 cap "c03_inv" "fa_12_n1" 88.6503
 cap "res0_inv" "res0" 165.203
-cap "vdd" "a_222_79#" 13.2448
-cap "vss" "s03" 20.0078
-cap "res2_inv" "ha21" 97.0409
-cap "c12_inv_3" "vss" 79.6211
-cap "a_323_n65#" "vdd" 13.2448
-cap "a3b1_inv_2" "vdd" 216.821
-cap "a_166_34#" "vss" 19.855
-cap "s14" "vdd" 24.2853
-cap "a1b1_inv_1" "vss" 30.2136
+cap "vss" "a_326_n15#" 3.5775
+cap "vdd" "c23" 115.223
+cap "c13_inv_3" "res5" 98.2588
+cap "vss" "c03_inv_2" 5.9188
+cap "vdd" "a0b2_inv_1" 216.821
+cap "a_n52_34#" "c04_inv_2" 336.976
+cap "c03" "fa_22_n3" 5.8106
+cap "vdd" "a1" 6.4152
+cap "s03" "s03_inv_2" 16.5761
+cap "a2b1" "a_166_34#" 2.4025
+cap "a3b1" "a_186_38#" 134.498
 cap "c03_inv" "c03" 78.2027
-cap "a_126_n65#" "c22_inv_3_in" 98.2588
 cap "b0" "a2b0" 3.5024
 cap "a0" "res0_inv" 151.066
 cap "a2b1_inv_0" "a_251_161#" 9.278
 cap "a1b1_inv_0" "a1b1" 165.203
 cap "a1" "a_576_161#" 4.9299
-cap "fa_11_n1" "c02_inv" 88.6503
-cap "vdd" "c04" 68.034
-cap "c11_inv_2" "c11" 201.088
-cap "fa_32_n3" "vss" 192.704
-cap "c23_inv_3" "vdd" 13.1464
-cap "a2b0_inv_1" "a1" 2.13556
-cap "vdd" "a1b0_inv_0" 99.5424
-cap "vss" "a2b0" 144.186
+cap "c12" "fa_31_n1" 5.568
+cap "vss" "a_n52_34#" 19.855
+cap "vss" "a1b1_inv_0" 72.8183
+cap "a_186_38#" "a_231_12#" 9.278
+cap "c03" "c13" 34.596
 cap "a3b0" "s02" 15.6758
 cap "c04_inv_1" "s04_inv_1" 185.886
 cap "a3b2_inv_1" "a3b2" 165.203
-cap "s12" "res3_inv" 96.2063
-cap "a_386_34#" "a3b0" 1.76934
-cap "a_n52_34#" "a2b3" 1.59664
 cap "b1" "a3b0" 4.1129
-cap "ha21" "vss" 83.9052
 cap "a0b3_inv_0" "a0" 148.24
 cap "a1" "a1b0_inv_0" 144.78
 cap "a1b2" "a0b3" 208.267
-cap "a_386_34#" "s12" 238.741
-cap "c14" "a_n114_n65#" 13.5257
-cap "res1_inv" "res1" 26.2853
-cap "vss" "a_440_79#" 90.3531
-cap "vdd" "a2b1_inv_0" 99.5424
-cap "vss" "a3b1" 79.8386
-cap "c21_inv_3" "ha_31" 12.4304
-cap "s13" "a_273_n60#" 0.6105
+cap "vdd" "c21_inv_3_in" 153.696
+cap "vss" "res7" 41.4004
+cap "res7_inv" "a_n165_n21#" 8.1898
+cap "vss" "a3b1_inv_0" 72.8183
+cap "a3b2" "s14" 3.3506
+cap "a3b0" "c11" 47.5345
 cap "a3b1" "fa_12_n1" 0.6105
-cap "c12" "a_326_n15#" 0.506
 cap "a0b3" "a0b3_inv_1" 166.106
-cap "c23" "c04" 55.2575
 cap "a2" "a0b3_inv_0" 5.11224
 cap "a1" "a2b1_inv_0" 5.62015
 cap "b2" "a1b2" 3.2494
 cap "a3b1_inv_0" "a3" 150.354
-cap "vdd" "a0b2" 25.3326
-cap "fa_22_n3" "vss" 192.704
 cap "b3" "a3b1" 28.8563
-cap "vss" "a_205_129#" 3.5775
-cap "a_326_n15#" "res4" 9.278
-cap "c22_inv_3" "a_273_n60#" 6.762
-cap "c21" "a_475_n21#" 3.8684
-cap "a2b1" "c03_inv" 50.4985
+cap "vdd" "a_126_n65#" 13.2448
+cap "vss" "s12" 220.807
+cap "c22_inv_3" "a_272_n21#" 8.1898
+cap "vdd" "a2b3_inv_2" 153.696
+cap "s14" "fa_32_n1" 21.5628
+cap "vss" "a2b1_inv_1" 79.6211
+cap "vdd" "a1b0_inv_0" 99.5424
+cap "c02" "a_389_12#" 0.506
+cap "a3b1" "a_169_12#" 0.506
 cap "a3b1" "c03" 349.568
-cap "s13" "c21" 208.267
 cap "a1b0_inv_0" "a_576_161#" 9.278
-cap "vdd" "a_420_79#" 13.2448
-cap "vss" "c02" 69.44
-cap "s13_inv_3" "vss" 30.2136
-cap "a_343_n65#" "vdd" 13.2448
+cap "a2b1" "c03_inv" 50.4985
 cap "a2b2_inv_0" "a2" 154.107
-cap "c01" "c11" 11.7832
-cap "c13" "vss" 120.912
-cap "a_573_123#" "vss" 4.639
-cap "c21" "c22_inv_3" 62.5901
-cap "a_186_38#" "s04" 5.07856
-cap "c11_inv_2" "res2" 29.5222
-cap "c13" "c13_inv_3" 151.046
-cap "s14" "c22_inv_3_in" 213.095
+cap "vss" "a_n49_12#" 3.5775
+cap "c23_inv_3" "fa_32_n1" 88.6503
+cap "s14" "a_106_n65#" 10.8234
+cap "a_186_38#" "c22" 1.922
+cap "vdd" "a1b1_inv_1" 13.2448
+cap "c14" "fa_33_n1" 5.568
+cap "vss" "a2b3_inv_1" 72.8183
+cap "vdd" "a2b1_inv_0" 99.5424
 cap "a0" "a_337_161#" 7.61445
-cap "vdd" "c03_inv" 13.1464
-cap "a_485_129#" "a_440_79#" 9.278
-cap "vss" "s04" 20.0078
-cap "res5" "vss" 91.1818
-cap "a2b3_inv_2" "vdd" 153.696
-cap "c14_inv_2" "a_n102_43#" 6.762
-cap "a3b2_inv_2" "vss" 30.2136
-cap "c13_inv_3" "res5" 98.2588
+cap "vss" "a_171_n15#" 3.5775
+cap "c22" "c13_inv_3" 25.7405
+cap "vss" "c14_inv_2" 47.3442
+cap "c11" "c21_inv_3" 84.3003
+cap "a3b3" "c14_inv_3" 4.46644
+cap "vdd" "s03" 183.271
+cap "c12_inv_2" "fa_21_n1" 88.6503
+cap "c14" "fa_33_n3" 63.561
+cap "vss" "a0b1" 91.7437
+cap "a2b0" "a2b0_inv_1" 168.195
 cap "a2" "a_337_161#" 0.253
 cap "a0" "a3b0" 8.0863
-cap "a2b3_inv_2" "c04" 25.1758
-cap "a3b2_inv_2" "a3b2" 14.9701
-cap "c12" "a3b0" 40.362
 cap "a1" "a_104_161#" 4.9299
 cap "b1" "a0b1_inv_0" 32.8459
-cap "c14_inv_2" "a2b3" 62.5901
-cap "c14_inv_3" "vdd" 216.821
-cap "a_n52_34#" "c04_inv_2" 336.976
-cap "a1b1_inv_1" "vdd" 13.2448
-cap "vdd" "a0b2_inv_0" 99.5424
-cap "vss" "a0b3" 128.669
+cap "fa_31_n1" "a_273_n60#" 21.4496
+cap "c21_inv_3" "a_475_n21#" 12.486
+cap "vss" "a3b3_inv_3" 30.2136
+cap "vdd" "c02_inv_2" 216.821
+cap "c02_inv_2" "c21_inv_3_in" 2.4025
+cap "c14_inv_3" "a_n94_n65#" 91.4619
+cap "vss" "c01_inv" 50.4671
+cap "c23" "c23_inv_3" 73.9668
+cap "s12" "c21" 21.2988
+cap "vdd" "a3b2_inv_1" 99.5424
+cap "vss" "a1b2" 97.6882
+cap "s04" "a3b1_inv_2" 4.46644
+cap "a_440_79#" "a2b0_inv_1" 98.2588
 cap "a0b3" "fa_12_n1" 64.7511
 cap "a0b2" "a_420_79#" 12.6193
-cap "c12" "fa_31_n1" 5.568
 cap "a3" "a1b2" 9.5156
 cap "a2" "a3b0" 11.0912
 cap "a1" "a0b2_inv_0" 5.62015
 cap "b1" "a1b2_inv_0" 3.60092
-cap "vdd" "a2b0" 99.8985
-cap "a_186_38#" "a_231_12#" 9.278
-cap "a_231_12#" "vss" 3.5775
-cap "c11" "vdd" 10.4646
-cap "vss" "fa_11_n3" 192.704
-cap "vss" "b2" 23.6872
-cap "res7_inv" "a_n165_n21#" 8.1898
-cap "a_406_38#" "s03" 5.07856
+cap "c21" "fa_31_n1" 64.7511
+cap "vdd" "a_323_n65#" 13.2448
+cap "vss" "res2_inv" 13.5914
+cap "vdd" "s14" 31.7077
+cap "vss" "a0b3_inv_1" 5.9188
+cap "s04_inv_2" "c03_inv_2" 330.548
+cap "c04" "a3b2_inv_2" 23.8426
+cap "a3b2" "a_n32_38#" 8.78736
+cap "a3b0" "fa_21_n1" 64.7511
 cap "a2b1" "a_205_129#" 0.506
-cap "vdd" "a_440_79#" 13.2448
-cap "vss" "s02" 8.1858
-cap "res3_inv" "vss" 13.5914
-cap "a_573_123#" "a1b0" 1.7061
 cap "a2" "a1b3" 12.9433
 cap "b2" "b3" 1043.6
-cap "a3b1_inv_2" "a3b1" 151.046
-cap "vdd" "a3b1" 112.661
-cap "c02_inv_2" "vdd" 216.821
-cap "a_386_34#" "vss" 19.855
-cap "s13" "vdd" 24.2853
-cap "vss" "ha12" 83.9052
-cap "c22_inv_3" "a_272_n21#" 8.1898
-cap "s14" "fa_32_n1" 21.5628
+cap "vdd" "c23_inv_3" 13.1464
+cap "vss" "a3b0_inv_2" 5.9188
+cap "s14" "a_126_n65#" 5.07856
+cap "c11_inv_2" "res2_inv" 185.886
+cap "c13" "fa_32_n3" 63.0939
+cap "a3b3" "c14" 4.10176
+cap "vdd" "a0b2_inv_0" 99.5424
+cap "c14_inv_2" "fa_23_n1" 88.6503
+cap "s03" "fa_21_n3" 11.3786
 cap "a0" "a_659_161#" 6.955
 cap "a3" "a_n11_125#" 4.9299
 cap "a1b3" "s04_inv_1" 109.315
-cap "fa_22_n1" "c03" 79.4562
-cap "fa_31_n3" "vss" 192.704
-cap "c22_inv_3" "vdd" 13.1464
 cap "a0b1_inv_0" "res0" 8.87886
-cap "s14" "vdd" 7.4224
-cap "c14" "vdd" 25.3326
-cap "c23_inv_3" "fa_32_n1" 88.6503
-cap "s14" "a_106_n65#" 10.8234
-cap "a_186_38#" "c22" 1.922
-cap "c14" "fa_33_n1" 5.568
-cap "a_n102_43#" "a3b2" 0.6105
-cap "s14" "c04" 10.2137
+cap "fa_33_n1" "a_n164_n60#" 21.4496
+cap "c22" "s14_inv_3" 5.65194
+cap "vss" "a_186_38#" 90.3531
+cap "vdd" "c02" 99.4947
+cap "c14" "a_n94_n65#" 134.498
+cap "fa_21_n1" "a_336_43#" 21.4496
+cap "s03" "c02_inv_2" 4.46644
+cap "vdd" "a2b2" 10.4646
+cap "c03" "c12" 48.8337
+cap "a0b1" "c01" 11.7832
+cap "a3b1" "a_166_34#" 13.5257
 cap "a0" "a0b1_inv_0" 153.888
 cap "a0b2" "a2b0" 217.192
 cap "a1" "a_492_161#" 4.9299
-cap "vss" "a2b3" 50.989
-cap "c22" "vss" 68.0808
 cap "b0" "a1b1" 37.1681
-cap "vdd" "a2b0_inv_0" 99.5424
-cap "vss" "a1b1" 97.6882
-cap "c22" "c13_inv_3" 25.7405
+cap "vss" "c13_inv_3" 79.6211
+cap "res3_inv" "res3" 26.2853
+cap "a3b3_inv_3" "c23_inv_3_in" 330.548
+cap "a_n94_n65#" "a_n49_n15#" 9.278
+cap "vss" "res1" 25.3563
+cap "vdd" "s04" 135.174
+cap "a_n32_38#" "c23" 1.922
+cap "vss" "b0" 31.9263
+cap "c01_inv" "c01" 201.088
+cap "c03" "c13_inv_2" 64.3765
 cap "a2b0" "a_420_79#" 0.6908
 cap "a0b2" "a_440_79#" 134.498
 cap "a2b3" "a3b2" 219.062
-cap "c11" "c21_inv_3" 84.3003
-cap "a3b3" "c14_inv_3" 4.46644
-cap "c12_inv_2" "fa_21_n1" 88.6503
-cap "c14" "fa_33_n3" 63.561
 cap "a1" "a2b0_inv_0" 5.62015
 cap "b1" "a3b0_inv_0" 3.60092
 cap "a3" "b0" 127.371
 cap "a2b1" "a0b3" 217.192
-cap "a_451_12#" "vss" 3.5775
-cap "vss" "a_423_129#" 3.5775
-cap "vdd" "b1" 131.779
-cap "vss" "a3" 441.043
-cap "fa_31_n1" "a_273_n60#" 21.4496
-cap "c21_inv_3" "a_475_n21#" 12.486
+cap "vdd" "a_343_n65#" 13.2448
+cap "vss" "res7_inv" 68.6182
+cap "a_343_n65#" "c21_inv_3_in" 98.2588
+cap "c23" "c14_inv_3" 25.7405
+cap "vdd" "fa_22_n1" 204.387
+cap "a3b1_inv_2" "s13" 98.2588
+cap "c01" "res2_inv" 96.2063
+cap "vss" "b3" 1518.75
+cap "a3b0" "s12" 6.1866
 cap "a0b2_inv_1" "s02" 110.547
 cap "a0b3" "a_222_79#" 1.76934
 cap "a1b2" "a_267_129#" 2.5916
-cap "a_406_38#" "c02" 134.498
-cap "c02_inv_2" "c21_inv_3_in" 2.4025
-cap "c14_inv_3" "a_n94_n65#" 91.4619
-cap "c23" "c23_inv_3" 73.9668
-cap "s12" "c21" 21.2988
 cap "a2" "a1b2_inv_0" 5.11224
 cap "b2" "a2b1" 3.2494
 cap "a1" "b1" 1212.87
-cap "a3b1_inv_2" "a0b3" 2.4025
 cap "b3" "a3" 145.109
-cap "vdd" "a0b3" 99.8985
-cap "c12" "vss" 121.076
 cap "a1b3_inv_0" "a3b1" 8.87886
-cap "c21" "fa_31_n1" 64.7511
+cap "vss" "a_169_12#" 3.5775
+cap "c13" "res5" 8.5613
+cap "vdd" "a_n32_38#" 13.2448
+cap "vss" "c03" 68.0808
+cap "vdd" "a2b0_inv_0" 99.5424
+cap "c02" "fa_21_n3" 48.3662
 cap "s03" "c02" 98.4232
+cap "a0b2" "a_386_34#" 2.4025
+cap "a3b1" "fa_22_n3" 48.3662
 cap "a3b1" "c03_inv" 34.7964
-cap "a_13_12#" "c04" 2.1967
-cap "s13" "c03" 3.51716
-cap "res4" "vss" 91.1818
-cap "s04_inv_2" "c03_inv_2" 330.548
-cap "c14" "b3" 25.2493
-cap "vdd" "b2" 31.0959
-cap "a1b1_inv_1" "a2b0" 5.65194
-cap "fa_22_n1" "vdd" 204.387
-cap "c13_inv_2" "vss" 47.3442
-cap "vss" "c04_inv_1" 50.4671
+cap "vss" "a_388_n15#" 3.5775
+cap "vdd" "c14_inv_3" 216.821
+cap "vss" "fa_23_n3" 192.704
+cap "a3b3" "a_n164_n60#" 0.6105
+cap "vdd" "s02" 130.886
+cap "a_406_38#" "a_451_12#" 9.278
+cap "s14" "c23_inv_3" 153.874
+cap "vdd" "b1" 131.779
+cap "c02" "c02_inv_2" 151.046
+cap "a_n32_38#" "a2b3_inv_2" 98.2588
 cap "a_202_79#" "a2b1_inv_1" 336.976
 cap "fa_12_n3" "a_151_123#" 5.7005
-cap "a2b0_inv_1" "s02" 0.8877
-cap "s14" "a_126_n65#" 5.07856
-cap "a_166_34#" "s04" 10.8234
-cap "a1b1_inv_1" "a_440_79#" 239.918
-cap "c11_inv_2" "res2_inv" 185.886
+cap "a0b1" "a_600_86#" 6.762
 cap "b0" "res0_inv" 35.7597
-cap "fa_23_n3" "a2b3" 5.8106
-cap "c13" "fa_32_n3" 63.0939
-cap "a_n164_n60#" "vdd" 3.5775
-cap "a3b3" "c14" 4.10176
-cap "a_n32_38#" "vdd" 13.2448
-cap "c14_inv_2" "fa_23_n1" 88.6503
-cap "c04_inv_2" "vss" 79.6211
-cap "vss" "res0_inv" 72.8183
-cap "fa_33_n1" "a_n164_n60#" 21.4496
-cap "c22" "s14_inv_3" 5.65194
+cap "vss" "s14_inv_3" 30.2136
+cap "vdd" "c11" 15.1036
+cap "s12" "c21_inv_3" 374.904
+cap "vss" "a3b3_inv_2" 72.8183
+cap "c22" "fa_32_n3" 5.8106
+cap "c14" "c23" 217.911
+cap "vss" "a1b0" 101.084
+cap "c03" "a_116_43#" 2.2638
+cap "c01_inv" "a_600_86#" 12.14
 cap "a2b0" "a_440_79#" 1.76934
+cap "a1b1" "a2b0_inv_1" 213.095
+cap "a3" "a3b3_inv_2" 150.194
 cap "a0" "a3b0_inv_0" 9.59692
 cap "b1" "a1b0_inv_0" 3.60092
-cap "c04_inv_2" "a3b2" 27.8275
-cap "c02_inv_2" "a2b0" 2.4025
-cap "a_n32_38#" "c04" 151.52
-cap "c14" "a_n94_n65#" 134.498
 cap "a2" "a_251_161#" 7.7195
-cap "fa_21_n1" "a_336_43#" 21.4496
-cap "c12_inv_2" "a3b0" 62.5901
-cap "a_n114_n65#" "vss" 19.855
-cap "res7" "vdd" 15.0391
-cap "vss" "a0b3_inv_0" 72.8183
-cap "vdd" "a0" 6.4152
-cap "res3_inv" "res3" 26.2853
-cap "a3b3_inv_3" "c23_inv_3_in" 330.548
-cap "a_n94_n65#" "a_n49_n15#" 9.278
+cap "vss" "res6" 91.1818
+cap "vdd" "s13" 31.7077
+cap "a_386_34#" "s13_inv_3" 2.4025
+cap "c12" "c12_inv_3" 151.046
+cap "s13" "c21_inv_3_in" 213.095
+cap "vss" "a2b0_inv_1" 5.9188
+cap "a_n114_n65#" "res6" 238.741
+cap "vdd" "a2b3" 148.01
+cap "vss" "a2b1" 156.142
+cap "s02" "a1b1_inv_1" 1.254
 cap "a1b2" "a_152_84#" 0.6105
 cap "a0b2" "fa_11_n3" 63.9282
 cap "a3" "a2b1" 9.5156
 cap "a2" "a3b0_inv_0" 3.86622
 cap "a1" "a0" 1263.74
 cap "b2" "a0b2" 3.2494
-cap "a_n32_38#" "c23" 1.922
 cap "b1" "a2b1_inv_0" 32.8459
 cap "b3" "a0b3_inv_0" 29.245
-cap "vdd" "a1b1" 24.2853
-cap "c11" "vdd" 4.639
-cap "c11_inv_2" "vss" 50.4671
-cap "s12" "vdd" 38.2594
-cap "c01_inv" "c01" 201.088
-cap "vss" "a_267_129#" 3.5775
-cap "vss" "a2b2_inv_0" 72.8183
-cap "vdd" "a2" 4.8114
-cap "a_343_n65#" "c21_inv_3_in" 98.2588
-cap "c23" "c14_inv_3" 25.7405
-cap "a_386_34#" "s03" 10.8234
-cap "fa_22_n3" "s04" 11.3786
-cap "fa_31_n1" "vdd" 204.387
+cap "c12_inv_3" "res4" 98.2588
+cap "vdd" "c22_inv_3" 13.1464
+cap "vdd" "c14" 40.3717
+cap "vss" "a_222_79#" 90.3531
+cap "a_186_38#" "s04_inv_2" 239.918
+cap "c14_inv_2" "a_n103_19#" 8.1898
+cap "a3b2" "a_n52_34#" 22.0247
+cap "c04" "c04_inv_2" 152.033
+cap "a2b3" "a2b3_inv_2" 163.575
+cap "a3b0" "a3b0_inv_2" 169.675
 cap "a1b2" "a_202_79#" 10.8234
 cap "a0b3" "c03_inv" 62.5901
 cap "a2" "a1" 20.7808
 cap "b2" "a1b3_inv_0" 5.88056
-cap "vdd" "a3" 34.047
-cap "c01_inv" "a0b1" 365.149
-cap "s14" "a3b1" 1.922
-cap "s13" "vdd" 7.4224
-cap "a3b1_inv_2" "s13" 98.2588
-cap "c01" "res2_inv" 96.2063
-cap "vss" "a_35_123#" 4.639
-cap "c13" "res5" 8.5613
-cap "c03_inv_2" "c03" 166.106
-cap "c21" "vss" 144.839
+cap "vss" "res3" 25.3563
+cap "vss" "a_406_38#" 90.3531
+cap "c13" "c22" 217.911
+cap "vdd" "fa_11_n1" 204.387
+cap "s12" "a_389_12#" 13.6956
+cap "vss" "c04" 164.326
+cap "vdd" "a0" 6.4152
 cap "a0" "a_576_161#" 1.1044
 cap "a0b1_inv_0" "a0b1" 165.611
-cap "c14" "vdd" 15.0391
-cap "ha21" "s02" 31.4647
-cap "a3b3" "a_n164_n60#" 0.6105
-cap "fa_23_n1" "a3b2" 21.5628
-cap "a_406_38#" "a_451_12#" 9.278
-cap "c23_inv_3_in" "vss" 5.9188
-cap "s14" "c23_inv_3" 153.874
-cap "a3b3_inv_3" "vdd" 13.2448
+cap "vss" "c12_inv_3" 79.6211
+cap "c22" "res5" 1.3816
+cap "vdd" "res2" 52.9192
+cap "fa_32_n3" "a_55_n21#" 5.7005
+cap "c11" "ha_31" 31.4647
+cap "s12" "a_502_n58#" 6.762
+cap "vss" "a_166_34#" 19.855
+cap "c14" "a_n111_n15#" 0.506
+cap "a3b3" "a3b3_inv_3" 16.5761
+cap "vdd" "c02_inv" 13.1464
+cap "vdd" "a2" 6.4152
+cap "a1b0" "c01" 12.9916
 cap "a0" "a1b0_inv_0" 10.7299
 cap "a0b2" "a1b1" 51.7226
 cap "a3" "a_147_161#" 7.6183
-cap "vdd" "c04_inv_1" 209.306
-cap "fa_11_n1" "vdd" 204.387
-cap "a_n32_38#" "a2b3_inv_2" 98.2588
-cap "c01" "vss" 8.1858
-cap "vdd" "a1b1_inv_0" 99.5424
-cap "vss" "a3b0" 80.4992
+cap "vss" "fa_32_n3" 192.704
+cap "a_n94_n65#" "a3b3_inv_3" 239.918
+cap "vdd" "fa_21_n1" 204.387
+cap "res7_inv" "fa_33_n1" 88.6503
+cap "vss" "res1_inv" 13.5914
+cap "vdd" "s04_inv_1" 5.8224
+cap "c13_inv_2" "fa_22_n3" 95.4651
+cap "vss" "a0b2" 147.12
+cap "a3b1" "c22" 52.855
+cap "s04" "fa_22_n1" 21.7234
+cap "c03" "s04_inv_2" 5.65194
 cap "a1b1" "a_420_79#" 8.94458
 cap "a0b2" "a_423_129#" 0.506
-cap "s12" "c21_inv_3" 374.904
 cap "c04_inv_1" "c04" 201.088
 cap "a2b0" "fa_11_n3" 5.8106
-cap "c22" "fa_32_n3" 5.8106
 cap "a2b3_inv_1" "a3b2" 10.3587
-cap "c14" "c23" 217.911
-cap "res2" "vdd" 52.9192
 cap "b1" "a0b2_inv_0" 3.60092
 cap "a1" "a1b1_inv_0" 144.78
 cap "a3" "a0b2" 11.6512
 cap "a1b2_inv_0" "a1b2" 165.203
-cap "c01_inv" "a_600_86#" 12.14
-cap "vdd" "a3b1_inv_0" 99.5424
-cap "vss" "a1b3" 102.401
+cap "vss" "ha21" 83.9052
+cap "s13" "a_323_n65#" 10.8234
+cap "a_406_38#" "c21" 1.922
+cap "vdd" "c03_inv_2" 153.696
+cap "res7_inv" "fa_33_n3" 95.4651
+cap "vss" "a_420_79#" 19.855
+cap "c13_inv_2" "c13" 78.9273
+cap "a_n32_38#" "a_13_12#" 9.278
+cap "vss" "a1b3_inv_0" 72.8183
+cap "a2b3" "s14" 3.51716
 cap "fa_12_n1" "a_152_84#" 21.4496
+cap "c04" "fa_23_n1" 5.568
+cap "a3b2" "c14_inv_2" 94.0828
 cap "a1b2" "a1b2_inv_1" 32.8031
-cap "a_386_34#" "s13_inv_3" 2.4025
-cap "c12" "c12_inv_3" 151.046
-cap "s13" "c21_inv_3_in" 213.095
-cap "a_386_34#" "c02" 13.5257
-cap "a_n114_n65#" "res6" 238.741
-cap "fa_21_n1" "vdd" 204.387
-cap "a_n170_18#" "a3" 4.9299
-cap "fa_22_n1" "a3b1" 5.568
-cap "c12_inv_2" "vss" 47.3442
 cap "a1" "a3b1_inv_0" 5.62015
 cap "b2" "a3b1" 3.2494
 cap "a2" "a2b1_inv_0" 154.22
-cap "vss" "a_202_79#" 19.855
-cap "c12_inv_3" "res4" 98.2588
+cap "c21" "c12_inv_3" 25.7405
+cap "vdd" "a_n164_n60#" 3.5775
+cap "vss" "fa_22_n3" 192.704
+cap "c11_inv_2" "ha21" 12.4304
+cap "vdd" "a_n52_34#" 13.2448
+cap "c11" "a_532_11#" 3.8684
+cap "vss" "c03_inv" 47.3442
+cap "vdd" "a1b1_inv_0" 99.5424
 cap "a1b2_inv_1" "a0b3_inv_1" 330.548
 cap "a_222_79#" "a_267_129#" 9.278
-cap "a_56_n60#" "vdd" 3.5775
-cap "a1b1_inv_1" "a1b1" 16.5761
-cap "a_186_38#" "s04_inv_2" 239.918
-cap "fa_11_n1" "a0b2" 5.568
-cap "c03_inv_2" "vdd" 153.696
-cap "c14_inv_2" "a_n103_19#" 8.1898
-cap "s04_inv_2" "vss" 30.2136
-cap "c01_inv" "vss" 50.4671
+cap "vss" "s13_inv_3" 30.2136
+cap "vdd" "res7" 15.0391
+cap "vss" "c13" 120.912
+cap "c12_inv_2" "a_335_19#" 8.1898
+cap "c02" "s13" 1.922
+cap "vdd" "a3b1_inv_0" 99.5424
+cap "s03" "fa_21_n1" 43.6741
+cap "a0b1" "ha11" 15.0836
+cap "a3b1" "c13_inv_2" 50.4985
 cap "b0" "a0b1_inv_0" 6.5147
-cap "c13" "a2b3" 68.3672
 cap "a1b1" "a2b0" 208.267
-cap "c13" "c22" 217.911
 cap "a1b2_inv_0" "a_293_161#" 9.278
-cap "s12" "a_389_12#" 13.6956
-cap "c13_inv_3" "vdd" 216.821
-cap "a_n52_34#" "vdd" 13.2448
-cap "vss" "a0b1_inv_0" 72.8183
-cap "c22" "res5" 1.3816
+cap "vss" "res5" 91.1818
+cap "vdd" "s12" 45.6818
+cap "vss" "a3b2_inv_2" 30.2136
+cap "s03_inv_2" "a3b0_inv_2" 330.548
+cap "vdd" "a2b1_inv_1" 216.821
+cap "a3b3" "res7_inv" 138.959
+cap "vss" "a2b0" 144.186
+cap "s04" "s13" 3.3506
+cap "c01_inv" "ha11" 12.4304
 cap "a1b1" "a_440_79#" 33.0923
 cap "c04" "a_35_123#" 3.8684
-cap "fa_32_n3" "a_55_n21#" 5.7005
-cap "c11" "ha_31" 31.4647
-cap "s12" "a_502_n58#" 6.762
-cap "c14" "a_n111_n15#" 0.506
 cap "a2" "a_104_161#" 0.253
 cap "b1" "a2b0_inv_0" 3.60092
-cap "a3b3" "a3b3_inv_3" 16.5761
 cap "a0" "a0b2_inv_0" 154.527
-cap "a_n52_34#" "c04" 13.5257
-cap "a3b2_inv_2" "a2b3" 5.65194
-cap "s03_inv_2" "a3b0" 5.65194
-cap "fa_33_n3" "vss" 192.704
-cap "res7_inv" "vdd" 13.1464
-cap "vss" "a1b2_inv_0" 72.8183
-cap "a_n94_n65#" "a3b3_inv_3" 239.918
-cap "res7_inv" "fa_33_n1" 88.6503
-cap "s13" "a3b1" 10.2137
+cap "vdd" "fa_31_n1" 204.387
+cap "s13" "a_343_n65#" 5.07856
+cap "c23" "a3b3_inv_3" 5.65194
+cap "c12" "fa_31_n3" 63.9282
+cap "vss" "a_440_79#" 90.3531
+cap "vdd" "a2b3_inv_1" 99.5424
+cap "fa_23_n3" "a_n103_19#" 5.7005
+cap "c01" "ha21" 5.568
+cap "vss" "a3b1" 149.279
 cap "a3" "a3b1" 9.5156
 cap "a2" "a0b2_inv_0" 5.11224
 cap "a1" "a1b2" 3.0976
 cap "b2" "a0b3" 30.6342
-cap "vdd" "a3b0" 134.443
-cap "s12" "vdd" 7.4224
-cap "c13_inv_2" "fa_22_n3" 95.4651
-cap "vss" "a1b2_inv_1" 30.2136
+cap "fa_32_n1" "a_56_n60#" 21.4496
+cap "c21" "s13_inv_3" 5.65194
+cap "vss" "a_231_12#" 3.5775
+cap "vdd" "c14_inv_2" 13.1464
+cap "vss" "a_205_129#" 3.5775
+cap "a3b1_inv_2" "a_186_38#" 91.4619
+cap "vdd" "a0b1" 36.8206
+cap "a3b0" "a_406_38#" 1.76934
+cap "a2b3" "a_n32_38#" 0.6908
 cap "c02_inv" "c02" 78.2027
-cap "s13" "a_323_n65#" 10.8234
-cap "a_406_38#" "c21" 1.922
 cap "a0b1_inv_0" "a_616_161#" 9.278
 cap "a1b2" "fa_12_n3" 11.3786
 cap "a2b1" "a_202_79#" 13.5257
-cap "vdd" "a_152_84#" 3.5775
-cap "c21_inv_3" "vss" 50.4671
-cap "res7_inv" "fa_33_n3" 95.4651
 cap "a2" "a2b2" 11.0912
-cap "vss" "b3" 1.6038
-cap "vdd" "a1b3" 36.8206
-cap "fa_11_n1" "a2b0" 64.7511
-cap "c01_inv" "a1b0" 90.9759
-cap "c13_inv_2" "c13" 78.9273
-cap "a_n32_38#" "a_13_12#" 9.278
-cap "vss" "a3b2" 45.2954
-cap "res1" "vss" 25.3563
-cap "c21" "c12_inv_3" 25.7405
+cap "vss" "res3_inv" 13.5914
+cap "s14_inv_3" "c22_inv_3_in" 330.548
+cap "a_126_n65#" "a_171_n15#" 9.278
+cap "vdd" "a3b3_inv_3" 13.2448
+cap "vss" "a_386_34#" 19.855
+cap "vdd" "c01_inv" 209.306
+cap "s03" "s12" 3.3506
+cap "vdd" "a1b2" 24.2853
+cap "a3b3_inv_2" "a3b3" 165.203
+cap "a_n52_34#" "s14" 238.741
+cap "c02" "fa_21_n1" 22.6762
 cap "a2b1_inv_1" "s03" 112.537
-cap "a_n49_12#" "c04" 0.506
-cap "a_186_38#" "c03" 1.76934
 cap "a0" "a_492_161#" 1.1044
-cap "c11_inv_2" "ha21" 12.4304
-cap "b3" "a3b2" 33.6657
 cap "a0b2_inv_0" "a_406_161#" 9.278
 cap "a1b3" "c04" 11.7832
-cap "vdd" "a_202_79#" 13.2448
-cap "c13_inv_2" "s04" 94.0828
-cap "c11" "a_532_11#" 3.8684
-cap "vss" "c03" 50.989
-cap "c22_inv_3_in" "vss" 5.9188
-cap "s14_inv_3" "vdd" 13.2448
 cap "a1b0_inv_0" "a0b1" 15.538
-cap "c14_inv_2" "vdd" 13.1464
-cap "a3b3" "vss" 114.47
+cap "b3" "a3b2" 33.6657
+cap "vss" "fa_31_n3" 192.704
+cap "a_106_n65#" "c13_inv_3" 336.976
+cap "vdd" "res2_inv" 5.8224
+cap "s12" "ha_31" 5.568
+cap "a3b3" "res6" 3.3506
+cap "c14" "c14_inv_3" 151.046
+cap "vdd" "a0b3_inv_1" 153.696
+cap "c02_inv_2" "s12" 99.988
+cap "a1b1" "a_370_84#" 0.6105
 cap "s04_inv_1" "s04" 28.0145
 cap "a2" "a_492_161#" 0.253
 cap "a0" "a2b0_inv_0" 9.59692
 cap "a0b2" "a3b0" 11.3966
-cap "c14_inv_2" "c04" 50.4985
 cap "a1" "a_293_161#" 4.9299
 cap "a3b0_inv_0" "b0" 29.245
-cap "c12_inv_2" "a_335_19#" 8.1898
-cap "a_n94_n65#" "vss" 90.3531
-cap "res6" "vdd" 7.4224
 cap "b1" "res0" 28.8563
-cap "c01_inv" "vdd" 209.306
-cap "vdd" "b0" 202.448
-cap "vss" "a3b0_inv_0" 72.8183
+cap "c21_inv_3" "res3" 29.5222
+cap "vss" "c22" 68.0808
+cap "c12" "res4" 8.5613
+cap "vdd" "a3b0_inv_2" 153.696
+cap "vss" "a0b3" 128.669
+cap "c03" "a3b1_inv_2" 25.7405
+cap "s04" "c03_inv_2" 213.095
+cap "a3b2" "fa_23_n3" 11.3786
 cap "a3b0" "a_420_79#" 33.0731
 cap "a1b1" "fa_11_n3" 11.3786
 cap "a3" "a0b3" 9.5156
 cap "a2" "a2b0_inv_0" 152.289
 cap "a1" "b0" 128.384
 cap "b1" "a0" 129.552
-cap "s03_inv_2" "a3b0_inv_2" 330.548
-cap "res2_inv" "vdd" 5.8224
-cap "a_389_12#" "vss" 3.5775
-cap "a3b3" "res7_inv" 138.959
 cap "a2b1_inv_0" "a1b2" 10.3587
-cap "c01_inv" "ha11" 12.4304
-cap "vss" "a0b2_inv_1" 79.6211
-cap "vdd" "b3" 257.331
-cap "vss" "a1" 6.4152
-cap "s13" "a_343_n65#" 5.07856
+cap "vdd" "a_56_n60#" 3.5775
+cap "vss" "a_451_12#" 3.5775
+cap "vdd" "a_186_38#" 13.2448
+cap "c23" "res7_inv" 62.5901
+cap "s13" "c22_inv_3" 153.874
+cap "vss" "fa_11_n3" 192.704
+cap "s14" "a_n49_12#" 13.6956
+cap "vss" "b2" 23.6872
+cap "a2b3" "c14" 38.44
+cap "c04" "a3b3" 1.922
 cap "a1b2" "s03" 3.3506
-cap "c12_inv_2" "s03" 91.8916
-cap "c23" "a3b3_inv_3" 5.65194
-cap "c12" "fa_31_n3" 63.9282
-cap "res3" "vdd" 52.9192
 cap "a1" "b3" 127.192
 cap "a2" "b1" 130.628
 cap "b2" "a3" 136.079
 cap "a1b3_inv_0" "a1b3" 165.203
-cap "res1_inv" "a0b1" 109.524
-cap "a3b0_inv_2" "vdd" 153.696
-cap "fa_23_n3" "a_n103_19#" 5.7005
-cap "c01" "ha21" 5.568
-cap "s03_inv_2" "vss" 30.2136
-cap "vss" "fa_12_n3" 192.704
+cap "vdd" "c13_inv_3" 216.821
+cap "c21" "fa_31_n3" 5.8106
+cap "vss" "c12" 121.076
+cap "c01" "res3_inv" 4.805
+cap "vdd" "res1" 52.9192
+cap "vss" "ha12" 83.9052
+cap "c02" "s12" 10.2137
+cap "vdd" "b0" 202.448
+cap "fa_23_n1" "a_n102_43#" 21.4496
 cap "a_222_79#" "a1b2_inv_1" 239.918
-cap "c21" "c02" 52.855
 cap "c03_inv" "a_152_84#" 6.762
-cap "fa_32_n1" "a_56_n60#" 21.4496
-cap "c21" "s13_inv_3" 5.65194
-cap "a_116_43#" "s04" 0.6105
 cap "a1b1_inv_0" "a_492_161#" 9.278
-cap "vdd" "a1b2_inv_1" 13.2448
-cap "c12_inv_3" "vdd" 216.821
-cap "a3b1_inv_2" "a_186_38#" 91.4619
-cap "a_186_38#" "vdd" 13.2448
-cap "a3b3_inv_2" "b3" 29.245
-cap "a3b1_inv_2" "vss" 79.6211
-cap "a2b0_inv_1" "vss" 5.9188
-cap "s14_inv_3" "c22_inv_3_in" 330.548
-cap "a_126_n65#" "a_171_n15#" 9.278
+cap "vss" "res4" 91.1818
+cap "c13_inv_3" "a_126_n65#" 91.4619
+cap "vdd" "res7_inv" 13.1464
+cap "vss" "c13_inv_2" 47.3442
+cap "vdd" "fa_12_n1" 204.387
+cap "s03" "a3b0_inv_2" 213.095
+cap "vdd" "b3" 354.676
+cap "a1b0" "ha11" 31.4647
 cap "a3b0" "a2b0" 8.636
 cap "a0" "res0" 6.4339
 cap "a3" "a_450_161#" 7.6183
 cap "b0" "a1b0_inv_0" 35.7597
-cap "a_370_84#" "c02_inv" 6.762
-cap "vdd" "a3b2" 67.4252
-cap "vss" "c04" 70.4762
-cap "fa_21_n3" "a3b0" 5.8106
-cap "a_106_n65#" "vss" 19.855
-cap "res1" "vdd" 52.9192
-cap "a3b3_inv_2" "a3b3" 165.203
-cap "a_n52_34#" "s14" 238.741
-cap "vss" "a1b0_inv_0" 72.8183
+cap "vss" "c04_inv_2" 79.6211
+cap "vdd" "c03" 162.733
+cap "a_406_38#" "s03_inv_2" 239.918
+cap "vss" "a1b1" 97.6882
+cap "c01_inv" "a_573_123#" 12.486
 cap "c04" "a3b2" 14.8968
 cap "a3b0" "a_440_79#" 7.546
-cap "c04_inv_1" "ha12" 12.4304
-cap "a_106_n65#" "c13_inv_3" 336.976
 cap "a3b2_inv_1" "a_n11_125#" 9.278
-cap "c11_inv_2" "s02" 100.911
-cap "s12" "ha_31" 5.568
-cap "a3b3" "res6" 3.3506
-cap "c02_inv_2" "a3b0" 25.7405
-cap "c04_inv_2" "a2b3" 23.0961
+cap "c04_inv_1" "ha12" 12.4304
 cap "a1" "a1b0" 3.0976
-cap "c14" "c14_inv_3" 151.046
 cap "a2b2_inv_0" "a_64_161#" 9.278
 cap "a0b3_inv_0" "a0b3" 165.203
 cap "b1" "a1b1_inv_0" 32.8459
-cap "c02_inv_2" "s12" 99.988
-cap "c23" "vss" 68.0808
-cap "vss" "a2b1_inv_0" 72.8183
-cap "c21_inv_3" "res3" 29.5222
-cap "a_336_43#" "s03" 0.6105
-cap "c12" "res4" 8.5613
-cap "c12_inv_2" "c02" 78.922
+cap "vss" "a_n114_n65#" 19.855
+cap "c23" "res6" 1.3816
+cap "c12" "c21" 217.192
+cap "fa_33_n3" "a_n165_n21#" 5.7005
+cap "vss" "a_423_129#" 3.5775
+cap "c13_inv_2" "a_116_43#" 6.762
+cap "vss" "a3" 450.614
+cap "c02_inv" "fa_11_n1" 88.6503
+cap "a1" "a2b0_inv_1" 2.13556
 cap "a2" "a0" 1035.57
 cap "a1" "a2b1" 3.0976
 cap "b2" "a0b3_inv_0" 5.88056
 cap "a3b1_inv_0" "b1" 29.245
-cap "vss" "s03" 91.1818
+cap "vdd" "s14_inv_3" 13.2448
+cap "c21" "res4" 1.3816
+cap "vss" "c11_inv_2" 50.4671
+cap "fa_31_n3" "a_272_n21#" 5.7005
+cap "s14" "a_56_n60#" 0.6105
+cap "vdd" "a3b3_inv_2" 99.5424
+cap "vdd" "a1b0" 10.4646
+cap "a_166_34#" "a3b1_inv_2" 336.976
+cap "a3b3_inv_2" "a_n170_18#" 9.278
+cap "a3b0" "a_386_34#" 1.76934
+cap "a2b3" "a_n52_34#" 1.59664
 cap "a2b1" "fa_12_n3" 48.3662
-cap "vdd" "a0b2_inv_1" 216.821
-cap "c21_inv_3_in" "vss" 5.9188
-cap "c23" "res7_inv" 62.5901
-cap "s13" "c22_inv_3" 153.874
-cap "s13_inv_3" "vdd" 13.2448
 cap "a2b2_inv_0" "b2" 35.1255
-cap "fa_11_n1" "a1b1" 21.5628
-cap "s14" "a_n49_12#" 13.6956
-cap "c13" "vdd" 25.3326
-cap "vss" "a3b2_inv_1" 72.8183
-cap "res1_inv" "vss" 13.5914
-cap "c21" "fa_31_n3" 5.8106
-cap "a_166_34#" "c03" 1.76934
-cap "s04_inv_2" "s04" 16.5761
-cap "c01" "s02" 323.612
-cap "c01" "res3_inv" 4.805
+cap "vdd" "res6" 7.4224
+cap "a_126_n65#" "s14_inv_3" 239.918
+cap "c23_inv_3" "a_56_n60#" 6.762
+cap "s14" "c13_inv_3" 4.46644
+cap "s12" "c11" 309.25
+cap "vdd" "a2b0_inv_1" 153.696
+cap "vss" "c04_inv_1" 50.4671
+cap "vdd" "a2b1" 25.3326
+cap "c04" "c23" 55.2575
 cap "a0" "a_406_161#" 7.77505
 cap "a1b0_inv_0" "a1b0" 166.187
-cap "fa_23_n3" "c04" 48.3662
-cap "a_126_n65#" "vss" 90.3531
-cap "res5" "vdd" 7.4224
-cap "a3b3_inv_2" "vdd" 99.5424
-cap "fa_23_n1" "a_n102_43#" 21.4496
-cap "a2b3_inv_2" "vss" 5.9188
-cap "c13_inv_3" "a_126_n65#" 91.4619
+cap "vss" "c21" 144.839
+cap "s12" "a_475_n21#" 2.398
+cap "c04_inv_2" "c23_inv_3_in" 4.805
+cap "vdd" "a_222_79#" 13.2448
+cap "c12_inv_2" "c12" 78.9273
+cap "vss" "res0_inv" 72.8183
+cap "res1_inv" "ha11" 97.0409
 cap "c04_inv_1" "a_62_86#" 12.14
 cap "a2" "a_406_161#" 0.253
 cap "a0" "a1b1_inv_0" 10.7299
 cap "b1" "a0b1" 4.1129
-cap "a2b3_inv_2" "a3b2" 212.814
-cap "fa_23_n1" "a2b3" 64.7511
-cap "a_n111_n15#" "vss" 3.5775
-cap "a2b0_inv_1" "vdd" 153.696
-cap "vss" "a0b2_inv_0" 72.8183
-cap "a_336_43#" "c02" 1.4223
+cap "c21_inv_3" "res3_inv" 185.886
+cap "vdd" "res3" 52.9192
+cap "vss" "c23_inv_3_in" 5.9188
+cap "vdd" "a_406_38#" 13.2448
+cap "vss" "c01" 102.036
+cap "a_n111_n15#" "res6" 9.278
+cap "s13" "fa_31_n1" 21.5628
+cap "vdd" "c04" 68.034
+cap "vss" "a0b3_inv_0" 72.8183
+cap "s04" "a_186_38#" 5.07856
+cap "a1b1_inv_1" "a2b0_inv_1" 330.548
+cap "a_440_79#" "a_485_129#" 9.278
 cap "a0b2" "a0b2_inv_1" 151.046
 cap "a2b3_inv_1" "a2b3" 165.203
 cap "a2" "a1b1_inv_0" 5.11224
 cap "a1" "a0b2" 3.0976
-cap "a_406_38#" "s03_inv_2" 239.918
 cap "a2b1_inv_0" "a2b1" 166.298
-cap "fa_21_n3" "vss" 192.704
 cap "b1" "a1b2" 37.7786
 cap "b2" "a3b0" 25.2493
-cap "c01_inv" "a_573_123#" 12.486
-cap "vss" "c02" 17.0918
-cap "vdd" "a1b3_inv_0" 99.5424
-cap "vss" "a2b2" 85.8662
+cap "vdd" "c12_inv_3" 216.821
+cap "c22_inv_3" "fa_31_n1" 88.6503
+cap "vdd" "a_166_34#" 13.2448
+cap "vss" "a_267_129#" 3.5775
+cap "c13" "fa_32_n1" 5.568
+cap "c01" "c11_inv_2" 379.862
+cap "vss" "a2b2_inv_0" 72.8183
+cap "c04" "a2b3_inv_2" 25.1758
 cap "a_420_79#" "a0b2_inv_1" 336.976
+cap "a3b0" "c12" 40.362
 cap "c02_inv" "a_369_123#" 8.1898
-cap "c23" "res6" 1.3816
+cap "a2b3" "c14_inv_2" 62.5901
+cap "a3b2" "a3b2_inv_2" 14.9701
 cap "a0b3" "a_202_79#" 1.57547
 cap "a2b1" "s03" 8.5613
-cap "ha_31" "vss" 83.9052
-cap "s03_inv_2" "s03" 16.5761
-cap "c12" "c21" 217.192
-cap "fa_22_n3" "c03" 5.8106
-cap "fa_33_n3" "a_n165_n21#" 5.7005
-cap "res3_inv" "vdd" 5.8224
 cap "a2" "a3b1_inv_0" 3.97924
 cap "a1b3_inv_0" "a1" 139.16
-cap "a_166_34#" "a2b1" 2.4025
-cap "a_186_38#" "a3b1" 134.498
-cap "a_406_38#" "vdd" 13.2448
-cap "c13_inv_2" "a_116_43#" 6.762
-cap "vss" "a3b1" 69.44
-cap "c02_inv_2" "vss" 79.6211
 cap "b2" "a1b3" 53.7479
-cap "vss" "s04" 25.3563
-cap "c21" "res4" 1.3816
-cap "fa_31_n3" "a_272_n21#" 5.7005
-cap "s14" "a_56_n60#" 0.6105
-cap "c13" "c03" 34.596
-cap "a1b3" "ha12" 21.0131
-cap "vdd" "s03" 183.271
-cap "a_323_n65#" "vss" 19.855
-cap "a_166_34#" "a3b1_inv_2" 336.976
-cap "a_166_34#" "vdd" 13.2448
-cap "a3b3_inv_2" "a_n170_18#" 9.278
-cap "s14" "vss" 238.544
-cap "s04" "c03" 292.529
-cap "a_126_n65#" "s14_inv_3" 239.918
-cap "c03_inv" "fa_12_n3" 95.4651
-cap "c23_inv_3" "a_56_n60#" 6.762
-cap "s14" "c13_inv_3" 4.46644
-cap "s14" "a3b2" 3.3506
-cap "a3b0" "a1b1" 8.636
-cap "a0" "a0b1" 6.4339
-cap "a2" "a2b3_inv_1" 158.191
-cap "c11" "a3b0" 47.5345
-cap "s12" "c11" 309.25
-cap "b0" "a2b0_inv_0" 35.7597
-cap "vdd" "a3b2_inv_1" 99.5424
-cap "c23_inv_3" "vss" 46.5225
-cap "c22" "vdd" 115.223
-cap "res1_inv" "vdd" 5.8224
-cap "vss" "a2b0_inv_0" 72.8183
-cap "a_389_12#" "c02" 0.506
-cap "a2b0" "a0b2_inv_1" 22.0005
-cap "s12" "a_475_n21#" 2.398
-cap "c04_inv_1" "a_35_123#" 12.486
-cap "a_169_12#" "a3b1" 0.506
-cap "a3" "a3b0" 9.5156
-cap "a1" "a2b0" 3.0976
-cap "b1" "b0" 408.361
-cap "c04_inv_2" "c23_inv_3_in" 4.805
-cap "c12_inv_2" "c12" 78.9273
-cap "a_532_11#" "vss" 4.639
-cap "a1b2_inv_0" "a0b3" 7.769
-cap "res1_inv" "ha11" 97.0409
-cap "vss" "s02" 91.1818
-cap "vss" "b1" 6.4152
-cap "a0b2_inv_1" "a_440_79#" 91.4619
-cap "c21_inv_3" "res3_inv" 185.886
-cap "a0b3" "a1b2_inv_1" 5.65194
-cap "a_n111_n15#" "res6" 9.278
-cap "s13" "fa_31_n1" 21.5628
-cap "a1b3" "a3" 11.8945
-cap "a2" "a1b2" 11.0912
-cap "a1" "a3b1" 3.0976
-cap "b3" "b1" 7.67008
-cap "b2" "a1b2_inv_0" 35.1255
-cap "a_13_12#" "vss" 3.5775
-cap "c12" "vdd" 25.3326
-cap "a1b1_inv_1" "a2b0_inv_1" 330.548
-cap "c22_inv_3" "fa_31_n1" 88.6503
-cap "a3b1" "fa_12_n3" 3.0384
-cap "a1b3" "a_62_86#" 6.762
-cap "vdd" "c02" 99.4947
-cap "a_343_n65#" "vss" 90.3531
-cap "c13" "fa_32_n1" 5.568
-cap "res4" "vdd" 7.4224
-cap "c01" "c11_inv_2" 379.862
-cap "a2b0_inv_1" "a2b0" 168.195
-cap "vdd" "a2b2" 10.4646
-cap "c13" "vdd" 15.0391
-cap "vss" "a2b3" 45.2954
-cap "a3b1_inv_2" "s04" 4.46644
-cap "b0" "res0" 3.5024
+cap "vss" "c12_inv_2" 47.3442
+cap "vdd" "res1_inv" 5.8224
 cap "s14" "s14_inv_3" 16.5761
-cap "a1b3" "c04_inv_1" 369.337
-cap "a0b3_inv_0" "a_337_161#" 9.278
-cap "vdd" "s04" 135.174
-cap "a2b0_inv_1" "a_440_79#" 98.2588
+cap "vss" "a_35_123#" 4.639
 cap "fa_21_n3" "a_335_19#" 5.7005
 cap "c11_inv_2" "a_559_43#" 12.14
-cap "a_109_n15#" "vss" 3.5775
 cap "c13" "a_106_n65#" 13.5257
-cap "a2b0_inv_0" "a1b0" 8.87886
+cap "vdd" "a0b2" 25.3326
 cap "c14_inv_2" "c14" 78.9273
-cap "a3b2_inv_2" "vdd" 13.2448
-cap "a_n32_38#" "vss" 90.3531
-cap "vss" "res0" 45.2954
+cap "a1b3" "ha12" 21.0131
 cap "c22" "c22_inv_3_in" 166.106
 cap "a_106_n65#" "res5" 238.741
-cap "a2" "a_293_161#" 0.253
-cap "b1" "a1b0" 4.1129
-cap "a3b2_inv_2" "c04" 23.8426
-cap "a_n32_38#" "a3b2" 8.78736
-cap "a0" "b0" 128.701
-cap "a1b3_inv_0" "a_104_161#" 9.278
-cap "a0b2_inv_0" "a0b2" 165.806
+cap "vss" "s04_inv_2" 30.2136
+cap "vdd" "a_420_79#" 13.2448
 cap "fa_22_n3" "a_115_19#" 5.7005
-cap "fa_21_n1" "a3b0" 64.7511
-cap "c14_inv_3" "vss" 79.6211
-cap "a_n114_n65#" "vdd" 13.2448
-cap "vss" "a0" 18.689
-cap "fa_21_n3" "s03" 11.3786
-cap "b1" "a2b1" 4.1129
-cap "b3" "a0" 126.666
-cap "a2" "b0" 128.958
-cap "a1" "a0b3" 6.88556
-cap "c02_inv_2" "a_406_38#" 91.4619
-cap "c11" "vss" 169.447
-cap "vss" "c02_inv" 47.3442
-cap "vdd" "b2" 164.614
-cap "vss" "a2" 57.1134
-cap "s13_inv_3" "c21_inv_3_in" 330.548
-cap "a_343_n65#" "a_388_n15#" 9.278
-cap "c02_inv_2" "s03" 4.46644
-cap "a1b2" "a2b1_inv_1" 4.46644
-cap "c12" "c03" 48.8337
-cap "res0_inv" "a_659_161#" 9.278
-cap "a0b3" "fa_12_n3" 5.8106
-cap "vdd" "s02" 130.886
-cap "a_475_n21#" "vss" 4.639
-cap "a_273_n60#" "vdd" 3.5775
-cap "vss" "a3" 1.6038
-cap "b2" "a1" 128.163
-cap "a2" "b3" 136.694
-cap "c01" "a0b1" 11.7832
-cap "a_386_34#" "vdd" 13.2448
-cap "s13" "vss" 238.544
-cap "a_166_34#" "a3b1" 13.5257
-cap "c01" "a_559_43#" 6.762
-cap "a2b2_inv_0" "a1b3" 15.538
-cap "vss" "s04_inv_1" 13.5914
-cap "a_323_n65#" "c12_inv_3" 336.976
-cap "a_205_129#" "s03" 9.278
-cap "c13" "a_126_n65#" 134.498
-cap "res2_inv" "res2" 26.2853
-cap "a3b0_inv_0" "a_450_161#" 9.278
-cap "a0" "a_616_161#" 6.955
-cap "c13_inv_2" "c03" 64.3765
-cap "c22_inv_3" "vss" 46.5225
-cap "c21" "vdd" 104.822
-cap "a_n102_43#" "vdd" 3.5775
-cap "c14" "vss" 120.912
-cap "c22" "fa_32_n1" 64.7511
-cap "s12" "a3b0" 6.1866
-cap "a_n49_n15#" "vss" 3.5775
-cap "c23_inv_3_in" "vdd" 153.696
-cap "s14" "fa_32_n3" 22.8126
-cap "a0" "a1b0" 9.1974
-cap "b0" "a1b1_inv_0" 6.5147
-cap "vdd" "a2b3" 148.01
-cap "a3b0_inv_0" "a1b1" 10.3587
-cap "a3b2_inv_2" "a2b3_inv_2" 330.548
-cap "a_370_84#" "vdd" 3.5775
-cap "vss" "a1b1_inv_0" 72.8183
-cap "c22" "a_106_n65#" 1.76934
-cap "a1b1" "a0b2_inv_1" 4.46644
-cap "a0b2" "s02" 8.5646
-cap "a2b3" "c04" 227.987
-cap "c11_inv_2" "c21_inv_3" 1.60167
-cap "fa_21_n3" "c02" 48.3662
-cap "c23_inv_3" "fa_32_n3" 93.9306
-cap "a3b3" "a_n114_n65#" 10.8234
-cap "c14" "res7_inv" 50.4985
-cap "a_386_34#" "a0b2" 2.4025
-cap "a_n52_34#" "a3b3_inv_3" 4.805
-cap "fa_22_n3" "a3b1" 48.3662
-cap "s13" "a_169_12#" 13.6956
-cap "res2" "vss" 25.3563
-cap "a1" "a1b1" 3.0976
-cap "b1" "a0b2" 4.1129
-cap "a3" "a3b0_inv_0" 150.354
-cap "vss" "a3b1_inv_0" 72.8183
-cap "vdd" "a3" 3.2076
-cap "a_420_79#" "s02" 241.766
-cap "a0b3" "s03" 263.262
-cap "a1b2" "a0b3_inv_1" 222.997
-cap "c02_inv_2" "c02" 151.046
-cap "c14_inv_3" "res6" 98.2588
-cap "a_600_86#" "a0b1" 6.762
-cap "c12" "vdd" 15.0391
-cap "a2" "a2b1" 11.0912
-cap "a1" "a3" 17.8796
-cap "b2" "a2b1_inv_0" 5.88056
-cap "vss" "a2b1_inv_1" 79.6211
-cap "c12_inv_3" "a_343_n65#" 91.4619
-cap "c21" "c21_inv_3" 201.088
-cap "a3b1" "s04" 12.7378
-cap "a_116_43#" "c03" 2.2638
-cap "a2b0_inv_0" "a_533_161#" 9.278
-cap "vdd" "c02_inv" 13.1464
-cap "a_326_n15#" "vss" 3.5775
-cap "s14" "c13" 4.10176
-cap "a2b0_inv_1" "a1b1" 213.095
-cap "a3b3_inv_2" "a3" 150.194
-cap "c13_inv_2" "vdd" 13.1464
-cap "a_186_38#" "c03_inv_2" 98.2588
-cap "c03_inv_2" "vss" 5.9188
-cap "vdd" "a2" 1.6038
-cap "vss" "a2b3_inv_1" 72.8183
-cap "c01" "vss" 93.8501
-cap "c03_inv" "a_151_123#" 8.1898
-cap "a1b1_inv_1" "s02" 1.254
-cap "s14" "res5" 3.3506
-cap "c13" "c23_inv_3" 52.1859
-cap "a2b0_inv_0" "a2b0" 165.611
-cap "b3" "a2b3_inv_1" 38.5155
-cap "b2" "a3b2_inv_1" 38.5155
-cap "vdd" "s04_inv_1" 5.8224
-cap "fa_33_n1" "vdd" 204.387
-cap "b0" "a0b1" 54.0009
-cap "a3b3_inv_2" "c14" 7.769
-cap "c04_inv_2" "vdd" 216.821
-cap "a_n52_34#" "vss" 19.855
-cap "vdd" "res0_inv" 99.5424
-cap "vss" "a0b1" 91.7437
-cap "c22" "a_126_n65#" 1.76934
-cap "a2b0" "s02" 326.551
-cap "c14" "res6" 8.5613
-cap "a2" "a_147_161#" 0.1012
-cap "a0" "a0b2" 8.6447
-cap "a_n52_34#" "a3b2" 22.0247
-cap "res7" "vss" 17.0918
-cap "c04_inv_2" "c04" 152.033
-cap "a2b3_inv_2" "a2b3" 163.575
-cap "a3b0_inv_2" "a3b0" 169.675
-cap "a3b3" "c23_inv_3_in" 213.095
-cap "c12_inv_2" "a_336_43#" 6.762
-cap "b1" "a2b0" 44.5117
-cap "vdd" "a0b3_inv_0" 99.5424
-cap "vss" "a1b2" 97.6882
-cap "s02" "a_440_79#" 1.254
-cap "res3_inv" "ha_31" 97.0409
-cap "a_n94_n65#" "c23_inv_3_in" 98.2588
-cap "res7_inv" "a_n164_n60#" 6.762
-cap "a0b2" "c02_inv" 50.4985
-cap "a0b3" "c02" 68.3672
-cap "a1b2" "fa_12_n1" 21.5628
-cap "a2" "a0b2" 11.0912
-cap "a1" "a0b3_inv_0" 5.62015
-cap "a_386_34#" "c02_inv_2" 336.976
-cap "b2" "a0b2_inv_0" 35.1255
-cap "c11_inv_2" "vdd" 209.306
-cap "c13_inv_2" "a_115_19#" 8.1898
-cap "s12" "vss" 220.807
-cap "vss" "a3b0" 50.989
-cap "vss" "a0b3_inv_1" 5.9188
-cap "vdd" "a2b2_inv_0" 99.5424
-cap "a_343_n65#" "s13_inv_3" 239.918
-cap "c23" "a_n114_n65#" 1.76934
-cap "s13" "c12_inv_3" 4.46644
-cap "res7_inv" "res7" 73.9668
-cap "c21_inv_3" "vdd" 209.306
-cap "a2b1" "a2b1_inv_1" 160.418
-cap "a1b2" "c03" 2.4025
-cap "a2" "a1b3_inv_0" 5.11224
-cap "b2" "a2b2" 3.2494
-cap "c01" "a1b0" 12.9916
-cap "a_116_43#" "vdd" 3.5775
-cap "a_166_34#" "s13" 240.47
-cap "a_n49_12#" "vss" 3.5775
+cap "s03" "a_406_38#" 5.07856
+cap "vdd" "a1b3_inv_0" 99.5424
 device mosfet pmos 530 -61 531 -60 2 25 "vdd" "res3_inv" 4 0 "vdd" 25 0 "res3" 25 0
 device mosfet pmos 517 -49 518 -48 2 13 "vdd" "c21_inv_3" 4 0 "res3_inv" 13 0 "vdd" 13 0
 device mosfet pmos 507 -58 508 -57 2 25 "vdd" "s12" 4 0 "a_502_n58#" 25 0 "res3_inv" 25 0
@@ -2055,93 +2032,92 @@ device mosfet pmos 89 187 90 188 2 18 "vdd" "a1b3_inv_0" 4 0 "a1b3" 18 0 "vdd" 1
 device mosfet pmos 69 194 70 195 2 13 "vdd" "b2" 4 0 "a2b2_inv_0" 13 0 "vdd" 13 0
 device mosfet pmos 59 194 60 195 2 13 "vdd" "a2" 4 0 "vdd" 13 0 "a2b2_inv_0" 13 0
 device mosfet pmos 49 187 50 188 2 18 "vdd" "a2b2_inv_0" 4 0 "a2b2" 18 0 "vdd" 18 0
-subcap "c14_inv_3" -73.1907
-subcap "c23" -197.262
-subcap "fa_23_n3" -6.9974
-subcap "c14" -166.412
+subcap "c23" -207.065
+subcap "c14" -182.574
 subcap "c14_inv_2" -61.9817
 subcap "a3b3" -238.5
 subcap "a3b3_inv_2" -50.0811
 subcap "b3" -511.843
-subcap "c23_inv_3_in" -19.7661
+subcap "c23_inv_3_in" -25.3319
+subcap "res6" -7.7046
+subcap "a3b2" -219.131
 subcap "a2b3" -263.268
-subcap "c22" -252.455
-subcap "c13" -183.286
-subcap "c13_inv_2" -60.7489
+subcap "c22" -257.386
+subcap "c13" -185.334
 subcap "c22_inv_3_in" -80.282
 subcap "c13_inv_3" -2.4656
-subcap "fa_31_n3" -4.2839
-subcap "c22_inv_3" -0.5466
-subcap "c21" -277.587
+subcap "fa_31_n3" -5.0691
+subcap "c22_inv_3" -1.6398
 subcap "c21_inv_3_in" -82.4684
 subcap "c12_inv_3" -2.4656
+subcap "c12" -27.0948
 subcap "c12_inv_2" -61.9817
 subcap "a3b0" -267.273
-subcap "c21_inv_3" -63.7578
-subcap "c11" -115.492
+subcap "c21_inv_3" -61.7225
 subcap "res3_inv" -2.4656
-subcap "res2_inv" -69.3349
-subcap "a3" -330.335
+subcap "res2_inv" -72.0679
+subcap "c11" -26.8336
+subcap "a3" -329.441
 subcap "s14" -198.892
-subcap "a_n32_38#" -66.9337
-subcap "c04_inv_2" -12.6573
+subcap "a_n32_38#" -76.2961
+subcap "c04_inv_2" -20.6091
 subcap "a_n52_34#" -14.7558
 subcap "c04" -193.333
-subcap "a3b2_inv_1" -20.4401
+subcap "a3b2_inv_1" -25.9395
 subcap "a2b3_inv_1" -17.4186
 subcap "a2" -361.094
-subcap "vss" -1380.13
-subcap "a2b3_inv_2" -18.7369
-subcap "a3b2_inv_2" -39.7096
-subcap "s04_inv_1" -49.7786
-subcap "c04_inv_1" -21.8193
-subcap "a1b3" -47.0806
-subcap "a2b2" -50.7845
-subcap "b2" -312.392
-subcap "s13" -198.892
+subcap "a2b3_inv_2" -6.8269
+subcap "a3b2_inv_2" -6.5536
+subcap "c04_inv_1" -82.9428
+subcap "a1b3" -53.3335
+subcap "a2b2" -61.5439
+subcap "b2" -320.008
+subcap "s13" -197.799
 subcap "a3b1_inv_2" -71.0043
-subcap "a_166_34#" -20.3021
+subcap "a_166_34#" -27.2344
 subcap "c03" -240.202
 subcap "c03_inv" -19.3325
-subcap "s04" -97.9323
+subcap "s04" -98.5065
 subcap "a0b3" -300.756
-subcap "a1b2" -132.84
-subcap "a2b1" -184.864
-subcap "c03_inv_2" -18.7369
-subcap "s04_inv_2" -39.7096
+subcap "a1b2" -133.319
+subcap "a2b1" -189.645
+subcap "c03_inv_2" -6.8269
+subcap "s04_inv_2" -6.5536
+subcap "a_186_38#" -8.9388
 subcap "a0b3_inv_1" -80.282
-subcap "a1b2_inv_1" -48.3744
+subcap "a1b2_inv_1" -45.3681
 subcap "a_222_79#" -34.3339
 subcap "s03" -203.354
 subcap "a2b1_inv_1" -36.175
 subcap "a_202_79#" -45.8496
-subcap "c02_inv_2" -71.0043
 subcap "c02" -157.481
 subcap "c02_inv" -20.7802
 subcap "a2b0" -300.069
-subcap "a1b1" -140.158
-subcap "a0b2" -229.179
-subcap "a3b0_inv_2" -44.2901
-subcap "a_406_38#" -34.3339
-subcap "a2b0_inv_1" -80.282
-subcap "a1b1_inv_1" -45.9841
-subcap "a_440_79#" -11.9408
+subcap "a1b1" -140.54
+subcap "s12" -101.008
+subcap "a3b0_inv_2" -30.5131
+subcap "s03_inv_2" -6.5536
+subcap "a_406_38#" -8.9388
+subcap "c02_inv_2" -7.6468
+subcap "a_386_34#" -6.5536
+subcap "a2b0_inv_1" -82.4684
+subcap "a_440_79#" -15.1412
 subcap "s02" -116.828
 subcap "a0b2_inv_1" -13.0694
 subcap "a_420_79#" -14.7558
-subcap "c11_inv_2" -20.0657
+subcap "a0b2" -183.608
+subcap "c11_inv_2" -66.3283
 subcap "c01" -23.7869
-subcap "c01_inv" -82.9428
-subcap "a0b1" -96.6047
-subcap "res1" -11.8041
-subcap "res1_inv" -7.1006
-subcap "vdd" -1047.9
-subcap "a3b1" -228.055
+subcap "c01_inv" -80.7564
+subcap "a0b1" -97.6979
+subcap "res1" -13.3745
+subcap "ha11" -1.0932
+subcap "res1_inv" -72.0679
+subcap "a3b1" -224.811
 subcap "b1" -291.209
 subcap "a1" -293.204
-subcap "a1b2_inv_0" -13.0239
 subcap "fa_11_n3" -4.2839
 subcap "a0" -216.312
-subcap "a1b1_inv_0" -13.0239
 subcap "b0" -215.279
-subcap "a1b0" -108.223
+subcap "a1b0" -109.18
+subcap "a1b0_inv_0" -1.4663

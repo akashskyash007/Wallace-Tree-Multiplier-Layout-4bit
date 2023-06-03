@@ -407,6 +407,7 @@ n s04 s04_inv_2 vss 2 13 256 17
 p a1b3_inv_0 a1b3 vdd 2 18 89 187
 n a1b3 s04_inv_1 ha12 2 14 70 123
 n s13 s13_inv_3 vss 2 13 413 -19
+C vdd vss 12.48
 R a_502_n58# 37
 R res3 54
 R ha_31 55
@@ -603,6 +604,7 @@ R a2b2 446
 R b2 828
 R a2 830
 R a2b2_inv_0 199
-C vdd GND 2.47
-R vdd 58296
-R vss 38019
+C vss GND 3.80
+R vss 38055
+C vdd GND 4.59
+R vdd 58333
